@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>256404</id>
+  <Actors>||</Actors>
+  <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
+  <Airs_Time>10:00 PM</Airs_Time>
+  <ContentRating></ContentRating>
+  <FirstAired>2012-03-18</FirstAired>
+  <Genre>|Game Show|Reality|</Genre>
+  <IMDB_ID>tt2230805</IMDB_ID>
+  <Language>de</Language>
+  <Network>Discovery</Network>
+  <NetworkID></NetworkID>
+  <Overview>Genie und Wahnsinn â€“ Wie eng diese beiden Eigenschaften miteinander verbunden sind, weiÃŸ kaum jemand besser, als Adam Savage und Jamie Hyneman. Jetzt haben die erfahrenen WissensjÃ¤ger, die aus der Serie â€œMythbustersâ€ bekannt sind, eine neue Show ins Leben gerufen, um der nÃ¤chsten experimentierfreudigen Forschergeneration ein paar Tipps mit auf den Weg zu geben. Ganz gleich ob Raketenwissenschaftler, Hobby-Ingenieur, Motorradmechaniker oder Pyrotechniker: In jeder Folge der neuen Serie treten zwei Teams mit vÃ¶llig verrÃ¼ckten Versuchsaufbauten gegeneinander an. Das Ziel dabei: MÃ¶glichst komplexe und gleichzeitig spektakulÃ¤re Kettenreaktionen auslÃ¶sen! Fliegende KÃ¼hlschrÃ¤nke, explodierende Bowlingkugeln, ein Riesenkatapult oder Bungee springende Crash-Test-Dummies stehen bei der Experten-Jury hoch im Kurs. Erlaubt ist, was funktioniert. Am Ende beurteilt das Forscher-Duo die abgefahrenen Apparaturen im Hinblick auf Innovation und KreativitÃ¤t und kÃ¼rt dann die glÃ¼cklichen Gewinner.</Overview>
+  <Rating>6.5</Rating>
+  <RatingCount>4</RatingCount>
+  <Runtime>60</Runtime>
+  <SeriesID>158338</SeriesID>
+  <SeriesName>VerrÃ¼ckte Maschinen mit Adam und Jamie</SeriesName>
+  <Status>Ended</Status>
+  <added>2012-02-24 07:28:38</added>
+  <addedBy>359472</addedBy>
+  <banner>graphical/256404-g.jpg</banner>
+  <fanart>fanart/original/256404-2.jpg</fanart>
+  <lastupdated>1409810141</lastupdated>
+  <poster>posters/256404-2.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
+  <zap2it_id>EP01525592</zap2it_id>
+</Series>
+<Episode>
+  <id>4275750</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>David Dryden</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Schwer oder leicht?</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2012-03-18</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Adam and Jamie challenge electronics experts and set carpenters to build the most creative multi-step &quot;heavy-vs-light&quot; themed machine.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/256404/4275750.jpg</filename>
+  <lastupdated>1346823072</lastupdated>
+  <seasonid>486336</seasonid>
+  <seriesid>256404</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4288699</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Feuer und Eis</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2012-03-25</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Rocket scientists and special-effects artists go head-to-head in their effort to build the very best fire-and-ice themed machine.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/256404/4288699.jpg</filename>
+  <lastupdated>1346823094</lastupdated>
+  <seasonid>486336</seasonid>
+  <seriesid>256404</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4296035</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Schneller als der Schall</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2012-04-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Horror movie-effects specialists battle motorcycle mechanics in the fight to build the meanest speed-themed machine.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>7</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/256404/4296035.jpg</filename>
+  <lastupdated>1346823116</lastupdated>
+  <seasonid>486336</seasonid>
+  <seriesid>256404</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4288700</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Helden der LÃ¼fte</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2012-04-08</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>A team of engineers goes up against a group of artists in this flight-themed build. Will their machines get off of the ground? Or crash and burn?</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/256404/4288700.jpg</filename>
+  <lastupdated>1346823137</lastupdated>
+  <seasonid>486336</seasonid>
+  <seriesid>256404</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4299634</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Im Werkzeughimmel</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2012-04-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Designers and construction workers square off to build the most impressive multi-step tool-themed machines, but tensions rise amongst both groups and one team finds itself at odds with its machine.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/256404/4299634.jpg</filename>
+  <lastupdated>1346823152</lastupdated>
+  <seasonid>486336</seasonid>
+  <seriesid>256404</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4299635</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Das Kino-Special</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2012-04-22</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Rick Baker is the guest judge as Team InSaign (metal workers) and Team Fail Fail Fail Win (multi-media artists) fight for best machine.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/256404/4299635.jpg</filename>
+  <lastupdated>1346823174</lastupdated>
+  <seasonid>486336</seasonid>
+  <seriesid>256404</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+</Data>

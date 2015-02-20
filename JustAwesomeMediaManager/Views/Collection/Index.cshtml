@@ -1,0 +1,29 @@
+﻿@model JustAwesomeMediaManager.Controllers.CollectionProgressModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Your Collection</h2>
+
+@foreach(var tvs in Model.AllSeries)
+{
+    <div class="panel panel-default">
+        <div class="panel-heading">@tvs.Title</div>
+        <div class="panel-body">
+            
+            @foreach (var season in tvs.Episodes.Keys)
+            {
+                if (season == 0) { continue; }
+                    
+                int perc = (int)(((double)tvs.Episodes[season].Where(x => x.Value == true).Count() / (double)tvs.Episodes[season].Count) * 100.0);
+                <div>
+                    <div style="float:left; width:75px;">Season @season</div>
+                    <div class="progress">
+                        <div class="progress-bar" role="progressbar" aria-valuenow="@perc" aria-valuemin="0" aria-valuemax="100" style="width: @perc%;">@perc%</div>
+                    </div>
+                </div>
+            }
+
+        </div>
+    </div>
+}

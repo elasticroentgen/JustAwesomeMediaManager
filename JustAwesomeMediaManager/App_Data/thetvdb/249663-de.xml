@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>249663</id>
+  <Actors>|James May|</Actors>
+  <Airs_DayOfWeek>Monday</Airs_DayOfWeek>
+  <Airs_Time>22:00</Airs_Time>
+  <ContentRating></ContentRating>
+  <FirstAired>2011-06-20</FirstAired>
+  <Genre>|Documentary|</Genre>
+  <IMDB_ID>tt2079863</IMDB_ID>
+  <Language>de</Language>
+  <Network>BBC Two</Network>
+  <NetworkID></NetworkID>
+  <Overview>James May goes on an intriguing journey to answer the big questions in life as he investigates the universe, the human body and the weather</Overview>
+  <Rating>8.0</Rating>
+  <RatingCount>3</RatingCount>
+  <Runtime>30</Runtime>
+  <SeriesID></SeriesID>
+  <SeriesName>James May's Things You Need to Know</SeriesName>
+  <Status>Ended</Status>
+  <added>2011-06-20 13:16:43</added>
+  <addedBy>227941</addedBy>
+  <banner>graphical/249663-g2.jpg</banner>
+  <fanart>fanart/original/249663-1.jpg</fanart>
+  <lastupdated>1415579193</lastupdated>
+  <poster>posters/249663-1.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
+  <zap2it_id></zap2it_id>
+</Series>
+<Episode>
+  <id>4119299</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Emma Parkins</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>about the Human Body</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2011-06-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Do you ever stop to contemplate the wonder of your body? Well, neither had James May - until he realised that his body was by far the most impressive vehicle he was ever going to own.
+
+James asks the big questions: how did I get my granny's chin? Why do I catch colds? Why am I hung over? What will we look like a thousand years from now? To find the answers, he plunges into the exciting and sometimes downright bizarre world of motion graphics. The answers are packed with facts that will surprise, amaze and entertain, prompting people to look at their bodies in a new light.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.1</Rating>
+  <RatingCount>10</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>James May</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/249663/4119299.jpg</filename>
+  <lastupdated>1346138360</lastupdated>
+  <seasonid>468254</seasonid>
+  <seriesid>249663</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4119303</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>about the Universe</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2011-06-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Have you ever looked up into the night sky and wondered about some of those big questions, like where did it all begin, how do stars work, or what is Madonna doing in space? Well even if you haven't, James May has, and he invites viewers to join him on a journey of discovery across the universe.
+
+To get to the bottom of everything from white dwarfs to black holes, James plunges into an exciting, entertaining and sometimes bizarre world of animation and motion graphics. The answers he finds are packed full of fascinating facts.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/249663/4119303.jpg</filename>
+  <lastupdated>1346138338</lastupdated>
+  <seasonid>468254</seasonid>
+  <seriesid>249663</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4122187</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>about the Weather</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2011-07-04</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Do you ever look up at the sky and wonder why it's blue? Or what a cloud is? Or how you can avoid being hit by lightning? In this programme James May asks the big questions about the weather.
+
+To find the answers he is swept up in a storm of exciting, entertaining and sometimes downright bizarre motion graphics. The answers he comes out with are packed with facts that will surprise, amaze and entertain.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/249663/4122187.jpg</filename>
+  <lastupdated>1346138311</lastupdated>
+  <seasonid>468254</seasonid>
+  <seriesid>249663</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4377777</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>David Starkey</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>about Einstein</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2012-08-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>So you think you know Albert Einstein? Clever guy, crazy hair, had a few ideas about space and time - that's the one.
+
+Well, James May thought he knew him pretty well too, until he started asking some really tough questions. How did a man falling off a roof change our universe? What does E=mc2 actually mean? Who wanted Einstein for president? And furthermore, what happened to his brain?
+
+To help James find out, he will enter a universe of bizarre animation and motion graphics, where atom bombs and speeding trains collide with photons and monkeys' earwax. Along the way, he uncovers a world of facts that will surprise, amaze and entertain you - and you don't have to be a genius to enjoy it!</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/249663/4377777.jpg</filename>
+  <lastupdated>1346138184</lastupdated>
+  <seasonid>498360</seasonid>
+  <seriesid>249663</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4377778</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>David Starkey</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>about Brains</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2012-08-20</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Do you really know what is happening inside your head? James May does and it turns out there is a lot more than you would imagine.
+
+With the aid of some mind-boggling animation and motion graphics, he cranks open your cranium to get the answers from 100 billion whizzing neurons on questions like why men don't ask for directions, why your memory is so bad and what love has in common with class A drugs.
+
+Packed full of brain-bending science that is sure to blow your mind - you will never think of your grey matter in the same way again!</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/249663/4377778.jpg</filename>
+  <lastupdated>1346138136</lastupdated>
+  <seasonid>498360</seasonid>
+  <seriesid>249663</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4381884</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>about Evolution</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2012-08-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>You might relish cabbage about as much as a two month bout of chickenpox, but would you consider it as a leafy long lost relative? James May does, thanks to the genius of a man who changed the world, Charles Darwin.
+
+But exactly how does Darwin's famous theory of natural selection explain why we are all mutants and what war is actually good for? James treks off into the wilderness with the natural advantage of fantastic motion graphics and vivid animation, to show us just how.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/249663/4381884.jpg</filename>
+  <lastupdated>1346138104</lastupdated>
+  <seasonid>498360</seasonid>
+  <seriesid>249663</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4390922</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>about Speed</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2012-09-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>You may feel the need for speed, but do you really understand it properly? James May does. In this fast-moving mix of animation and motion graphics he tries to figure out how you can catch speeding bullets in your teeth, why the Moon doesn't fall out of the sky, why his cat knows more about terminal velocity than he does and why a six-ton chicken cannot run.
+
+So, if you want to know what's the fastest way around the world, how you can dodge a hurricane and whether you should run home in the rain, let James bring you up to speed</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/249663/4390922.jpg</filename>
+  <lastupdated>1346738909</lastupdated>
+  <seasonid>498360</seasonid>
+  <seriesid>249663</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4390923</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>about Engineering</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2012-09-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>James May uncovers the fascinating science of engineering, giving the real 'nuts &amp; bolts' account of how things really work, from the wheel to the Saturn V rocket.
+
+How have smart men with spanners managed to change the world? James finds out by asking things like: What did steam ever do for us? What is the smartest machine? And when can I move to Mars?
+
+Through a wonderful world of animation and motion graphics James reveals all the answers and along the way, find outs who has been building skyscrapers for millions of years, what a football has to do with nanotechnology and how a 180mph chicken gun and foul tasting tea help keep you safe on a plane.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/249663/4390923.jpg</filename>
+  <lastupdated>1347946434</lastupdated>
+  <seasonid>498360</seasonid>
+  <seriesid>249663</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4390924</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>about Chemistry</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2012-09-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Have you ever wondered if certain chemicals can make you irresistible to the opposite sex? Well James May certainly has, and with the help of dynamic motion graphics, he distils the sensuous secrets and explains how our world is really just one big laboratory as he reveals all you need to know about chemisty.
+
+Join James as he discovers what sorcerers and scientists have wondered for centuries - whether we can turn lead into gold - and just maybe, shares chemistry's secret to eternal life. Along the way, he reveals how what you flush down your toilet could actually be making you money, how the booze in your bottle could power a jet and why the elements in the periodic table are just like us - they don't all get along.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/249663/4390924.jpg</filename>
+  <lastupdated>1347946489</lastupdated>
+  <seasonid>498360</seasonid>
+  <seriesid>249663</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+</Data>

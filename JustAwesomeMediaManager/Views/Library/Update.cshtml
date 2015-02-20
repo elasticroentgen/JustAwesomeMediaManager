@@ -1,0 +1,124 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+@section scripts {
+    <script src="../Scripts/jquery.signalR-2.2.0.min.js"></script>
+    <script src="../signalr/hubs"></script>
+
+    <script type="text/javascript">
+
+        String.format = function () {
+            // The string containing the format items (e.g. "{0}")
+            // will and always has to be the first argument.
+            var theString = arguments[0];
+
+            // start with the second argument (i = 1)
+            for (var i = 1; i < arguments.length; i++) {
+                // "gm" = RegEx options for Global search (more than one instance)
+                // and for Multiline search
+                var regEx = new RegExp("\\{" + (i - 1) + "\\}", "gm");
+                theString = theString.replace(regEx, arguments[i]);
+            }
+
+            return theString;
+        }
+
+        $(document).ready(function () {
+
+            var mediaHubProxy = $.connection.mediaHub;
+            mediaHubProxy.client.currentDir = function (dir, percent) {
+                $("#curdir").html(dir);
+                updateProgress("#prog_all", percent);
+            };
+
+            mediaHubProxy.client.currentFile = function (file, percent) {
+                $("#curvideo").html(file);
+            };
+
+            mediaHubProxy.client.faultyFile = function (file, issue) {
+                $("#faultys").append(file + " -> " + issue + "<br/>");
+                $("#faulty_holder").show();
+            };
+
+
+
+            mediaHubProxy.client.currentMedia = function (minfo) {
+                $("#curtitle").html(String.format("S{0}E{1} - {2}", minfo.Season, minfo.Episode, minfo.Info.Title));
+                $("#curseries").html(minfo.SeriesTitle);
+                $("#episodeImg").attr("src", minfo.Info.ImageUrl);
+
+                $("#curseries").html(minfo.SeriesTitle);
+                $("#vqual").html(minfo.VideoResolutionText);
+
+                var astr = "";
+                for(var i in minfo.AudioStreams)
+                {
+                    var as = minfo.AudioStreams[i];
+                    astr += "Lang: " + as.Language + " -- Channels:" + as.Channels + " | ";
+                }
+                
+                $("#audio").html(astr);
+
+            };
+
+            $.connection.hub.start().done(function () {
+                $("#c_conn").show();
+                $("#c_disconn").hide();
+                $("#runupd").click(function () {
+                    mediaHubProxy.server.runUpdate();
+                });
+            });
+
+        });
+
+
+        function updateProgress(bar, percent) {
+            $(bar).attr("aria-valuenow", percent);
+            $(bar).css("width", percent + "%");
+            $(bar).html(percent + "%");
+
+        }
+    </script>
+}
+
+<h2>Media Library Updater <span id="c_disconn" class="label label-default">Disconnected</span><span id="c_conn" class="label label-success" style="display:none;">Connected</span></h2>
+
+<div class="panel panel-default">
+    <div class="panel-body">
+
+
+        <div class="progress">
+            <div id="prog_all" class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 100%;">
+                100%
+            </div>
+        </div>
+
+
+        <div class="well" style="height:200px;">
+            <img src="#" id="episodeImg" style="height:160px;float:right;" />
+            <h2 id ="curseries"></h2>
+            <h3 id="curtitle"></h3>
+
+            <b>Directory:</b><span id="curdir"></span><br />
+            <b>Videofile:</b><span id="curvideo"></span><br />
+            <b>Video Quality:</b><span id="vqual"></span><br />
+            <b>Audio Tracks:</b><span id="audio"></span><br />
+
+
+        </div>
+
+
+    </div>
+</div>
+
+<div class="panel panel-danger" id="faulty_holder" style="display:none;">
+    <div class="panel-heading">
+        Faulty Files
+    </div>
+    <div class="panel-body" id="faultys"></div>
+</div>
+
+<button id="runupd" class="btn btn-primary">Start Update</button>
+
+

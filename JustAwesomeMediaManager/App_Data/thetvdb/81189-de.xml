@@ -1,0 +1,2532 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>81189</id>
+  <Actors>|Bryan Cranston|Aaron Paul|Dean Norris|Giancarlo Esposito|Anna Gunn|Jonathan Banks|Bob Odenkirk|RJ Mitte|Betsy Brandt|Laura Fraser|Jesse Plemons|Christopher Cousins|Steven Michael Quezada|</Actors>
+  <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
+  <Airs_Time>9:00 PM</Airs_Time>
+  <ContentRating>TV-MA</ContentRating>
+  <FirstAired>2008-01-20</FirstAired>
+  <Genre>|Crime|Drama|Suspense|Thriller|</Genre>
+  <IMDB_ID>tt0903747</IMDB_ID>
+  <Language>de</Language>
+  <Network>AMC</Network>
+  <NetworkID></NetworkID>
+  <Overview>Walter White ist ein schlafwandelnd durchs Leben gehender Highschool Chemielehrer. An seinem 50sten Geburtstag wird bei ihm Krebs im Endstadium diagnostiziert. Um die finanzielle Zukunft fÃ¼r seine schwangere Frau und seinen behinderten Sohn zu sichern, und weil er an der Schwelle des Todes nichts mehr zu verlieren hat, beschlieÃŸt er seine FÃ¤higkeiten als Chemiker gewinnbringend einzusetzen. Gemeinsam mit seinem ehemaligen SchÃ¼ler Jesse Pinkman beginnt er Methamphetamin zu kochen.</Overview>
+  <Rating>9.3</Rating>
+  <RatingCount>662</RatingCount>
+  <Runtime>60</Runtime>
+  <SeriesID>74713</SeriesID>
+  <SeriesName>Breaking Bad</SeriesName>
+  <Status>Ended</Status>
+  <added></added>
+  <addedBy></addedBy>
+  <banner>graphical/81189-g21.jpg</banner>
+  <fanart>fanart/original/81189-21.jpg</fanart>
+  <lastupdated>1423901544</lastupdated>
+  <poster>posters/81189-22.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
+  <zap2it_id>EP01009396</zap2it_id>
+</Series>
+<Episode>
+  <id>3859781</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Good Cop Bad Cop</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2009-02-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Hank and Marie try to spice up their relationship on Valentine's Day.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/81189/3859781.jpg</filename>
+  <lastupdated>1386158103</lastupdated>
+  <seasonid>439371</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>3859791</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Wedding Day</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2009-02-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Walt and Hank have a talk before Hank gets married.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/81189/3859791.jpg</filename>
+  <lastupdated>1386158114</lastupdated>
+  <seasonid>439371</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>169</thumb_height>
+  <thumb_width>300</thumb_width>
+</Episode>
+<Episode>
+  <id>3859801</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>TwaughtHammer</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2009-02-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Jesse and Badger make a behind the scenes video about their band &quot;TwaughtHammer&quot; and show a music video for their song &quot;Fallacies.&quot;</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/81189/3859801.jpg</filename>
+  <lastupdated>1386158123</lastupdated>
+  <seasonid>439371</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>3859811</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Marie's Confession</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2009-02-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Marie records a video diary.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/81189/3859811.jpg</filename>
+  <lastupdated>1386158133</lastupdated>
+  <seasonid>439371</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>3859821</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Break-In</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2009-02-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Walt and Badger attempt to retrieve a vacuum cleaner stuffed with drug money from an elderly woman's locked garage.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/81189/3859821.jpg</filename>
+  <lastupdated>1386158144</lastupdated>
+  <seasonid>439371</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4134617</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Season 4 Sneak Peak</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>4</airsbefore_season>
+  <filename>episodes/81189/4134617.jpg</filename>
+  <lastupdated>1408834947</lastupdated>
+  <seasonid>439371</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added>2014-08-23 16:06:44</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4502307</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Better Call Saul - Carl B.</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/81189/4502307.jpg</filename>
+  <lastupdated>1382459973</lastupdated>
+  <seasonid>439371</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4502308</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Better Call Saul - Saul Better Help My Mom</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/81189/4502308.jpg</filename>
+  <lastupdated>1382459973</lastupdated>
+  <seasonid>439371</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added>2013-10-12 04:58:35</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4502309</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Better Call Saul - Badger</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/81189/4502309.jpg</filename>
+  <lastupdated>1382459973</lastupdated>
+  <seasonid>439371</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added>2013-10-12 05:00:25</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4502311</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Better Call Saul - Tiger Trouble</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/81189/4502311.jpg</filename>
+  <lastupdated>1382459973</lastupdated>
+  <seasonid>439371</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added>2013-10-12 05:01:37</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4502313</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Better Call Saul - Wayfarer 515</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/81189/4502313.jpg</filename>
+  <lastupdated>1382459973</lastupdated>
+  <seasonid>439371</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added>2013-10-12 05:02:35</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4502314</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Team S.C.I.E.N.C.E</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/81189/4502314.jpg</filename>
+  <lastupdated>1382459973</lastupdated>
+  <seasonid>439371</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added>2013-10-12 05:03:19</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4502315</id>
+  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Better Call Saul - Wendy</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/81189/4502315.jpg</filename>
+  <lastupdated>1382459973</lastupdated>
+  <seasonid>439371</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added>2013-10-12 05:04:02</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4502316</id>
+  <Combined_episodenumber>15</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Better Call Saul - Who Can You Sue</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/81189/4502316.jpg</filename>
+  <lastupdated>1382459973</lastupdated>
+  <seasonid>439371</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added>2013-10-12 05:05:21</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4502318</id>
+  <Combined_episodenumber>16</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Letters to Saul - Did I Murder an Old Man</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/81189/4502318.jpg</filename>
+  <lastupdated>1382459973</lastupdated>
+  <seasonid>439371</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added>2013-10-12 05:06:22</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4502320</id>
+  <Combined_episodenumber>17</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Live Saul Cam</EpisodeName>
+  <EpisodeNumber>17</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/81189/4502320.jpg</filename>
+  <lastupdated>1382459973</lastupdated>
+  <seasonid>439371</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added>2013-10-12 05:07:12</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4774998</id>
+  <Combined_episodenumber>18</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Stuart Richardson</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>No Half Measures</EpisodeName>
+  <EpisodeNumber>18</EpisodeNumber>
+  <FirstAired>2013-11-26</FirstAired>
+  <GuestStars>Michael Bowen|Betsy Brandt|Sam Catlin|Bryan Cranston|Vince Gilligan|Anna Gunn|Rian Johnson|Stewart Lyons|Michelle MacLaren|Dean Norris|Aaron Paul|Moira Walley-Beckett</GuestStars>
+  <IMDB_ID>tt3088036</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Documentary - Creating the Final Season of Breaking Bad.  Should be under specials, but specials locked.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>5</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/81189/4774998.jpg</filename>
+  <lastupdated>1414955361</lastupdated>
+  <seasonid>439371</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added>2014-11-02 11:09:24</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>349232</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Vince Gilligan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Der Einstieg</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2008-01-20</FirstAired>
+  <GuestStars>|Aaron Hill|Gregory Chase|John Koyama|Max Arciniega Jr.|</GuestStars>
+  <IMDB_ID>tt0959621</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Der Highschool Chemieleher Walter erfÃ¤hrt bei einem Arztbesuch, dass er an Lungenkrebs  erkrankt ist und nicht mehr lange zu leben hat. Um die finanzielle Sicherheit seiner Familie weiter zu garantieren, beginnt er mit seinem ehemaligen SchÃ¼ler Jesse Meth herzustellen und damit zu handeln.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>429</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Vince Gilligan</Writer>
+  <absolute_number>1</absolute_number>
+  <filename>episodes/81189/349232.jpg</filename>
+  <lastupdated>1379507602</lastupdated>
+  <seasonid>30272</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>349233</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Adam Bernstein</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Die Katze ist im Sack...</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2008-01-27</FirstAired>
+  <GuestStars>Max Arciniega</GuestStars>
+  <IMDB_ID>tt1054724</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Nach Walters erstem Versuch eines Drogendeals gibt es Probleme: die Leichen von Krazy-8 und Emilio. Diese mÃ¼ssen nun entsorgt werden. Dabei kommt es zu Komplikationen. Krazy-8 lebt noch. Skyler wird langsam misstrauisch und beschattet ihren Mann.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>396</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Vince Gilligan</Writer>
+  <absolute_number>2</absolute_number>
+  <filename>episodes/81189/349233.jpg</filename>
+  <lastupdated>1379507623</lastupdated>
+  <seasonid>30272</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>349235</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Adam Bernstein</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>...und der Sack ist im Fluss</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2008-02-10</FirstAired>
+  <GuestStars>Max Arciniega</GuestStars>
+  <IMDB_ID>tt1054725</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Marie befÃ¼rchtet, dass Walter jr. Marihuana  raucht und bittet Hank, ihn sich vorzuknÃ¼pfen. Jesse soll die Ãœberreste von Emilio entsorgen. Walter muss Krazy-8 beseitigen. Krazy-8 offenbart Walter, dass ihm Jesse pikante Details aus seinem Leben verraten hat.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>369</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Vince Gilligan</Writer>
+  <absolute_number>3</absolute_number>
+  <filename>episodes/81189/349235.jpg</filename>
+  <lastupdated>1379507650</lastupdated>
+  <seasonid>30272</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>169</thumb_height>
+  <thumb_width>300</thumb_width>
+</Episode>
+<Episode>
+  <id>349236</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Jim McKay</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Die Diagnose</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2008-02-17</FirstAired>
+  <GuestStars>|Tess Harper|Michael Bofshever|Kyle Bornheimer|Steven Michael Quezada|</GuestStars>
+  <IMDB_ID>tt1054726</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Walter verkÃ¼ndet im Kreise seiner Familie die Nachricht von seiner Krankheit und versucht, die Finanzierung einer Therapie zu regeln. Jesse findet bei seinen Eltern Schutz. In der Zwischenzeit sucht Hank seinen spurlos verschwundenen Informanten Krazy-8.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>358</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Vince Gilligan</Writer>
+  <absolute_number>4</absolute_number>
+  <filename>episodes/81189/349236.jpg</filename>
+  <lastupdated>1389277167</lastupdated>
+  <seasonid>30272</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>169</thumb_height>
+  <thumb_width>300</thumb_width>
+</Episode>
+<Episode>
+  <id>349238</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Tricia Brock</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Grauzonen</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2008-02-24</FirstAired>
+  <GuestStars>|William Sterchi|Marc Mouchet|Kiira Arai Sniegowski|William Allen|Loren Haynes|Kyle Swimmer|Robert Arrington|Frederic Doss|Juanita Trad|</GuestStars>
+  <IMDB_ID>tt1054727</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Jesse sucht nach einer anstÃ¤ndigen Arbeit. Er findet jedoch keine. Walter muss sehen, wie viel Erfolg sein einstiger Forschungspartner hat. Dieser mÃ¶chte Walter eine Arbeit anbieten oder seine Krebs-Therapie bezahlen. Walter lehnt dies jedoch ab.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>354</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Patty Lin</Writer>
+  <absolute_number>5</absolute_number>
+  <filename>episodes/81189/349238.jpg</filename>
+  <lastupdated>1389277178</lastupdated>
+  <seasonid>30272</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>355100</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Bronwen Hughes</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>In der HÃ¶hle des LÃ¶wen</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2008-03-02</FirstAired>
+  <GuestStars>Pierre Barrera|Charles Baker|Jesus Payan|Cesar Garcia|Vivian Nesbitt|Judith Rane|Seraphine DeYoung|Dennis Keiffer</GuestStars>
+  <IMDB_ID>tt1054728</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Hank verfolgt die Spur einer gefundenen Gasmaske  bis zu Walters Schule. Jesse wird von einem potenziellen Drogen-GroÃŸhÃ¤ndler windelweich geprÃ¼gelt. Daraufhin handelt Walter selbst einen Deal mit dem Drogen-Baron Tuco aus.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>357</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>George Mastras</Writer>
+  <absolute_number>6</absolute_number>
+  <filename>episodes/81189/355100.jpg</filename>
+  <lastupdated>1389277332</lastupdated>
+  <seasonid>30272</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>352534</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Tim Hunter</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Lehrgeld</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2008-03-09</FirstAired>
+  <GuestStars>|Raymond Cruz|Cesar Garcia|Jesus Payan|Carmen Serano|Beth Bailey|Carrie Fleming|</GuestStars>
+  <IMDB_ID>tt1054729</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Nachdem Jesse von Tuco, dem neuen Grossdealer, eine biblische Tracht PrÃ¼gel kassiert hat, ist ihm die Lust am DrogengeschÃ¤ft eigentlich vergangen. Doch Walter hat Tuco die Zustimmung abgerungen, in neues Equipment zu investieren, um die versprochenen vier Pfund Crystal Meth produzieren zu kÃ¶nnen. Damit er sich dieser Aufgabe widmen kann, gibt Walter zu Hause vor, fÃ¼r einige Tage zu einer Navajo-Heilungszeremonie zu reisen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>360</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Peter Gould</Writer>
+  <absolute_number>7</absolute_number>
+  <filename>episodes/81189/352534.jpg</filename>
+  <lastupdated>1389277267</lastupdated>
+  <seasonid>30272</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>438912</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Bryan Cranston</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>VorsichtsmaÃŸnahmen</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2009-03-08</FirstAired>
+  <GuestStars>|Steven Michael Quezada|Raymond Cruz|</GuestStars>
+  <IMDB_ID>tt1232244</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Ein lukrativer Drogendeal soll Walt und Jesse zu reichen MÃ¤nnern machen. Doch als Drogenboss Tuco vor Ihren Augen scheinbar grundlos einen Mord begeht, wird deutlich, das sich Walt und Jesse in groÃŸer Gefahr befinden. Hauptdarsteller Bryan Cranston (Emmy-Gewinner) fÃ¼hrte in dieser Episode Regie.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>348</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>J. Roberts</Writer>
+  <absolute_number>8</absolute_number>
+  <filename>episodes/81189/438912.jpg</filename>
+  <lastupdated>1400800039</lastupdated>
+  <seasonid>40719</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>438913</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Charles Haid</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>In der Falle</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2009-03-15</FirstAired>
+  <GuestStars>|Steven Michael Quezada|Raymond Cruz|Nigel Gibbs|Tess Harper|Mark Margolis|</GuestStars>
+  <IMDB_ID>tt1232249</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Tuco bedroht Walt und Jesse in der WÃ¼ste mit einer Pistole. In ihrer Not planen die beiden, Tuco zu vergiften. Skyler bittet Hank, ihr bei der Suche nach Walt behilflich zu sein.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>331</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>George Mastras</Writer>
+  <absolute_number>9</absolute_number>
+  <filename>episodes/81189/438913.jpg</filename>
+  <lastupdated>1400800063</lastupdated>
+  <seasonid>40719</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>438914</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Terry McDonough</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>GedÃ¤chtnisschwund</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2009-03-22</FirstAired>
+  <GuestStars>|Steven Michael Quezada|Matt L. Jones|Harry Groener|Michael Shamus Wiles|Mark Margolis|Tom Kiesche|Kevin C. Brown|</GuestStars>
+  <IMDB_ID>tt1232250</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Hank steht kurz davor, Walt und Jesse mit dem Drogendeal in Verbindung zu bringen. Um seine Spuren zu verwischen, tÃ¤uscht Walt einen GedÃ¤chtnisschwund vor.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>329</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Peter Gould</Writer>
+  <absolute_number>10</absolute_number>
+  <filename>episodes/81189/438914.jpg</filename>
+  <lastupdated>1400800081</lastupdated>
+  <seasonid>40719</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>438915</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>John Dahl</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ganz unten</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2009-03-29</FirstAired>
+  <GuestStars>Tess Harper|Dan Desmond|Michael Bofshever|Kevin C. Brown|Drew Waters|Shauna McLean|Tom Kiesche</GuestStars>
+  <IMDB_ID>tt1232251</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Walt gelingt es nicht, Skyler von seinen LÃ¼gengeschichten zu Ã¼berzeugen. Auch seine Beziehung zu Walt jr. leidet unter seinem Doppelleben. Jesse wird von seinen Eltern vor die TÃ¼r gesetzt.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>300</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Sam Catlin</Writer>
+  <absolute_number>11</absolute_number>
+  <filename>episodes/81189/438915.jpg</filename>
+  <lastupdated>1400800101</lastupdated>
+  <seasonid>40719</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>438916</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Johan Renck</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>BruchschÃ¤den</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2009-04-05</FirstAired>
+  <GuestStars>Krysten Ritter</GuestStars>
+  <IMDB_ID>tt1232252</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Hank wird nach der SchieÃŸerei mit Tuco befÃ¶rdert. Jesse willigt ein, wieder mit Walt zusammenzuarbeiten â€“ allerdings zu seinen Konditionen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>317</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Moira Walley</Writer>
+  <absolute_number>12</absolute_number>
+  <filename>episodes/81189/438916.jpg</filename>
+  <lastupdated>1400800122</lastupdated>
+  <seasonid>40719</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>438917</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Peter Medak</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Kuckuck</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2009-04-12</FirstAired>
+  <GuestStars>Carmen Serano</GuestStars>
+  <IMDB_ID>tt1232253</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Jess spÃ¼rt den Dieben von Petes Drogenvorrat auf. Gretchen findet heraus, das Walt Skyler belogen hat.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>316</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|J Roberts|Vince Gilligan|</Writer>
+  <absolute_number>13</absolute_number>
+  <filename>episodes/81189/438917.jpg</filename>
+  <lastupdated>1400800143</lastupdated>
+  <seasonid>40719</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>438918</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Felix Enriquez Alcala</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Negro Y Azul</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2009-04-19</FirstAired>
+  <GuestStars>Danny Trejo|Krysten Ritter</GuestStars>
+  <IMDB_ID>tt1232254</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Walt muss feststellen, dass Jesse zu nichts mehr Lust hat. Er beschlieÃŸt daraufhin, alleine weiterzumachen... doch er Ã¤ndert seine Meinung sehr schnell wieder.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>316</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>John Shiban</Writer>
+  <absolute_number>14</absolute_number>
+  <filename>episodes/81189/438918.jpg</filename>
+  <lastupdated>1400800160</lastupdated>
+  <seasonid>40719</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>438919</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Terry McDonough</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Beauftragen Sie Saul</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2009-04-26</FirstAired>
+  <GuestStars>Bob Odenkirk|Krysten Ritter</GuestStars>
+  <IMDB_ID>tt1232255</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Nachdem Badger verhaftet wird, engagiert er den abgebrÃ¼hten Anwalt Saul Goodman. Jesse und Walt befÃ¼rchten, dass Saul sie auffliegen lassen will, um Badger freizubekommen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>294</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Peter Gould</Writer>
+  <absolute_number>15</absolute_number>
+  <filename>episodes/81189/438919.jpg</filename>
+  <lastupdated>1400800203</lastupdated>
+  <seasonid>40719</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>438920</id>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Michelle MacLaren</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>4 Tage Auszeit</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2009-05-03</FirstAired>
+  <GuestStars>Krysten Ritter</GuestStars>
+  <IMDB_ID>tt1232256</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Um in kurzer Zeit so viel Geld wie mÃ¶glich zu verdienen, zieht sich Walt mit Jesse in die WÃ¼ste zurÃ¼ck, um neue Drogen herzustellen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>319</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Sam Catlin</Writer>
+  <absolute_number>16</absolute_number>
+  <filename>episodes/81189/438920.jpg</filename>
+  <lastupdated>1400800218</lastupdated>
+  <seasonid>40719</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>438921</id>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Phil Abraham</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Schluss</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2009-05-10</FirstAired>
+  <GuestStars>John de Lancie|Krysten Ritter|Carmen Serano</GuestStars>
+  <IMDB_ID>tt1232245</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Auf einer Party kommt es zum Streit zwischen Walt und Hank, bei dem sich Walt vor allen blamiert.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>320</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Moira Walley-Beckett</Writer>
+  <absolute_number>17</absolute_number>
+  <filename>episodes/81189/438921.jpg</filename>
+  <lastupdated>1400800249</lastupdated>
+  <seasonid>40719</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>438922</id>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Adam Bernstein</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Mandala</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2009-05-17</FirstAired>
+  <GuestStars>Krysten Ritter</GuestStars>
+  <IMDB_ID>tt1232246</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Als Walt und Jesse aufgrund unvorhergesehenen UmstÃ¤nde ihre Dealer verlieren, schlÃ¤gt Saul einen neuen GeschÃ¤ftspartner vor. Skyler konfrontiert Ted mit brisanten Informationen, die sie aufgedeckt hat. Jane erfÃ¤hrt, wie Jesse seinen Lebensunterhalt bestreitet, was in einem Desaster fÃ¼r beide endet.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>327</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>George Mastras</Writer>
+  <absolute_number>18</absolute_number>
+  <filename>episodes/81189/438922.jpg</filename>
+  <lastupdated>1400800271</lastupdated>
+  <seasonid>40719</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>438923</id>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Colin Bucksey</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Phoenix</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2009-05-24</FirstAired>
+  <GuestStars>John de Lancie|Krysten Ritter</GuestStars>
+  <IMDB_ID>tt1232247</IMDB_ID>
+  <Language>de</Language>
+  <Overview>WÃ¤hrend Walt sich nach GeldwÃ¤schemÃ¶glichkeiten umsieht, geraten er und Jesse in Streit Ã¼ber die Einnahmen ihres letzten Deals. Jesse und Jane streiten mit Janes Vater, und Walt trifft eine fatale Entscheidung.  
+
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>310</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>John Shiban</Writer>
+  <absolute_number>19</absolute_number>
+  <filename>episodes/81189/438923.jpg</filename>
+  <lastupdated>1400800303</lastupdated>
+  <seasonid>40719</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>438924</id>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Adam Bernstein</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Krisen</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2009-05-31</FirstAired>
+  <GuestStars>John de Lancie|Krysten Ritter</GuestStars>
+  <IMDB_ID>tt1232248</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Als Jesse wieder zu sich kommt und Janes Leiche neben sich findet fÃ¤llt er in ein tiefes Loch. Walt versucht ihn zu retten.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>317</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Vince Gilligan</Writer>
+  <absolute_number>20</absolute_number>
+  <filename>episodes/81189/438924.jpg</filename>
+  <lastupdated>1400800328</lastupdated>
+  <seasonid>40719</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1533641</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Bryan Cranston</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>No Mas</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2010-03-21</FirstAired>
+  <GuestStars>Carmen Serano</GuestStars>
+  <IMDB_ID>tt1528116</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Skyler zwingt Walter dazu auszuziehen â€“ und das, obwohl Walt ihr endlich die Wahrheit Ã¼ber seinen Drogenhandel gesteht. Jesse macht einen Drogenentzug.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>316</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Vince Gilligan</Writer>
+  <absolute_number>21</absolute_number>
+  <filename>episodes/81189/1533641.jpg</filename>
+  <lastupdated>1400800370</lastupdated>
+  <seasonid>171641</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1894731</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Adam Bernstein</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Caballo Sin Nombre</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2010-03-28</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1615186</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Skyler ist fest entschlossen, sich scheiden zu lassen. Saul versucht Walt dazu zu Ã¼berreden, erneut in den Drogenhandel einzusteigen. Nachdem Tio Pepe Walt fÃ¼r den Mord an Tuco verantwortlich macht, schwÃ¶ren mehrere Auftragskiller Rache...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>330</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Peter Gould</Writer>
+  <absolute_number>22</absolute_number>
+  <filename>episodes/81189/1894731.jpg</filename>
+  <lastupdated>1400800388</lastupdated>
+  <seasonid>171641</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1894741</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Michelle MacLaren</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Kopflosigkeit</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2010-04-04</FirstAired>
+  <GuestStars>Krysten Ritter</GuestStars>
+  <IMDB_ID>tt1615187</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Jesse spielt mit dem Gedanken, wieder in den Drogenhandel einzusteigen. Skyler erpresst Walter. Sie droht, der Polizei von seinen kriminellen Machenschaften zu erzÃ¤hlen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>325</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>George Mastras</Writer>
+  <absolute_number>23</absolute_number>
+  <filename>episodes/81189/1894741.jpg</filename>
+  <lastupdated>1400800406</lastupdated>
+  <seasonid>171641</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2012411</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Scott Winant</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>GrÃ¼nes Licht</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2010-04-11</FirstAired>
+  <GuestStars>Carmen Serano</GuestStars>
+  <IMDB_ID>tt1615554</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Walters angeschlagene Ehe leidet unter Skylers AffÃ¤re mit ihrem Boss. Mike findet Hinweise darauf, dass Walter auf der Abschussliste des Drogen-Kartells steht. Jess verkauft erneut Drogen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>301</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Sam Catlin</Writer>
+  <absolute_number>24</absolute_number>
+  <filename>episodes/81189/2012411.jpg</filename>
+  <lastupdated>1400800419</lastupdated>
+  <seasonid>171641</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2055301</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Johan Renck</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Mas</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2010-04-18</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1615555</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Walter wird unter Druck gesetzt, erneut Drogen herzustellen. Skyler wird von ihrer AnwÃ¤ltin davor gewarnt, dass sie fÃ¼r Walters Komplizin gehalten werden kÃ¶nnte. Hank wird bei einer BefÃ¶rderung Ã¼bergangen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>312</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Moira Walley-Beckett</Writer>
+  <absolute_number>25</absolute_number>
+  <filename>episodes/81189/2055301.jpg</filename>
+  <lastupdated>1400800449</lastupdated>
+  <seasonid>171641</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2062371</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>John Shiban</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Sonnenuntergang</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2010-04-25</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1615556</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Walt nimmt seine Arbeit in Gusâ€™ hochmodernen Drogenlabor auf und trifft dort auf seinen neuen Assistenten Gale Boetticher. Hank ermittelt auf eigene Faust weiter gegen Jesse und kommt dabei der Wahrheit gefÃ¤hrlich nahe...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>311</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>John Shiban</Writer>
+  <absolute_number>26</absolute_number>
+  <filename>episodes/81189/2062371.jpg</filename>
+  <lastupdated>1400800477</lastupdated>
+  <seasonid>171641</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2062381</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Michelle MacLaren</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Eine Minute</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2010-05-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1615944</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Hank stattet Jesse einen Ã¼berraschenden Besuch ab, der blutig endet... Die Auftragskiller planen einen Rachefeldzug gegen den Polizisten, den sie fÃ¼r Tucoâ€™s Tod verantwortlich machen: Hank!</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>310</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Thomas Schnauz</Writer>
+  <absolute_number>27</absolute_number>
+  <filename>episodes/81189/2062381.jpg</filename>
+  <lastupdated>1400800506</lastupdated>
+  <seasonid>171641</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2062391</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Colin Bucksey</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Familienbande</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2010-05-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1615557</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Hank landet nach der SchieÃŸerei mit schweren Verletzungen im Krankenhaus. Walt wird langsam klar, dass die Gangster es nicht nur auf Hank, sondern auch auf ihn abgesehen haben...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>301</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Gennifer Hutchison</Writer>
+  <absolute_number>28</absolute_number>
+  <filename>episodes/81189/2062391.jpg</filename>
+  <lastupdated>1400800522</lastupdated>
+  <seasonid>171641</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2062401</id>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Michael Slovis</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Kafkaesk</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2010-05-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1615558</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die AffÃ¤re zwischen Skyler und Ted ist offiziell beendet. Walter und Jesse machen sich derweil in ihrem Labor erneut an die Produktion von Drogen. Hank erzÃ¤hlt jedem von dem mysteriÃ¶sen Hinweis, den er kurz vor dem Anschlag auf sein Leben erhalten hatte.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>300</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>|Peter Gould|George Mastras|</Writer>
+  <absolute_number>29</absolute_number>
+  <filename>episodes/81189/2062401.jpg</filename>
+  <lastupdated>1400800546</lastupdated>
+  <seasonid>171641</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2062411</id>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Rian Johnson</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Die Fliege</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2010-05-23</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1615550</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Walter verbringt jede freie Minute im Labor, um genug Drogen fÃ¼r die Lieferung an Gus herzustellen. Dabei fÃ¤llt ihm auf, dass von den Drogen kleine Mengen fehlen. Sein Verdacht fÃ¤llt auf Jesse...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>306</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>|Sam Catlin|Moira Walley-Beckett|</Writer>
+  <absolute_number>30</absolute_number>
+  <filename>episodes/81189/2062411.jpg</filename>
+  <lastupdated>1400800559</lastupdated>
+  <seasonid>171641</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2062421</id>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Michelle MacLaren</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Offene Worte</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2010-05-30</FirstAired>
+  <GuestStars>Krysten Ritter|Emily Rios</GuestStars>
+  <IMDB_ID>tt1615551</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Saul soll Walters Schwarzgeld waschen, damit Skyler ihr Versprechen einhalten und davon Hanks Behandlungen bezahlen kann. Jesse lernt in der Reha-Klinik eine junge Frau kennen, die den MÃ¶rder seines Freundes Combo kennt.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>301</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>|John Shiban|Thomas Schnauz|</Writer>
+  <absolute_number>31</absolute_number>
+  <filename>episodes/81189/2062421.jpg</filename>
+  <lastupdated>1400800585</lastupdated>
+  <seasonid>171641</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2106591</id>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Adam Bernstein</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Halbe Sachen</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2010-06-06</FirstAired>
+  <GuestStars>Emily Rios</GuestStars>
+  <IMDB_ID>tt1615552</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Jesse nimmt die Verfolgung der Drogendealer auf, die fÃ¼r Combos Tod verantwortlich sind. Da sich Hank weiterhin weigert, das Krankenhaus zu verlassen, lÃ¤sst sich Marie einen Trick einfallen, um ihren Mann nach Hause zu locken.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>323</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>|Sam Catlin|Peter Gould|</Writer>
+  <absolute_number>32</absolute_number>
+  <filename>episodes/81189/2106591.jpg</filename>
+  <lastupdated>1400800601</lastupdated>
+  <seasonid>171641</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2106601</id>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Vince Gilligan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>NÃ¤gel mit KÃ¶pfen</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2010-06-13</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1615553</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Walt wird plÃ¶tzlich klar, dass Gus plant, ihn und Jesse zu ermorden und die Produktion der Drogen Gale zu Ã¼berlassen. Um dies zu verhindern, trifft Walt eine folgenschwere Entscheidung...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.5</Rating>
+  <RatingCount>322</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Vince Gilligan</Writer>
+  <absolute_number>33</absolute_number>
+  <filename>episodes/81189/2106601.jpg</filename>
+  <lastupdated>1400800632</lastupdated>
+  <seasonid>171641</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2639411</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Adam Bernstein</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Das Teppichmesser</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2011-07-17</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1683084</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Jesse hat getan, was er tun musste, um alle am Leben zu erhalten â€“ nÃ¤mlich ihren mÃ¶glichen Nachfolger, den Chemiker Gale, zu tÃ¶ten. Walt wird wÃ¤hrenddessen im Labor bewacht und wartet darauf, dass Gus seinen nÃ¤chsten Schritt macht. Als Victor eintrifft und Jesse mit einer Waffe bedroht, weiÃŸ Walt, dass Gale tot ist. Als Walt jedoch mit ihrer nÃ¤chsten Lieferung Meth beginnen mÃ¶chten, um ihren Produktionsplan einzuhalten, besteht Victor darauf, es selbst herzustellen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>305</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Vince Gilligan</Writer>
+  <absolute_number>34</absolute_number>
+  <filename>episodes/81189/2639411.jpg</filename>
+  <lastupdated>1400800672</lastupdated>
+  <seasonid>297361</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4103847</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Michelle MacLaren</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Kaliber 38</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2011-07-24</FirstAired>
+  <GuestStars>Emily Rios</GuestStars>
+  <IMDB_ID>tt1683089</IMDB_ID>
+  <Language>de</Language>
+  <Overview>WÃ¤hrend ein besorgter Walt eine illegale Waffe zu seinem Schutz kauft, lÃ¤dt Jesse seine alten Freunde Badger und Skinny Pete in sein Haus ein. In dem Versuch, sie beide mit Meth aus ihrem Rehabilitationsprogramm zu locken, ermuntert Jesse die beiden, mit ihm eine riesige Drogen- und Alkoholparty zu schmeiÃŸen. WÃ¤hrenddessen lÃ¤sst Hank trotz seiner Freude Ã¼ber die Fortschritte bei der Physiotherapie all seinen Frust an seiner wohlmeinenden Frau Marie aus.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>306</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>George Mastras</Writer>
+  <absolute_number>35</absolute_number>
+  <filename>episodes/81189/4103847.jpg</filename>
+  <lastupdated>1400800684</lastupdated>
+  <seasonid>297361</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4110088</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>David Slade</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Offenes Haus</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2011-07-31</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1683090</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Walt muss nicht nur seine Verletzungen erklÃ¤ren, die er sich durch die FaustschlÃ¤ge von Mike zugezogen hat. Er versucht auch, Skyler davon abzuhalten, eine Autowaschanlage zu kaufen, die sie benutzen mÃ¶chte, das Geld aus den DrogengeschÃ¤ften zu waschen. Neben seiner EnttÃ¤uschung darÃ¼ber, dass Gus eine Ãœberwachungskamera im Labor installiert hat, sorgt sich Walt auch um Jesses psychische Gesundheit wegen des Mordes an Gale.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>286</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Sam Catlin</Writer>
+  <absolute_number>36</absolute_number>
+  <filename>episodes/81189/4110088.jpg</filename>
+  <lastupdated>1400800703</lastupdated>
+  <seasonid>297361</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4123350</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Colin Bucksey</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Gedankenstriche</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2011-08-07</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1683091</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Skyler ist bemÃ¼ht, dieses Licht von dem Car Wash-GeschÃ¤ft fern zu halten, es kugelsicher zu machen. Der Weg dorthin: Bullet Points! Skyler zwingt Walter nicht nur dazu, Black Jack zu lernen und zu Treffen der Anonymen Gambler zu gehen, sondern sie verfasst auch ein Drehbuch namens Bullet Points und Ã¼bt es mit Walter ein. Denn beide wollen ein Coming Out fÃ¼r Hank und Marie veranstalten, um zu erklÃ¤ren, woher das Geld fÃ¼r die Waschanlage kommt. Walter bringt Hank dazu, ihm mehr Ã¼ber den Gale-Fall zu erzÃ¤hlen, und wird prompt mit der Widmung aus Gales Lab Notes Â»To W.W.Â« konfrontiert.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>289</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Moira Walley-Beckett</Writer>
+  <absolute_number>37</absolute_number>
+  <filename>episodes/81189/4123350.jpg</filename>
+  <lastupdated>1400800727</lastupdated>
+  <seasonid>297361</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4123351</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Michelle MacLaren</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Schrotflinte</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2011-08-14</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1683092</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Walt geht von dem Schlimmsten aus, als er Jesse nicht finden kann, und fÃ¼rchtet, dass er der NÃ¤chste sein wird. Auf dem Weg zu dem Fastfood-Restaurant, das Gus als Fassade fÃ¼r seine DrogengeschÃ¤fte benutzt, hinterlÃ¤sst Walt eine gefÃ¼hlvolle Telefonnachricht fÃ¼r Skyler. Als Mike anruft, um ihm mitzuteilen, dass Jesse bei ihm ist und dass es allen gut geht, bleibt Walt misstrauisch und will erst wegfahren, nachdem er sich in Gusâ€™ BÃ¼ro selbst umgesehen hat. Jesse ist zunÃ¤chst misstrauisch und glaubt, dass Mike ihn zu einem einsamen Ort bringen wird, um ihn umzubringen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>279</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Thomas Schnauz</Writer>
+  <absolute_number>38</absolute_number>
+  <filename>episodes/81189/4123351.jpg</filename>
+  <lastupdated>1400800757</lastupdated>
+  <seasonid>297361</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4123352</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Michael Slovis</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>In die Ecke getrieben</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2011-08-21</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1683093</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Das Drogenkartell Ã¼bt zunehmend Druck auf Gus aus und fÃ¤ngt brutal eine seiner Blue Meth-Lieferungen ab. Skyler indessen konfrontiert Walt, nachdem sie eine Geschichte Ã¼ber den Mord an Gale Boetticher gehÃ¶rt und Walt ihr eine verdÃ¤chtig emotionale Telefonnachricht hinterlassen hat. Walt versucht sein Bestes, von sich abzulenken und zu beteuern, dass er Gale nur einmal kurz begegnet ist und nichts mit seinem Tod zu tun hat. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>275</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Gennifer Hutchison</Writer>
+  <absolute_number>39</absolute_number>
+  <filename>episodes/81189/4123352.jpg</filename>
+  <lastupdated>1400800769</lastupdated>
+  <seasonid>297361</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4123353</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Peter Gould</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Problemkind</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2011-08-28</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1683094</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Skyler bereitet sich auf die ErÃ¶ffnung der Autowaschanlage vor und fordert Walt schroff auf, das neue Auto ihres Sohnes zum HÃ¤ndler zurÃ¼ckzubringen. Walt jedoch, der verÃ¤rgert ist, dass sie ihm vorschreibt, was er mit Walt Jr. zu tun hat, und ihm die kalte Schulter zeigt, steckt das Auto stattdessen auf einem Parkplatz an. Sein Anwalt, Saul Goodman, muss ihm daraufhin aus der Patsche helfen. Walt zahlt mehr als $50.000, um einer Strafe zu entgehen, und bittet Saul, ihm zu helfen, Gus ein fÃ¼r allemal loszuwerden.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>270</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Peter Gould</Writer>
+  <absolute_number>40</absolute_number>
+  <filename>episodes/81189/4123353.jpg</filename>
+  <lastupdated>1400800792</lastupdated>
+  <seasonid>297361</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4127161</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Johan Renck</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>BrÃ¼der</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2011-09-04</FirstAired>
+  <GuestStars>Emily Rios</GuestStars>
+  <IMDB_ID>tt1683095</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Von dem Attentat auf Hank angetrieben, befragen Detective Tim Roberts, Hank und seine ehemaligen DEA-Kollegen Gus zu Gale Boettichers Mord. Gus bleibt gelassen und antwortet auf die Frage, warum seine FingerabdrÃ¼cke in der Wohnung des Toten waren, dass er vor kurzem Gale besucht hat, da dieser ein Stipendium von der UniversitÃ¤t New Mexico erhalten hat. Roberts und die DEA-Beamten geben sich mit seinem Alibi zufrieden, Hank jedoch ist sich nicht so sicher, vor allem nicht, als plÃ¶tzlich Ungereimtheiten zu Gusâ€™ Aufenthaltsort vor seiner Auswanderung nach Mexiko von Peru im Jahr 1986 auftreten.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>265</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Sam Catlin|George Mastras</Writer>
+  <absolute_number>41</absolute_number>
+  <filename>episodes/81189/4127161.jpg</filename>
+  <lastupdated>1400800807</lastupdated>
+  <seasonid>297361</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4145291</id>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Terry McDonough</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Verwanzt</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2011-09-11</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1683096</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Als sie den Peilsender Ã¼berprÃ¼fen, den sie auf Gusâ€™ Auto angebracht haben, sind Walt und Hank Ã¼berrascht zu erfahren, dass Gus offensichtlich nur zwischen seinem Haus und seinem BÃ¼ro gefahren ist. Skyler schlÃ¤gt vor, einen Plan zu schmieden, wie sie aus dem DrogengeschÃ¤ft herauskommen kÃ¶nnen, jetzt, da ihre Autowaschanlage beginnt, Gewinne abzuwerfen. Walt ist jedoch damit beschÃ¤ftigt, auch Jesse mit einem GPS-Sender auszuspionieren. Hank vermutet, dass Gus seinen Bauernhof nur dafÃ¼r benutzt, um sein Drogenimperium zu leiten. Daraufhin warnt Walt Mike, dass Ã„rger auf sie zukommen wird.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>277</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Moira Walley-Beckett|Thomas Schnauz</Writer>
+  <absolute_number>42</absolute_number>
+  <filename>episodes/81189/4145291.jpg</filename>
+  <lastupdated>1400800829</lastupdated>
+  <seasonid>297361</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4157318</id>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Michelle MacLaren</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Prost!</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2011-09-18</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1683085</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Der angespannte Jesse fÃ¤hrt nach seiner brutalen Auseinandersetzung mit Walt zusammen mit Gus und Mike nach Mexiko, um dem Kartell beizubringen, wie man Walts Blue Meth herstellt. Bei ihrer Ankunft jedoch zeigt sich der Kartellboss verÃ¤rgert, dass ein so junger Mann wie Jesse, der nicht mal eine wissenschaftliche Ausbildung besitzt, seine Arbeit Ã¼berwachen soll. Jesse weiÃŸ, dass sein Ãœberleben davon abhÃ¤ngt, die Oberhand zu behalten, und stellt klar, dass das Meth nach seiner Anleitung hergestellt wird oder gar nicht.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.5</Rating>
+  <RatingCount>276</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Peter Gould|Gennifer Hutchison</Writer>
+  <absolute_number>43</absolute_number>
+  <filename>episodes/81189/4157318.jpg</filename>
+  <lastupdated>1400800842</lastupdated>
+  <seasonid>297361</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4159118</id>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Scott Winant</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Geheimversteck</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2011-09-25</FirstAired>
+  <GuestStars>Emily Rios</GuestStars>
+  <IMDB_ID>tt1683086</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Don Eladio ist tot und Jesse bringt Gus und Mike zu einem verlassenen GebÃ¤ude, das in Wahrheit ein hochmodernes Krankenhaus ist. Gus wird auf der Intensivstation behandelt und lÃ¤sst Mike zurÃ¼ck, der sich noch von seinen Schusswunden erholen muss. Gus bringt Jesse zurÃ¼ck nach Albuquerque. Doch bevor sich dieser wieder an seine Arbeit im Labor macht, besteht er auf eine Garantie fÃ¼r Walts Sicherheit.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>278</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>George Mastras|Sam Catlin</Writer>
+  <absolute_number>44</absolute_number>
+  <filename>episodes/81189/4159118.jpg</filename>
+  <lastupdated>1400800862</lastupdated>
+  <seasonid>297361</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4164049</id>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Vince Gilligan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Endzeit</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2011-10-02</FirstAired>
+  <GuestStars>Emily Rios</GuestStars>
+  <IMDB_ID>tt1683087</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Ihren EinwÃ¤nden zum Trotz schickt Walt Skyler und die Kinder unter DEA-Schutz zu Hank und Marie, wÃ¤hrend er zu Hause sitzt und wartet. Da Hank nicht aufhÃ¶rt, Gus zu verdÃ¤chtigen, stimmt der DEA-Beamte Steve Gomez zu, die WÃ¤scherei nach Hinweisen auf ein verstecktes Drogenlabor zu durchsuchen. Die Suche ist erfolglos, doch Gus droht damit, dass sie Konsequenzen haben wird. Gomez ist Ã¼berzeugt, dass die WÃ¤scherei sauber ist, doch Hank beginnt, sorgfÃ¤ltig jedes Foto zu untersuchen in der Hoffnung, etwas zu finden, das die Beamten Ã¼bersehen haben.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>291</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Thomas Schnauz|Moira Walley-Beckett</Writer>
+  <absolute_number>45</absolute_number>
+  <filename>episodes/81189/4164049.jpg</filename>
+  <lastupdated>1400800890</lastupdated>
+  <seasonid>297361</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4164050</id>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Vince Gilligan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Von Angesicht zu Angesicht</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2011-10-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1683088</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Walt sucht Jesse im Wartezimmer des Krankenhauses auf, um ihn zu fragen, warum ihr Plan, Gus zu tÃ¶ten, nicht funktioniert hat. Zwei Kriminalbeamte treffen ein und wollen Jesse zu dem Gift befragen, das Andreas Sohn Brock Leben bedroht. Walt lÃ¤sst Jesse in dieser brenzligen Situation allein und eilt zu Sauls Kanzlei, wo dessen SekretÃ¤rin Francesca gerade hektisch alle Papiere beseitigt, die ihren Chef mit dem Drogenring in Verbindung bringen kÃ¶nnten.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.6</Rating>
+  <RatingCount>291</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Vince Gilligan</Writer>
+  <absolute_number>46</absolute_number>
+  <filename>episodes/81189/4164050.jpg</filename>
+  <lastupdated>1400800908</lastupdated>
+  <seasonid>297361</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4307741</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Michael Slovis</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Lebe frei oder stirb</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2012-07-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2081647</IMDB_ID>
+  <Language>de</Language>
+  <Overview>WÃ¤hrend Walt sich mit den Folgen der Casa Tranquila Explosion auseinandersetzen muss, versucht Hank seine Ermittlungen gegen Gus zu beenden.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>238</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Vince Gilligan</Writer>
+  <absolute_number>47</absolute_number>
+  <filename>episodes/81189/4307741.jpg</filename>
+  <lastupdated>1400800963</lastupdated>
+  <seasonid>490110</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4339517</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Michelle MacLaren</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Madrigal</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2012-07-22</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2301457</IMDB_ID>
+  <Language>de</Language>
+  <Overview>WÃ¤hrend Walt und Jesse sich einen eher ungewÃ¶hnlichen Partner fÃ¼r eine neue GeschÃ¤ftsidee suchen, findet die DEA bei ihren Ermittlungen eine neue Spur.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>238</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Vince Gilligan</Writer>
+  <absolute_number>48</absolute_number>
+  <filename>episodes/81189/4339517.jpg</filename>
+  <lastupdated>1400800976</lastupdated>
+  <seasonid>490110</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4339518</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Adam Bernstein</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Gefahrenzulage</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2012-07-29</FirstAired>
+  <GuestStars>Emily Rios</GuestStars>
+  <IMDB_ID>tt2301459</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Nachdem sich Walt einen Plan fÃ¼r das neue Labor ausdenkt, macht sich bei ihm der Verdacht breit, dass der neue Partner Mike ihn vielleicht nur ausnÃ¼tzt. Zur selben Zeit macht sich Marie Ã¼ber Skyler Sorgen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>235</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Peter Gould</Writer>
+  <absolute_number>49</absolute_number>
+  <filename>episodes/81189/4339518.jpg</filename>
+  <lastupdated>1400801000</lastupdated>
+  <seasonid>490110</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4354293</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Rian Johnson</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>51</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2012-08-05</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2301461</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die DEA rÃ¼ckt der deutschen Firma, die das Meth Labor beliefert, immer dichter auf die Fersen. Skyler ist beunruhigt und unternimmt den Versuch, ihre zwei Kinder aus dem Haus zu schaffen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>239</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Sam Catlin</Writer>
+  <absolute_number>50</absolute_number>
+  <filename>episodes/81189/4354293.jpg</filename>
+  <lastupdated>1400801015</lastupdated>
+  <seasonid>490110</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4354294</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>George Mastras</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>TÃ¶dliche Fracht</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2012-08-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2301463</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die Untersuchungen der DEA nÃ¤hern sich bedrohlich dem Meth Labor. Walt, Jesse und Mike denken sich einen genialen Plan aus, um ihre VorrÃ¤te aufzufÃ¼llen. Zur selben Zeit versucht Skyler, ihre Kinder bei Marie und Hank unterzubringen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.4</Rating>
+  <RatingCount>250</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>George Mastras</Writer>
+  <absolute_number>51</absolute_number>
+  <filename>episodes/81189/4354294.jpg</filename>
+  <lastupdated>1400801040</lastupdated>
+  <seasonid>490110</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4354295</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Colin Bucksey</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Buyout</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2012-08-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2301465</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Um aus dem DrogengeschÃ¤ft auszusteigen, versuchen Mike und Jesse das Methylamin an einen Konkurrenten zu verkaufen. Als Walt dem Plan jedoch nicht zustimmt, und auch die Ermittlungen der DEA immer nÃ¤her an sie heranrÃ¼cken, werden die ZukunftsplÃ¤ne des Meth Labors zerschmettert</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>221</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Gennifer Hutchison</Writer>
+  <absolute_number>52</absolute_number>
+  <filename>episodes/81189/4354295.jpg</filename>
+  <lastupdated>1400801052</lastupdated>
+  <seasonid>490110</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4354296</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Thomas Schnauz</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Sagen Sie meinen Namen</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2012-08-26</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2301467</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Zur gleichen Zeit als Walt verlautbart, dass er alle Chemikalien dazu verwenden will um sein GeschÃ¤ft zu erweitern, stÃ¶ÃŸt die DEA auf Mike. Als Hank sich dazu entschlieÃŸt, einen neuen Partner zu finden, muss Mike alles daran setzen, um sich aus der Schlinge zu ziehen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>230</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Thomas Schnauz</Writer>
+  <absolute_number>53</absolute_number>
+  <filename>episodes/81189/4354296.jpg</filename>
+  <lastupdated>1400801075</lastupdated>
+  <seasonid>490110</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4364463</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Michelle MacLaren</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Im Gleitflug</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2012-09-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2301469</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Nachdem er Mikes Leiche verschwinden lÃ¤sst, konzentriert sich Walt darauf, alle Kontakte zu eliminieren, die ihn mit Fring verbinden. Als sich die neue Partnerschaft finanziell endlich auszahlt, fragt sich Skyler, ob man jemals genug Geld besitzen kann</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>245</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Moira Walley-Beckett</Writer>
+  <absolute_number>54</absolute_number>
+  <filename>episodes/81189/4364463.jpg</filename>
+  <lastupdated>1400801100</lastupdated>
+  <seasonid>490110</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4460282</id>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Bryan Cranston</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Blutgeld</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2013-08-11</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2301471</IMDB_ID>
+  <Language>de</Language>
+  <Overview>WÃ¤hrend sich Walt und Jesse langsam an ein Leben auÃŸerhalb des GeschÃ¤fts gewÃ¶hnen, kÃ¤mpft Hank mit einer besorgniserregenden Spur â€¦</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>190</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Peter Gould</Writer>
+  <absolute_number>55</absolute_number>
+  <filename>episodes/81189/4460282.jpg</filename>
+  <lastupdated>1400801129</lastupdated>
+  <seasonid>490110</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4553036</id>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Michelle MacLaren</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Begraben</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2013-08-18</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2301443</IMDB_ID>
+  <Language>de</Language>
+  <Overview>WÃ¤hrend Skyler von den Schatten ihrer Vergangenheit heimgesucht wird, verwischt Walt seine Spuren. Jesse kÃ¤mpft mit seinem schlechten Gewissen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>182</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Thomas Schnauz</Writer>
+  <absolute_number>56</absolute_number>
+  <filename>episodes/81189/4553036.jpg</filename>
+  <lastupdated>1400801141</lastupdated>
+  <seasonid>490110</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added>2013-08-12 15:33:03</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4553037</id>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Michael Slovis</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>GestÃ¤ndnisse</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2013-08-25</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2301445</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Jesse entscheidet sich fÃ¼r eine VerÃ¤nderung, wÃ¤hrend Walt und Skyler eine unerwartete Nachfrage erfahren.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>189</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Gennifer Hutchison</Writer>
+  <absolute_number>57</absolute_number>
+  <filename>episodes/81189/4553037.jpg</filename>
+  <lastupdated>1400801196</lastupdated>
+  <seasonid>490110</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added>2013-09-29 19:03:58</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4553038</id>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Sam Catlin</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>TollwÃ¼tiger Hund</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2013-09-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2301447</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Jesse will Walts Haus in Brand stecken, wird dabei aber von Hank Ã¼berrascht. Walt muss sich fÃ¼r seine Familie eine ErklÃ¤rung dafÃ¼r ausdenken, warum das ganze Haus nach Benzin riecht. SpÃ¤ter schlÃ¤gt Saul vor, Jesse endgÃ¼ltig zu beseitigen. Unterdessen versucht Hank, Jesse dafÃ¼r zu gewinnen, dessen ehemaligen Partner zu Ã¼berfÃ¼hren.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>174</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Sam Catlin</Writer>
+  <absolute_number>58</absolute_number>
+  <filename>episodes/81189/4553038.jpg</filename>
+  <lastupdated>1400801216</lastupdated>
+  <seasonid>490110</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added>2013-08-26 12:13:19</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4553039</id>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Michelle MacLaren</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>To'Hajiilee</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2013-09-08</FirstAired>
+  <GuestStars>Emily Rios</GuestStars>
+  <IMDB_ID>tt2301449</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Walt beauftragt Jack, Jesse zu tÃ¶ten. Hank erfÃ¤hrt, dass Walt sein Geld in der WÃ¼ste vergraben hat und entwirft einen Plan, um ihn mit Jesses Hilfe zu dem Aufbewahrungsort zu locken und ihn so zu Ã¼berfÃ¼hren. In der WÃ¼ste kommt es zum Showdown zwischen den DEA-Agenten und Jack und seinen MÃ¤nnern. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.4</Rating>
+  <RatingCount>189</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>George Mastras</Writer>
+  <absolute_number>59</absolute_number>
+  <filename>episodes/81189/4553039.jpg</filename>
+  <lastupdated>1400801244</lastupdated>
+  <seasonid>490110</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added>2013-09-03 00:06:08</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4553040</id>
+  <Combined_episodenumber>14.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>14.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Rian Johnson</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ozymandias</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>2013-09-15</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2301451</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Nach der SchieÃŸerei in der WÃ¼ste entfÃ¼hren Jack und Todd Jesse in ihr Labor. Walt will gemeinsam mit seiner Familie alle Zelte abbrechen, aber Skyler und Walt jr. stellen sich ihm entgegen. Als sein Sohn die Polizei anruft, schnappt sich Walt Baby Holly und flÃ¼chtet.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.4</Rating>
+  <RatingCount>189</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Moira Walley-Beckett</Writer>
+  <absolute_number>60</absolute_number>
+  <filename>episodes/81189/4553040.jpg</filename>
+  <lastupdated>1400801259</lastupdated>
+  <seasonid>490110</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added>2013-09-09 13:51:52</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4553041</id>
+  <Combined_episodenumber>15.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>15.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Peter Gould</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Granit-Staat</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired>2013-09-22</FirstAired>
+  <GuestStars>Emily Rios|Carmen Serano</GuestStars>
+  <IMDB_ID>tt2301453</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Walt muss endgÃ¼ltig abtauchen und versteckt sich in einem abgelegenen Haus in New Hampshire, ohne Kontakt zur AuÃŸenwelt. Jesse versucht, sich aus seinem GefÃ¤ngnis zu befreien, wird aber gezwungen, einem schrecklichen Erlebnis beizuwohnen. Nach einem niederschmetternden TelefongesprÃ¤ch mit seinem Sohn ist Walt bereit aufzugeben.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>175</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Peter Gould</Writer>
+  <absolute_number>61</absolute_number>
+  <filename>episodes/81189/4553041.jpg</filename>
+  <lastupdated>1400801281</lastupdated>
+  <seasonid>490110</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added>2013-09-16 10:12:42</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4553042</id>
+  <Combined_episodenumber>16.0</Combined_episodenumber>
+  <Combined_season>5</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>16.0</DVD_episodenumber>
+  <DVD_season>5</DVD_season>
+  <Director>Vince Gilligan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Felina</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired>2013-09-29</FirstAired>
+  <GuestStars>Matt Jones|Charles Baker|Michael Bowen|Kevin Rankin|Adam Godley|Jessica Hecht</GuestStars>
+  <IMDB_ID>tt2301455</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Walt kehrt noch einmal nach Albuquerque zurÃ¼ck, um seine noch unerledigten â€žGeschÃ¤fteâ€œ abzuschlieÃŸen. Nach einem kurzen Treffen mit seiner Ehefrau Skyler macht er sich zunÃ¤chst auf zu seinen ehemaligen GeschÃ¤ftspartnern Gretchen und Elliot. Danach fÃ¤hrt er zu Jacks Anwesen, um endgÃ¼ltig abzurechnen. Dort kommt es auch zur letzten Begegnung mit Jesse, der immer noch gefangen gehalten wird.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.7</Rating>
+  <RatingCount>177</RatingCount>
+  <SeasonNumber>5</SeasonNumber>
+  <Writer>Vince Gilligan</Writer>
+  <absolute_number>62</absolute_number>
+  <filename>episodes/81189/4553042.jpg</filename>
+  <lastupdated>1400801326</lastupdated>
+  <seasonid>490110</seasonid>
+  <seriesid>81189</seriesid>
+  <thumb_added>2013-10-01 12:30:39</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+</Data>

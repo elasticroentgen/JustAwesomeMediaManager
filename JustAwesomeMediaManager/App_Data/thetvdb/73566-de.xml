@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>73566</id>
+  <Actors>|William Shatner|Leonard Nimoy|DeForest Kelley|George Takei|James Doohan|Majel Barrett|Nichelle Nichols|</Actors>
+  <Airs_DayOfWeek></Airs_DayOfWeek>
+  <Airs_Time></Airs_Time>
+  <ContentRating>TV-Y</ContentRating>
+  <FirstAired>1973-09-08</FirstAired>
+  <Genre>|Action|Adventure|Animation|Drama|Science-Fiction|</Genre>
+  <IMDB_ID>tt0069637</IMDB_ID>
+  <Language>de</Language>
+  <Network>NBC</Network>
+  <NetworkID></NetworkID>
+  <Overview>Vier Jahre nach dem Ende der dritten Staffel von &quot;Raumschiff Enterprise&quot;&quot; wurden 22 neue Abenteuer in Zeichentrickversion erzÃ¤hlt. Genau wie in der ursprÃ¼nglichen Serie stehen die Begegnungen mit fremden VÃ¶lkern und die Erkundung unbekannter Planeten im Mittelpunkt. So stÃ¶ÃŸt die Crew auf hilflos im All treibende Schiffe, Spock begibt sich auf eine Zeitreise in seine eigene Vergangenheit, Dr. McCoy wird beschuldigt, fÃ¼r eine Tod bringende Seuche verantwortlich zu sein, und natÃ¼rlich gibt es auch wieder eine Epsiode mit den lÃ¤stigen, aber amÃ¼santen Tribbles.</Overview>
+  <Rating>7.6</Rating>
+  <RatingCount>18</RatingCount>
+  <Runtime>30</Runtime>
+  <SeriesID>2363</SeriesID>
+  <SeriesName>Die Enterprise</SeriesName>
+  <Status>Ended</Status>
+  <added></added>
+  <addedBy></addedBy>
+  <banner>graphical/73566-g.jpg</banner>
+  <fanart>fanart/original/73566-2.jpg</fanart>
+  <lastupdated>1419817086</lastupdated>
+  <poster>posters/73566-1.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
+  <zap2it_id></zap2it_id>
+</Series>
+<Episode>
+  <id>656951</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Drawn to the Final Frontier: The Making of Star Trek: The Animated Series</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>The Making of Star Trek: The Animated Series</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>2</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/73566/656951.jpg</filename>
+  <lastupdated>1258079685</lastupdated>
+  <seasonid>21028</seasonid>
+  <seriesid>73566</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2020371</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>What`s the Star Trek Connection</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>2</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1408164715</lastupdated>
+  <seasonid>21028</seasonid>
+  <seriesid>73566</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>118758</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Hal Sutherland|</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Das kÃ¶rperlose Wesen</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>1973-09-08</FirstAired>
+  <GuestStars>|James Doohan|James Doohan|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Bei ihrer Kartographie-Mission am Rande der Galaxie trifft die Enterprise ein scheinbar verlassenes Schiff. Beim HinÃ¼berbeamen stellt sich heraus, dass es nicht so verlassen ist, wie es zunÃ¤chst den Anschein hat. </Overview>
+  <ProductionCode>22004</ProductionCode>
+  <Rating>6.9</Rating>
+  <RatingCount>11</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Samuel A. Peeples|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73566/118758.jpg</filename>
+  <lastupdated>1408164084</lastupdated>
+  <seasonid>5998</seasonid>
+  <seriesid>73566</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>240</thumb_height>
+  <thumb_width>320</thumb_width>
+</Episode>
+<Episode>
+  <id>118759</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Hal Sutherland|</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Das Zeitportal</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>1973-09-15</FirstAired>
+  <GuestStars>|Mark Lenard|Billy Simpson|Keith Sutherland|Majel Barrett|James Doohan|Majel Barrett|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Bei der Untersuchung von Orions Vergangenheit mit Hilfe des WÃ¤chters der Ewigkeit wird eine alternative Zeitlinie geschaffen, in der Spock in jungen Jahren gestorben ist. </Overview>
+  <ProductionCode>22003</ProductionCode>
+  <Rating>7.2</Rating>
+  <RatingCount>9</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|D.C. Fontana|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73566/118759.jpg</filename>
+  <lastupdated>1408164106</lastupdated>
+  <seasonid>5998</seasonid>
+  <seriesid>73566</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>240</thumb_height>
+  <thumb_width>320</thumb_width>
+</Episode>
+<Episode>
+  <id>118760</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Hal Sutherland|</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Die gefÃ¤hrliche Wolke</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>1973-09-22</FirstAired>
+  <GuestStars>|Majel Barrett|James Doohan|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die USS Enterprise trifft am Rande der Galaxie auf eine kosmische Wolke. Diese scheint sich von Planeten zu ernÃ¤hren und bedroht die FÃ¶derationskolonie Mantilles. </Overview>
+  <ProductionCode>22007</ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>5</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Marc Daniels|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73566/118760.jpg</filename>
+  <lastupdated>1408164137</lastupdated>
+  <seasonid>5998</seasonid>
+  <seriesid>73566</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>118761</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Hal Sutherland|</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Das Lorelei Signal</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>1973-09-29</FirstAired>
+  <GuestStars>|Majel Barrett|Nichelle Nichols|Nichelle Nichols|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die USS Enterprise durchkreuzt einen Raumsektor, in dem alle 27,346 Sternenjahre ein Raumschiff spurlos verschwindet. Schon nach kurzer Zeit, empfÃ¤ngt auch die Enterprise ein merkwÃ¼rdiges Signal und die mÃ¤nnlichen Crewmitglieder legen ein seltsames Verhalten an den Tag. </Overview>
+  <ProductionCode>22006</ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Margaret Armen|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73566/118761.jpg</filename>
+  <lastupdated>1408164165</lastupdated>
+  <seasonid>5998</seasonid>
+  <seriesid>73566</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>118762</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Hal Sutherland|</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Mehr Trouble mit Tribbles</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>1973-10-06</FirstAired>
+  <GuestStars>|Stanley Adams|David Gerrold|James Doohan|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Bei dem Versuch, mehrere Ladungen Quintotriticale zum Sherman-Planeten zu eskortieren, wird die USS Enterprise von den Klingonen mit einer neuartigen Waffe angegriffen.
+</Overview>
+  <ProductionCode>22001</ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|David Gerrold|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73566/118762.jpg</filename>
+  <lastupdated>1408164195</lastupdated>
+  <seasonid>5998</seasonid>
+  <seriesid>73566</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>118763</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Hal Sutherland|</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Der Ãœberlebende</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>1973-10-13</FirstAired>
+  <GuestStars>|Ted Knight|Nichelle Nichols|James Doohan|Majel Barrett|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die Enterprise spÃ¼rt einen lange vermissten MillionÃ¤r auf. Doch ist er auch, wer er vorgibt zu sein? </Overview>
+  <ProductionCode>22005</ProductionCode>
+  <Rating>5.8</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|James Schmerer|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73566/118763.jpg</filename>
+  <lastupdated>1408164219</lastupdated>
+  <seasonid>5998</seasonid>
+  <seriesid>73566</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>118764</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Hal Sutherland|</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Das Superhirn</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>1973-10-20</FirstAired>
+  <GuestStars>|James Doohan|Nichelle Nichols|James Doohan|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die Crew der Enterprise beamt auf den Planet Phylos, welcher von pflanzlichen Wesen bewohnt wird. Dort treffen sie auf einen von der Erde stammenden Wissenschaftler, der Spock klonen will, um der Galaxie den Frieden zu bringen. </Overview>
+  <ProductionCode>22002</ProductionCode>
+  <Rating>5.8</Rating>
+  <RatingCount>5</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Walter Koenig|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73566/118764.jpg</filename>
+  <lastupdated>1408164240</lastupdated>
+  <seasonid>5998</seasonid>
+  <seriesid>73566</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>118765</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Hal Sutherland|</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Das Geheimnis von Megas-Tu</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>1973-10-27</FirstAired>
+  <GuestStars>|Ed Bishop|James Doohan|George Takei|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Im Zentrum der Galaxie trifft die Enterprise auf eine Rasse magischer Wesen, und wird von ihnen angeklagt. </Overview>
+  <ProductionCode>22009</ProductionCode>
+  <Rating>6.7</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Larry Brody|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73566/118765.jpg</filename>
+  <lastupdated>1408164260</lastupdated>
+  <seasonid>5998</seasonid>
+  <seriesid>73566</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>118766</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Hal Sutherland|</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Phantasie oder Wirklichkeit</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>1973-11-03</FirstAired>
+  <GuestStars>|George Takei|James Doohan|Nichelle Nichols|Majel Barrett|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die Enterprise kehrt fÃ¼r einen Landurlaub auf den Landurlaubsplaneten zurÃ¼ck. Alles erscheint wie bekannt, doch dann wird Uhura entfÃ¼hrt. </Overview>
+  <ProductionCode>22014</ProductionCode>
+  <Rating>6.0</Rating>
+  <RatingCount>6</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Chuck Menville|Len Janson|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73566/118766.jpg</filename>
+  <lastupdated>1408164283</lastupdated>
+  <seasonid>5998</seasonid>
+  <seriesid>73566</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>118767</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Hal Sutherland|</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Der Liebeskristall</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>1973-11-10</FirstAired>
+  <GuestStars>|Roger C. Carmel|Nichelle Nichols|Majel Barrett|James Doohan|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Harry Mudd sorgt auf der USS Enterprise fÃ¼r Unruhe mit einem ausversehen ausgetretenem Liebestrank. </Overview>
+  <ProductionCode>22008</ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Stephen Kandel|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73566/118767.jpg</filename>
+  <lastupdated>1408164301</lastupdated>
+  <seasonid>5998</seasonid>
+  <seriesid>73566</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>118768</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Hal Sutherland|</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Die Rettungsmission</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>1973-11-17</FirstAired>
+  <GuestStars>|James Doohan|James Doohan|Nichelle Nichols|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die Enterprise erhÃ¤lt einen Notruf und eilt zu einem von VulkanausbrÃ¼chen und Beben gebeutelten Planeten. PlÃ¶tzlich wird die Enterprise von einer unbekannten Strahlung betroffen und die Crewmitglieder fangen unaufhÃ¶rlich an zu schrumpfen. </Overview>
+  <ProductionCode>22015</ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Paul Schneider|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73566/118768.jpg</filename>
+  <lastupdated>1408164393</lastupdated>
+  <seasonid>5998</seasonid>
+  <seriesid>73566</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>118769</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Hal Sutherland|</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Die Zeitfalle</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>1973-11-24</FirstAired>
+  <GuestStars>|George Takei|James Doohan|George Takei|Nichelle Nichols|James Doohan|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>The Enterprise is investigating a &quot;&quot;Bermuda Triangle of Space&quot;&quot; when pursuit by three Klingon ships forces them into the area. They and the lead ship commanded by Captain Kor disappear and reappear in a mysterious null area of space filled with abandoned ships. They find a concentrated population on one ship and both captains are whisked away to meet with a Council of various aliens who are trapped there. Unable to escape because of the eventual drain of all higher power systems, they have formed a peaceful coalition, the Elysians, and insist the newcomers obey their rules. The Klingons fail in one attempt to escape the area, but Spock determines that the two ships together might succeed if they operate in tandem. Reluctantly Kor agrees but prepares to sabotage efforts. He has his mate plant a bomb during a social party between the two crews. The two ships linked together manage to escape but Scotty and Spock find the bomb and jettison it just before the Klingon ship breaks away and acti</Overview>
+  <ProductionCode>22010</ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Joyce Perry|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73566/118769.jpg</filename>
+  <lastupdated>1408164358</lastupdated>
+  <seasonid>5998</seasonid>
+  <seriesid>73566</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>118770</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Hal Sutherland|</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Die EntfÃ¼hrung</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>1973-12-01</FirstAired>
+  <GuestStars>|James Doohan|Majel Barrett|James Doohan|David Gerrold|Majel Barrett|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>While exploring the planet Argo, Kirk and Spock are turned into water breathers.</Overview>
+  <ProductionCode>22013</ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Margaret Armen|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73566/118770.jpg</filename>
+  <lastupdated>1408164432</lastupdated>
+  <seasonid>5998</seasonid>
+  <seriesid>73566</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>118771</id>
+  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Hal Sutherland|</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Das Geheimnis der Stasis-Box</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>1973-12-15</FirstAired>
+  <GuestStars>|James Doohan|James Doohan|Majel Barrett|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Spock, Uhura und Sulu transportieren eine Stasis-Box, als sie merkwÃ¼rdige Signale von der Box erhalten. Sie beschlieÃŸen dem nachzugehen und treffen auf ein paar feindlich gesinnte Kzinti. </Overview>
+  <ProductionCode>22011</ProductionCode>
+  <Rating>6.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Larry Niven|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73566/118771.jpg</filename>
+  <lastupdated>1408164452</lastupdated>
+  <seasonid>5998</seasonid>
+  <seriesid>73566</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>118772</id>
+  <Combined_episodenumber>15</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Hal Sutherland|</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Auf der Suche nach Ãœberlebenden</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired>1974-01-05</FirstAired>
+  <GuestStars>|James Doohan|Majel Barrett|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Auf der Suche nach einer vermissten Raumschiffcrew entdeckt die Enterprise einen intergalaktischen Zoo. </Overview>
+  <ProductionCode>22016</ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|David P. Harmon|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73566/118772.jpg</filename>
+  <lastupdated>1408164482</lastupdated>
+  <seasonid>5998</seasonid>
+  <seriesid>73566</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>118773</id>
+  <Combined_episodenumber>16</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Hal Sutherland|</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Das gestohlene Gehirnwellenmuster</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired>1974-01-12</FirstAired>
+  <GuestStars>|David Gerrold|James Doohan|Majel Barrett|Majel Barrett|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Kirk leads a party to retrieve a religious relic that was stolen; however, he is faced with sabotage from within the group by someone who doesn't want to relic to be found, which will trigger an intergalactic jihad.</Overview>
+  <ProductionCode>22012</ProductionCode>
+  <Rating>4.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Stephen Kandel|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73566/118773.jpg</filename>
+  <lastupdated>1408164504</lastupdated>
+  <seasonid>5998</seasonid>
+  <seriesid>73566</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>118774</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Hal Sutherland|</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Die Piraten von Orion</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>1974-09-07</FirstAired>
+  <GuestStars>|George Takei|James Doohan|George Takei|Majel Barrett|James Doohan|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Spock braucht dringend ein lebenswichtiges Medikament, doch der Frachter, der es Ã¼berbringen soll, wird von Piraten angegriffen. </Overview>
+  <ProductionCode>22020</ProductionCode>
+  <Rating>6.7</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Howard Weinstein|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73566/118774.jpg</filename>
+  <lastupdated>1408164542</lastupdated>
+  <seasonid>5999</seasonid>
+  <seriesid>73566</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>118775</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Hal Sutherland|</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>GefÃ¤hrliche PrÃ¼fung</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>1974-09-14</FirstAired>
+  <GuestStars>|James Doohan|Majel Barrett|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>The Enterprise has as an observer on their current exploration/contact missions: Commander Ari bn Bem of the planet Pandro. He is rude and obnoxious and dangerously independent, but Kirk is under orders to treat him well to further relations with Pandro. After six months in his cabin Bem insists on going on a landing party. Trying to rescue Bem (who claims he is observing the primitive locals), Kirk and Spock are captured. Bem has replaced their communicators and phasers with dummies to observe them under stress as well. He reveals he is a colony creature who can split his body into separate, individually independent parts. Meanwhile, a sensory anomaly is sweeping over the planet, and appears to be a &quot;&quot;god&quot;&quot; of some sort that claims responsibility over its &quot;&quot;children&quot;&quot; and insists they leave. Bem escapes and Kirk rescues him again by telling the &quot;&quot;god&quot;&quot; that he has the same responsibility to Bem it does to her children. A chastened Bem acquiesces and the planet's natives are left to develop</Overview>
+  <ProductionCode>22018</ProductionCode>
+  <Rating>6.3</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|David Gerrold|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73566/118775.jpg</filename>
+  <lastupdated>1408164562</lastupdated>
+  <seasonid>5999</seasonid>
+  <seriesid>73566</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>118776</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Hal Sutherland|</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>WÃ¼ste Scherze</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>1974-09-21</FirstAired>
+  <GuestStars>|James Doohan|Majel Barrett|James Doohan|Norm Prescott|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die Enterprise durchfliegt ein geheimnisvolles Energiefeld. PlÃ¶tzlich spielt das Schiff verrÃ¼ckt und spielt der Crew einen Streich nach dem anderen. ZusÃ¤tzlich haben Romulaner die Verfolgung aufgenommen. </Overview>
+  <ProductionCode>22017</ProductionCode>
+  <Rating>6.7</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Chuck Menville|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73566/118776.jpg</filename>
+  <lastupdated>1408164581</lastupdated>
+  <seasonid>5999</seasonid>
+  <seriesid>73566</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>118777</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Hal Sutherland|</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Dr. McCoy unter Anklage</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>1974-09-28</FirstAired>
+  <GuestStars>|James Doohan|Lou Scheimer|James Doohan|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Dr. McCoy wird verdÃ¤chtig auf Dramia II eine Seuche ausgelÃ¶st zu haben und wird verhaftet. Kirk und Spock mÃ¼ssen sich beeilen, die Unschuld von ihrem Freund zu beweisen. </Overview>
+  <ProductionCode>22019</ProductionCode>
+  <Rating>6.7</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Dario Finelli|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73566/118777.jpg</filename>
+  <lastupdated>1408164597</lastupdated>
+  <seasonid>5999</seasonid>
+  <seriesid>73566</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>118778</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Bill Reed|</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Kulkulkan - Der MÃ¤chtige</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>1974-10-05</FirstAired>
+  <GuestStars>|James Doohan|James Doohan|Majel Barrett|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>The Enterprise is tracing the course of a probe that scanned Earth and sent a signal back along its course. They are attacked by a serpent-shaped energy field belonging to a feathered serpent who claims to be Kulkukan of Mayan-Aztec legend. It beams Kirk, McCoy, Scott, and Ensign Walking Bear aboard its ship to solve its puzzle before he will reveal himself. Aligning the mirrors in a strange city, they solve the puzzle and Kulkukan appears before them. It takes them to its &quot;&quot;zoo&quot;&quot; of violent creatures that now live in tranquility. Spock figures a way to break Kulkukan's force field and Kirk uses the diversion to free the animals. Kulkukan realizes that is not a god, but just a delusional old alien that once helped the younger races along. It leaves in sadness, leaving McCoy to remember the Shakespearean quote, &quot;&quot;How sharper than a serpent's tooth is an ungrateful child...&quot;&quot;</Overview>
+  <ProductionCode>22022</ProductionCode>
+  <Rating>5.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Russell Bates|David Wise|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73566/118778.jpg</filename>
+  <lastupdated>1408164621</lastupdated>
+  <seasonid>5999</seasonid>
+  <seriesid>73566</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>118779</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>|Bill Reed|</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Flucht aus einem anderen Universum</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>1974-10-12</FirstAired>
+  <GuestStars>|James Doohan|Nichelle Nichols|James Doohan|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Durch eine Supernova gerÃ¤t die USS Enterprise in ein Paralleluniversum, in dem alles umgekehrt zu funktionieren scheint</Overview>
+  <ProductionCode>22023</ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>|Fred Bronson|</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/73566/118779.jpg</filename>
+  <lastupdated>1408164644</lastupdated>
+  <seasonid>5999</seasonid>
+  <seriesid>73566</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>240</thumb_height>
+  <thumb_width>320</thumb_width>
+</Episode>
+</Data>

@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>81303</id>
+  <Actors>|Heinz Schubert|Elisabeth Wiedemann|Hildegard Krekel|Klaus Dahlen (Staffel2)|Helga Feddersen (Staffel 2)|Diether Krebs|</Actors>
+  <Airs_DayOfWeek></Airs_DayOfWeek>
+  <Airs_Time></Airs_Time>
+  <ContentRating></ContentRating>
+  <FirstAired>1973-01-15</FirstAired>
+  <Genre>|Comedy|</Genre>
+  <IMDB_ID>tt0074004</IMDB_ID>
+  <Language>de</Language>
+  <Network>WDR</Network>
+  <NetworkID></NetworkID>
+  <Overview>Ein Herz und eine Seele zeigt stark Ã¼berspitzt das Zusammenleben einer typisch deutschen Familie in einem Arbeiterviertel in Bochum wÃ¤hrend der 70er-Jahre: So behandelt sie neben Ã¼blichen Alltagsthemen vor allem das Zusammentreffen extrem konservativ-bÃ¼rgerlicher Ansichten der Eltern mit den idealistischen AnsÃ¤tzen der 68-er-Bewegung von Tochter und Schwiegersohn.</Overview>
+  <Rating>9.2</Rating>
+  <RatingCount>6</RatingCount>
+  <Runtime>45</Runtime>
+  <SeriesID></SeriesID>
+  <SeriesName>Ein Herz und eine Seele</SeriesName>
+  <Status>Ended</Status>
+  <added></added>
+  <addedBy></addedBy>
+  <banner>graphical/81303-g.jpg</banner>
+  <fanart>fanart/original/81303-2.jpg</fanart>
+  <lastupdated>1420065383</lastupdated>
+  <poster>posters/81303-1.jpg</poster>
+  <tms_wanted_old>0</tms_wanted_old>
+  <zap2it_id></zap2it_id>
+</Series>
+<Episode>
+  <id>977461</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Requiem fÃ¼r ein Ekel</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>1974-12-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Im Weihnachtsprogramm des Jahres 1974 widmete die ARD der Serie ein Special. Unter dem Titel &quot;Requiem fÃ¼r ein Ekel&quot; dozierte Sozialwissenschaftler, Politiker und Literaten mit fast schon Ã¼bertriebener Ernsthaftigkeit Ã¼ber die Serie und deren gesellschaftliche Bedeutung. Auch Alfred-Darsteller Heinz Schubert sprach darin Ã¼ber seine Rolle.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/81303/977461.jpg</filename>
+  <lastupdated>1337523116</lastupdated>
+  <seasonid>30570</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4120144</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Ein GesprÃ¤ch mit der Schauspielerin Hildegard Krekel</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Interview with actress Hildegard Krekel (Rita Graf)</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>2</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1337523003</lastupdated>
+  <seasonid>30570</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4120146</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Wolfgang Menge im GesprÃ¤ch mit seinem Sohn Jakob Menge</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Interview with director Wolfgang Menge by his son Jakob Menge</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>2</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1337529291</lastupdated>
+  <seasonid>30570</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4120158</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Geliebtes Ekel</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>2</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1337523800</lastupdated>
+  <seasonid>30570</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4671402</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Lachgeschichten - Ein Herz und eine Seele</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Dokumentation Ã¼ber die Serie</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>2</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1380559255</lastupdated>
+  <seasonid>30570</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>351263</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joachim Preen</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Das HÃ¤hnchen</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>1973-01-15</FirstAired>
+  <GuestStars>Heinz Schubert|Elisabeth Wiedemann|Hildegard Krekel|Diether Krebs</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Alfred Tetzlaff kommt von schwerer Tagesarbeit und einen ausgiebigen Ausflug in die Kneipe nach Hause und muss feststellen, dass Else und die Kinder nicht daheim sind - gut, das wird er verschmerzen, da hat er wenigstens seine Ruhe. Aber: Der Tisch ist nicht gedeckt, der KÃ¼hlschrank leer und der Ofen ist aus und er hat Hunger. Und niemand ist da, an dem er seine Wut auslassen kann, das ist wirklich der Gipfel der UnverschÃ¤mtheit. Also wird gewartet und wehe den Heimkehrern ...
+
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>10.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/81303/351263.jpg</filename>
+  <lastupdated>1279627367</lastupdated>
+  <seasonid>30571</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>351264</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Joachim Preen</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Der Fernseher</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>1973-01-29</FirstAired>
+  <GuestStars>Tillmann RÃ¶rig|Heinz Schubert|Elisabeth Wiedemann|Hildegard Krekel|Diether Krebs</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Michael will fernsehen, aber Alfred will nicht. Dann will Rita fernsehen, aber sie darf nicht - ebenso wenig wie Else. Ekel Alfred ist schlieÃŸlich der Herr im Hause, und daran darf keiner rÃ¼tteln. Als dann Alfred selber fernsehen will, geht der Apparat kaputt, doch Alfred weiÃŸ sich mit Hammer und Zange zu helfen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/81303/351264.jpg</filename>
+  <lastupdated>1280793739</lastupdated>
+  <seasonid>30571</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>368672</id>
+  <Combined_episodenumber>16.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>16.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Joachim Preen</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Besuch aus der Ostzone</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>1973-02-12</FirstAired>
+  <GuestStars>Heinz Schubert|Elisabeth Wiedemann|Hildegard Krekel|Diether Krebs</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Am 17. Juni 1974 wurde diese Folge der Serie &quot;Ein Herz und eine Seele&quot; zum ersten Mal ausgestrahlt. Die Beziehungen zur damaligen DDR begannen sich gerade auf politischer Seite etwas aufzulockern. Die ideologischen Grenzen aber waren im wahrsten Sinne des Wortes 'zugemauert'. Und in dieser Situation steht der Familie Tetzlaff Besuch ins Haus - ein eigentlich freudiger Anlass. Michaels Eltern wollen endlich ihre angeheirateten Verwandten kennen lernen. Alfred zeigt sich wieder einmal von seiner besten und charmantesten Seite, denn nicht genug, dass die Eltern seines 'roten' Schwiegersohnes aus der ehemaligen DDR kommen, es ist zusÃ¤tzlich natÃ¼rlich eine besondere Schikane der 'Sozis', dass sie ausgerechnet dann zu Besuch kommen, wenn im Fernsehen die Berichte von der FuÃŸballweltmeisterschaft Ã¼bertragen werden. Aber Alfred war ja schon immer gegen die Heirat seiner Tochter mit diesem 'Roten'.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>10.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/81303/368672.jpg</filename>
+  <lastupdated>1280793871</lastupdated>
+  <seasonid>30571</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>368673</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Joachim Preen</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Die Beerdigung</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>1973-02-26</FirstAired>
+  <GuestStars>Heinz Schubert|Elisabeth Wiedemann|Hildegard Krekel|Diether Krebs</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Frau GrÃ¤tz war eine wundervolle Ã¤ltere Dame - nach der Meinung von Alfred Tetzlaff jedenfalls. Allerdings ist dies auch erst seine Meinung, seit Frau GrÃ¤tz gestorben ist. Davor hat er sich nicht immer so freundlich Ã¼ber die Nachbarin geÃ¤uÃŸert. Und dass Rita und Michael ihn an so manche unfreundliche Ã„uÃŸerung von frÃ¼her erinnern, ist ja mal wieder typisch. Aber was kann man von einem Sozi auch schon anderes erwarten.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/81303/368673.jpg</filename>
+  <lastupdated>1280793768</lastupdated>
+  <seasonid>30571</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>368674</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Joachim Preen</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Die Bombe</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>1973-03-12</FirstAired>
+  <GuestStars>Heinz Schubert|Elisabeth Wiedemann|Hildegard Krekel|Diether Krebs</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Alfred kommt nichtsahnend nach Hause, freut sich auf ein gemÃ¼tliches Wochenende und was findet er vor: Eine Bombe! NatÃ¼rlich liegt da nicht einfach eine Bombe herum, noch ist sie im Paket verborgen. Aber fÃ¼r denkende Menschen ist auf den ersten Blick klar, was Else gar nicht bemerkte, als die das Paket fÃ¼r einen Nachbarn entgegennahm. Der Adressat ist ein Araber oder jedenfalls irgendeiner von diesen Orientalen, von denen man weiÃŸ, was sie sich so per Post schicken lassen...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/81303/368674.jpg</filename>
+  <lastupdated>1280793785</lastupdated>
+  <seasonid>30571</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>368675</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Joachim Preen</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Hausverkauf</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>1973-03-26</FirstAired>
+  <GuestStars>Heinz Schubert|Elisabeth Wiedemann|Hildegard Krekel|Diether Krebs</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Michael mÃ¶chte den Familienfrieden steigern und hat folgenden Plan: Wenn er ein grÃ¶ÃŸeres Haus kaufen kÃ¶nnte, dann wÃ¼rde die Familie sich nicht mehr so oft sehen und es wÃ¤re Ruhe und Frieden im Hause Teztzlaff. Dazu mÃ¼sste allerdings das idyllische ReihenhÃ¤uschen von Alfred verkauft werden. Um dessen Wert zu ermitteln, wird ein Makler eingeladen, der den Wert feststellen soll. Der Makler kommt auch, vorsichtshalber an Alfreds Kegelabend. Wer kann denn ahnen, dass Alfred ausgerechnet an diesem Abend zuhause bleiben will...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/81303/368675.jpg</filename>
+  <lastupdated>1280794080</lastupdated>
+  <seasonid>30571</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>368676</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Joachim Preen</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Silberne Hochzeit</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>1973-04-09</FirstAired>
+  <GuestStars>Heinz Schubert|Elisabeth Wiedemann|Hildegard Krekel|Diether Krebs</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Dass man seinen Hochzeitstag vergisst, das kommt ja in den besten Familien vor. Auch in der besten aller Familien, bei den Tetzlaffs. Rita und Michael haben aber vorgesorgt und den Eltern nicht nur eine Einladung zum Abendessen in ein vornehmes franzÃ¶sisches Restaurant verschafft (glÃ¼cklicherweise gibt es da keine Pizza), sondern auch in Alfreds Namen fÃ¼r die Ã¼berraschte Else ein Geschenk samt Liebesbrief besorgt. Dass der &quot;liebende Gatte&quot; davon nichts ahnt, fÃ¼hrt dann auch prompt zu einigen Verwicklungen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/81303/368676.jpg</filename>
+  <lastupdated>1280794111</lastupdated>
+  <seasonid>30571</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>367006</id>
+  <Combined_episodenumber>9.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>9.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Joachim Preen</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Urlaubsvorbereitung</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>1973-04-30</FirstAired>
+  <GuestStars>Barbara NÃ¼sse|Renate Schubert|Rudolf Brand|JÃ¼rgen Kraft|Jochen Stern|Heinz Schubert|Elisabeth Wiedemann|Hildegard Krekel|Diether Krebs</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Bisher haben die Tetzlaffs ihren Urlaub immer in Deutschland verbracht, doch diesmal mÃ¶chte Alfred ins Ausland, allerdings muss es eine Gegend sein, wo es weder Gastarbeiter noch Sozis gibt. AuÃŸerdem will er seinem neuen Hobby Tauchen frÃ¶nen.
+
+Anmerkung:
+Die Folge wurde 1974 - leicht bearbeitet - fÃ¼r die ARD noch einmal in Farbe produziert.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>9.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/81303/367006.jpg</filename>
+  <lastupdated>1376799914</lastupdated>
+  <seasonid>30571</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>368677</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Joachim Preen</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Erntedankfest</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>1973-10-01</FirstAired>
+  <GuestStars>Heinz Schubert|Elisabeth Wiedemann|Hildegard Krekel|Diether Krebs</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Alfred Tetzlaff und Familie sind wohlbehalten aus dem Urlaub zurÃ¼ck. Nun steht das Erntedankfest vor der TÃ¼r - Grund genug fÃ¼r Ekel Alfred, sich Gedanken zu machen Ã¼ber die brennendsten Probleme der Umweltverschmutzung - zumal es auÃŸer ihm ja sonst keiner tut. Das ist immer dasselbe.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/81303/368677.jpg</filename>
+  <lastupdated>1280794133</lastupdated>
+  <seasonid>30571</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>368678</id>
+  <Combined_episodenumber>7.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>7.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Joachim Preen</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Eine schwere Erkrankung</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>1973-10-29</FirstAired>
+  <GuestStars>Heinz Schubert|Elisabeth Wiedemann|Hildegard Krekel|Diether Krebs</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>MÃ¤nner sind ja eigentlich nie krank - aber wenn, dann sind sie viel krÃ¤nker als Frauen. Alfred ist jedenfalls der Meinung, dass mit seinem Ableben jederzeit zu rechnen sei. SchlieÃŸlich hat er eine Grippe. Eine Flasche Wodka bringt nur vorÃ¼bergehend Linderung, da droht neues Unheil: Der Hausarzt hÃ¤lt ihn fÃ¼r gesund. Da kann dann natÃ¼rlich nur noch ein wirklicher KÃ¶nner, ein Spezialist helfen...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/81303/368678.jpg</filename>
+  <lastupdated>1280794171</lastupdated>
+  <seasonid>30571</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>368679</id>
+  <Combined_episodenumber>8.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>8.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Joachim Preen</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Der Sittenstrolch</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>1973-11-26</FirstAired>
+  <GuestStars>Heinz Schubert|Elisabeth Wiedemann|Hildegard Krekel|Diether Krebs</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>UnerhÃ¶rtes trÃ¤gt sich in dem beschaulichen Vorort zu, in dem die Tetzlaffs ihr schmuckes Eigenheim haben. Ein Unhold zeigt sich in schamverletzender Art und Weise den Damen der Nachbarschaft. Sogar Else, obwohl die nach Alfreds Meinung wahrlich keine Dame ist. Klar, dass ein Mann wie Alfred, der fÃ¼r Zucht und Ordnung ist, der Polizei hier laufend unter die Arme greifen muss. Alleine schafft die das ohnehin nie, bei den laschen Gesetzen...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/81303/368679.jpg</filename>
+  <lastupdated>1280794186</lastupdated>
+  <seasonid>30571</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>368680</id>
+  <Combined_episodenumber>10.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>10.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Joachim Preen</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Sylvesterpunsch</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>1973-12-31</FirstAired>
+  <GuestStars>Heinz Schubert|Elisabeth Wiedemann|Hildegard Krekel|Diether Krebs</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Am Silvesterabend trifft die Familie Tetzlaff zum frÃ¶hlichen Familienfest zusammen. Sie haben nichts von der Herzlichkeit im Umgang miteinander verloren, wenn sich auch die politischen BegleitumstÃ¤nde geÃ¤ndert haben. Else, Rita, Michael und der treusorgende Familienvater Alfred tun jedenfalls alles, um diesen Abend zu einem Erfolg werden zu lassen. Zu einem â€žvollenâ€œ Erfolg, denn der Punsch zeigt sehr schnell seine anregende Wirkung...
+
+Anmerkung
+&quot;Silvesterpunsch&quot; war die erste Folge von &quot;Ein Herz und eine Seele&quot;, die fÃ¼r die ARD, in Farbe produziert wurde.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.8</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/81303/368680.jpg</filename>
+  <lastupdated>1369929632</lastupdated>
+  <seasonid>30571</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>368681</id>
+  <Combined_episodenumber>11.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>11.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Joachim Preen</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Der Ofen ist aus (Farbversion)</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>1974-01-28</FirstAired>
+  <GuestStars>Heinz Schubert|Elisabeth Wiedemann|Hildegard Krekel|Diether Krebs</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Alfred Tetzlaff kommt nach schwerer Tagesarbeit nach Hause und muss feststellen, dass die Revolution in seinem Hause Einzug gehalten hat. Frau und Kinder sind nicht daheim - gut, das wird er verschmerzen, da hat er wenigstens seine Ruhe. Aber: Der Tisch ist nicht gedeckt, der KÃ¼hlschrank ist leer und der Ofen ist kalt. Und da ist bei Alfred der Ofen aus! Und dass noch nicht einmal jemand da ist, an dem er seine Wut auslassen kann, das ist wirklich der Gipfel der UnverschÃ¤mtheit! Also wird gewartet - und wehe den Heimkehrern...!
+
+Anmerkung: Folge 1 in Farbe</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/81303/368681.jpg</filename>
+  <lastupdated>1280794261</lastupdated>
+  <seasonid>30571</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>351174</id>
+  <Combined_episodenumber>12.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>12.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Joachim Preen</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Rosenmontagszug</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>1974-02-25</FirstAired>
+  <GuestStars>|Jochen Stern (Koslowski)|Gabi Go|Eva BÃ¶ttcher|Karl-Heinz Walther (RÃ¼bensahm)|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Das deutsche Volk taumelt von einer Krise in die andere, aber seine Regierung hat befohlen, dass Karneval gefeiert wird - so beurteilt Alfred Tetzlaff die Lage der Nation am Rosenmontag 1974. Aber weil er trotz allem letztlich ein pflichtbewusster BÃ¼rger ist, geht er mit seiner Familie zu seinem Freund Koslowski, um sich dort den Rosenmontagszug anzusehen. Dazu kommt Alfred freilich nicht so recht, vor allem wegen seines KostÃ¼ms, das auf die anwesenden Frauen offenbar eine starke Wirkung hat.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/81303/351174.jpg</filename>
+  <lastupdated>1280794280</lastupdated>
+  <seasonid>30571</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>357324</id>
+  <Combined_episodenumber>13.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>13.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Joachim Preen</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>FrÃ¼hjahrsputz</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired>1974-03-18</FirstAired>
+  <GuestStars>Heinz Schubert|Elisabeth Wiedemann|Hildegard Krekel|Diether Krebs|</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Else Tetzlaff und Rita gehen einem groÃŸen Ereignis entgegen: dem FrÃ¼hjahrsputz. NatÃ¼rlich geht Alfred diesem Ereignis lieber aus dem Wege und zum FuÃŸball - Hertha gegen Schalke. Wer gegen wen letztendlich siegt, ob Else gegen den Schmutz oder Alfred gegen alle, das wird sich zeigen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/81303/357324.jpg</filename>
+  <lastupdated>1337523955</lastupdated>
+  <seasonid>30571</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>368682</id>
+  <Combined_episodenumber>14.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>14.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Joachim Preen</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Selbstbedienung</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired>1974-04-13</FirstAired>
+  <GuestStars>Heinz Schubert|Elisabeth Wiedemann|Hildegard Krekel|Diether Krebs</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>In dieser Folge lernt der Zuschauer eine Menge: Den Unterschied zwischen Mundraub und Diebstahl, den Unterschied zwischen Diebstahl bei uns und bei den Russen und den Unterschied zwischen Mein und Dein bei uns und bei den Roten. Der Lehrer ist natÃ¼rlich kein Geringerer als Alfred Tetzlaff, der KÃ¤mpfer fÃ¼r Recht und Gesetz. Zu dumm nur, dass seine eigene Frau offensichtlich gerade eben das Gesetz verletzt hat...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>2</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/81303/368682.jpg</filename>
+  <lastupdated>1280794340</lastupdated>
+  <seasonid>30571</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>368683</id>
+  <Combined_episodenumber>16.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>16.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Joachim Preen</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Besuch aus der Ostzone (Farbversion)</EpisodeName>
+  <EpisodeNumber>17</EpisodeNumber>
+  <FirstAired>1974-06-17</FirstAired>
+  <GuestStars>Rosemari KÃ¼hn|Nikolaus Schilling|Oskar Werner Engartner|Heinz Schubert|Elisabeth Wiedemann|Hildegard Krekel|Diether Krebs</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Der Familie Tetzlaff steht Besuch ins Haus - ein eigentlich freudiger Anlass. Michaels Eltern wollen endlich ihre angeheirateten Verwandten kennen lernen. Alfred zeigt sich wieder einmal von seiner besten und charmantesten Seite, denn nicht genug, dass die Eltern seines 'roten' Schwiegersohnes aus der ehemaligen DDR kommen, es ist zusÃ¤tzlich natÃ¼rlich eine besondere Schikane der 'Sozis', dass sie ausgerechnet dann zu Besuch kommen, wenn im Fernsehen die Berichte von der FuÃŸballweltmeisterschaft Ã¼bertragen werden. Aber Alfred war ja schon immer gegen die Heirat seiner Tochter mit diesem 'Roten'.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/81303/368683.jpg</filename>
+  <lastupdated>1280794406</lastupdated>
+  <seasonid>30571</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>368684</id>
+  <Combined_episodenumber>18.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>18.0</DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joachim Preen</Director>
+  <EpImgFlag>3</EpImgFlag>
+  <EpisodeName>Urlaubsvorbereitung (Farbversion)</EpisodeName>
+  <EpisodeNumber>18</EpisodeNumber>
+  <FirstAired>1974-07-15</FirstAired>
+  <GuestStars>Heinz Schubert|Elisabeth Wiedemann|Hildegard Krekel|Diether Krebs</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Bisher haben die Tetzlaffs ihren Urlaub immer in Deutschland verbracht, doch diesmal mÃ¶chte Alfred ins Ausland, allerdings muss es eine Gegend sein, wo es weder Gastarbeiter noch Sozis gibt. AuÃŸerdem will er seinem neuen Hobby &quot;Tauchen&quot; frÃ¶nen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/81303/368684.jpg</filename>
+  <lastupdated>1376754900</lastupdated>
+  <seasonid>30571</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>368685</id>
+  <Combined_episodenumber>15.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>15.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Joachim Preen</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Tapetenwechsel</EpisodeName>
+  <EpisodeNumber>19</EpisodeNumber>
+  <FirstAired>1974-08-12</FirstAired>
+  <GuestStars>Heinz Schubert|Elisabeth Wiedemann|Hildegard Krekel|Diether Krebs</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Dass Alfred seiner Familie das Leben im heimischen Reihenhaus nicht gerade leicht macht, hat sich wahrscheinlich herumgesprochen. Jedenfalls erhalten Rita und Michael den Tipp, dass in der NÃ¤he ihres jetzigen gemÃ¼tlichen Heimes ein Haus frei geworden ist und sie Ã¼berlegen, ob sie nicht umziehen sollten. Wenn das so einfach wÃ¤re - Alfred ist strikt dagegen, denn an wem soll er noch seine Launen auslassen, wenn ein Teil der Familie nicht mehr da ist?</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/81303/368685.jpg</filename>
+  <lastupdated>1280794356</lastupdated>
+  <seasonid>30571</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>368686</id>
+  <Combined_episodenumber>17.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>17.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Joachim Preen</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Der Staatsfeind</EpisodeName>
+  <EpisodeNumber>20</EpisodeNumber>
+  <FirstAired>1974-09-09</FirstAired>
+  <GuestStars>Heinz Schubert|Elisabeth Wiedemann|Hildegard Krekel|Diether Krebs</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>MerkwÃ¼rdiges tut sich in Alfreds Umgebung: Wenn man GerÃ¼chten glauben darf, zieht ein Fremder Erkundigungen ein Ã¼ber Alfred und Ã¼ber seinen besten Freund Koslowski. Was hat das zu bedeuten? Alfred ist zutiefst beunruhigt und erforscht sein Gewissen, und das ist nun leider Ã¼berhaupt nicht rein. Eines Tages erscheint der Unbekannte auch bei Tetzlaff und Alfred ist wieder mal in Hochform. Das Ergebnis der Umfrage ist aber auch fÃ¼r Alfred mehr als verblÃ¼ffend.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/81303/368686.jpg</filename>
+  <lastupdated>1280793894</lastupdated>
+  <seasonid>30571</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>368687</id>
+  <Combined_episodenumber>21.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>21.0</DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joachim Preen</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Der Sittenstrolch (Farbversion)</EpisodeName>
+  <EpisodeNumber>21</EpisodeNumber>
+  <FirstAired>1974-11-04</FirstAired>
+  <GuestStars>Heinz Schubert|Elisabeth Wiedemann|Hildegard Krekel|Diether Krebs</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>UnerhÃ¶rtes trÃ¤gt sich in dem beschaulichen Vorort zu, in dem die Tetzlaffs ihr schmuckes Eigenheim haben. Ein Unhold zeigt sich in schamverletzender Art und Weise den Damen der Nachbarschaft. Sogar Else, obwohl die nach Alfreds Meinung wahrlich keine Dame ist. Klar, dass ein Mann wie Alfred, der fÃ¼r Zucht und Ordnung ist, der Polizei hier laufend unter die Arme greifen muss. Allein schafft die das ohnehin nie, bei den laschen Gesetzen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>6.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/81303/368687.jpg</filename>
+  <lastupdated>1279627569</lastupdated>
+  <seasonid>30571</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>368688</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>JÃ¼rgen Flimm</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Telefon!</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>1976-05-31</FirstAired>
+  <GuestStars>Heinz Schubert|Helga Feddersen|Hildegard Krekel|Klaus Dahlen</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Nach eineinhalbjÃ¤hriger Pause wurde im Mai 1976 &quot;Ekel Alfred&quot; mitsamt seiner Familie wiederbelebt, um mit seiner ganz persÃ¶nlichen Weltanschauung erneut die Nation zu verfÃ¼hren. In vier Folgen wurde die Rolle der &quot;Else Tetzlaff&quot; nun mit Helga Feddersen besetzt. Alfred Tetzlaff hat eine andere Frau bekommen und Rita einen anderen Mann (Klaus Dahlen), ansonsten ist bei Familie Tetzlaff alles beim alten geblieben. Das Telefon bzw. die Telefonzelle spielt in dieser Folge die Hauptrolle. Denn Alfred, es ist kaum zu glauben, folgt dem Zug der Zeit und schafft sich ein eigenes Telefon an.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number>1</absolute_number>
+  <filename>episodes/81303/368688.jpg</filename>
+  <lastupdated>1337354907</lastupdated>
+  <seasonid>32689</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>368689</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joachim Preen</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Massage</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>1976-07-05</FirstAired>
+  <GuestStars>Heinz Schubert|Helga Feddersen|Hildegard Krekel|Klaus Dahlen</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Wie so oft wird auch diesmal wieder bei Familie Tetzlaff ausgiebig Ã¼ber die ZeitlÃ¤ufe diskutiert, und wie immer geht Alfred daraus als moralischer Sieger hervor. Leider ist sein kÃ¶rperlicher Zustand danach nicht ganz so zufriedenstellend, er ist nÃ¤mlich vom Stuhl gefallen und braucht einen Arzt. Der Arzt kommt und erweist sich als Ã¤uÃŸerst tÃ¼chtiger Vertreter seines Standes. An seinem Patienten kann er allerdings kein schweres Leiden feststellen - aber eine Massage kÃ¶nne nichts schaden. Gesagt, getan. Die hilfreiche Else bestellt anhand einer Zeitungsannonce eine Masseuse zu einem Hausbesuch.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number>2</absolute_number>
+  <filename>episodes/81303/368689.jpg</filename>
+  <lastupdated>1337354925</lastupdated>
+  <seasonid>32689</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>368690</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joachim Preen</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Modell Tetzlaff</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>1976-09-27</FirstAired>
+  <GuestStars>Heinz Schubert|Helga Feddersen|Hildegard Krekel|Klaus Dahlen</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>GroÃŸe Aufregung bei Familie Tetzlaff: Ein amerikanischer Journalist hat sich angesagt. Er will eine Reportage Ã¼ber die bevorstehende Bundestagswahl machen und hat sich eine deutsche Familie ausgesucht: Die Tetzlaffs. Alfred und die Seinen treffen ihre Vorbereitungen, denn schlieÃŸlich wollen sie Deutschland wÃ¼rdig reprÃ¤sentieren: Die Wohnung wird auf Hochglanz gebracht. Alfred geht zum Friseur, und gemeinsam Ã¼berlegen die Vier, wie sie sich von ihrer besten Seite zeigen kÃ¶nnen. FÃ¼r den Abend hat der Reporter sie zum Essen im feinsten Restaurant der Stadt eingeladen. Es wird sich zeigen, ob die Familie ihrer Aufgabe gewachsen ist.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number>3</absolute_number>
+  <filename>episodes/81303/368690.jpg</filename>
+  <lastupdated>1337354939</lastupdated>
+  <seasonid>32689</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>368691</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>JÃ¼rgen Flimm</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>SchluÃŸwort</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>1976-11-22</FirstAired>
+  <GuestStars>Heinz Schubert|Helga Feddersen|Hildegard Krekel|Klaus Dahlen</GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Alfred Tetzlaff ist in eine Ã¼ble Sache verwickelt. Angefangen hat alles ganz harmlos, mit spielenden Kindern vor seiner HaustÃ¼r, mit einem FuÃŸball, den Alfred konfisziert hat, mit einem wÃ¼tenden Vater, den er auf wundersame Weise bekÃ¤mpft und besiegt hat - aber schlieÃŸlich steht Alfred Tetzlaf wegen KÃ¶rperverletzung vor Gericht und ist ganz klein geworden.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Wolfgang Menge</Writer>
+  <absolute_number>4</absolute_number>
+  <filename>episodes/81303/368691.jpg</filename>
+  <lastupdated>1337354953</lastupdated>
+  <seasonid>32689</seasonid>
+  <seriesid>81303</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+</Data>

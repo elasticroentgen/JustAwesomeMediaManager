@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>266780</id>
+  <Actors>||</Actors>
+  <Airs_DayOfWeek></Airs_DayOfWeek>
+  <Airs_Time></Airs_Time>
+  <ContentRating></ContentRating>
+  <FirstAired></FirstAired>
+  <Genre></Genre>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Network></Network>
+  <NetworkID></NetworkID>
+  <Overview></Overview>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <Runtime></Runtime>
+  <SeriesID></SeriesID>
+  <SeriesName></SeriesName>
+  <Status></Status>
+  <added>2013-02-10 03:51:40</added>
+  <addedBy>375011</addedBy>
+  <banner></banner>
+  <fanart></fanart>
+  <lastupdated>1360597669</lastupdated>
+  <poster></poster>
+  <zap2it_id></zap2it_id>
+</Series>
+<Episode>
+  <id>4499183</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename></filename>
+  <lastupdated>1360597881</lastupdated>
+  <seasonid>512349</seasonid>
+  <seriesid>266780</seriesid>
+</Episode>
+</Data>

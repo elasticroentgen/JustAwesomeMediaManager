@@ -1,0 +1,3733 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>183931</id>
+  <Actors>|Heinz SchrÃ¶der|Friedgard Kurze|GÃ¼nter Puppe|</Actors>
+  <Airs_DayOfWeek>Saturday</Airs_DayOfWeek>
+  <Airs_Time>18:50</Airs_Time>
+  <ContentRating></ContentRating>
+  <FirstAired>1962-06-17</FirstAired>
+  <Genre>|Children|Fantasy|</Genre>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Network>DDR1</Network>
+  <NetworkID></NetworkID>
+  <Overview>Pittiplatsch, kurz Pitti genannt, ist ein kleiner, schwarzer Kobold mit einem groÃŸen Mundwerk und einem groÃŸen Herz. Er ist neugierig, verschmitzt und durchaus liebenswert. Seine Aktionen sind gut gemeint, oft allerdings nicht ganz uneigennÃ¼tzig und leider gehen sie auch meistens schief. Dann ist er total betrÃ¼bt und verspricht, zukÃ¼nftig â€žgaaanz liiiebâ€œ zu sein!</Overview>
+  <Rating>4.0</Rating>
+  <RatingCount>1</RatingCount>
+  <Runtime>5</Runtime>
+  <SeriesID></SeriesID>
+  <SeriesName>Pittiplatsch</SeriesName>
+  <Status>Continuing</Status>
+  <added>2010-08-21 07:40:19</added>
+  <addedBy>125201</addedBy>
+  <banner>graphical/183931-g.jpg</banner>
+  <fanart>fanart/original/183931-2.jpg</fanart>
+  <lastupdated>1418570021</lastupdated>
+  <poster>posters/183931-1.jpg</poster>
+  <tms_wanted_old>0</tms_wanted_old>
+  <zap2it_id></zap2it_id>
+</Series>
+<Episode>
+  <id>2668291</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Wie Pitti schneller wachsen wollte</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>1991-04-06</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti will nicht mehr so klein sein, er versucht es mit dem BegieÃŸen oder Salatessen - es hilft nichts. Von Schnattchen aufgeklÃ¤rt, beschlieÃŸt er, langsam zu wachsen, dafÃ¼r aber 500 Jahre alt zu werden.
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668291.jpg</filename>
+  <lastupdated>1404662518</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668301</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Moppi und das Puppenbaby</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668301.jpg</filename>
+  <lastupdated>1282489862</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668311</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Als Moppi den Gartenofen erfand</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668311.jpg</filename>
+  <lastupdated>1282489874</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668321</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Als Moppi einen Witschel bewachte</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668321.jpg</filename>
+  <lastupdated>1282489889</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668331</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Als Moppi mit einem Schneemann befreundet war</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Moppi hat sich so sehr Ã¼ber Schnatterinchen und Pitti geÃ¤rgert, dass er sich lieber einen eiskalten Schneemann zum Freund wÃ¼nscht, weil der viel mehr Herz hÃ¤tte als die beiden. PlÃ¶tzlich stehen neben Moppis HÃ¼tte ein Schneemann, eine Schneefrau und Kinder. Da ruft Moppi verzweifelt um Hilfe. Pitti hilft.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668331.jpg</filename>
+  <lastupdated>1354504247</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668341</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Als Pitti verschwunden war</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668341.jpg</filename>
+  <lastupdated>1282489912</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668351</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Als Schnatterinchen Lehrerin sein wollte</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668351.jpg</filename>
+  <lastupdated>1282489924</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668361</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Das Winterecho am Bach</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668361.jpg</filename>
+  <lastupdated>1282489936</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668371</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Als Pitti Boxmeister werden wollte</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti treibt auch im Winter Sport - und will Boxmeister werden. Aber weder Schnattchen noch Moppi wollen mit Pitti boxen. Da hÃ¤lt sich Pitti an den Schneemann, den er gleich mit dem ersten Schlag besiegt.
+(mdr)</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668371.jpg</filename>
+  <lastupdated>1360142594</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668381</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Die Bettkutsche</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668381.jpg</filename>
+  <lastupdated>1283594608</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668391</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Die EispfÃ¼tze vor der HaustÃ¼r</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Moppi will bei Pitti und Schnatterinchen Ã¼bernachten, weil vor seiner HaustÃ¼r eine RiesenpfÃ¼tze ist. Sie Ã¼berlegen, wie Moppi trotzdem in die HÃ¼tte kommt. Als die PfÃ¼tze zugefroren ist, schlittert Moppi in seine HÃ¼tte hinein.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel|Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668391.jpg</filename>
+  <lastupdated>1390756612</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668401</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Die Geheminisvolle Kiste</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668401.jpg</filename>
+  <lastupdated>1283594662</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668411</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Die Osterhasenfalle</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Moppi hat eine Osterhasenfalle gebaut - mit einer honigbeschmierten MohrrÃ¼be in einer Kiepe. Der Osterhase soll die Ostereier nur noch fÃ¼r Moppi legen. Pitti vereitelt Moppis Plan, und die honigbeschmierte MohrrÃ¼be klebt an Moppis Kopfkissen.
+(mdr)</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668411.jpg</filename>
+  <lastupdated>1362575220</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668421</id>
+  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Drei WeihnachtsmÃ¤nner im Schnee</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668421.jpg</filename>
+  <lastupdated>1283594712</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668431</id>
+  <Combined_episodenumber>15</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Eine seltsame Abendmusik</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668431.jpg</filename>
+  <lastupdated>1283594745</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668441</id>
+  <Combined_episodenumber>16</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Es ist Fussballzeit</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668441.jpg</filename>
+  <lastupdated>1283594769</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668451</id>
+  <Combined_episodenumber>17</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Moppi auf der Schneewolke</EpisodeName>
+  <EpisodeNumber>17</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668451.jpg</filename>
+  <lastupdated>1283594792</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668461</id>
+  <Combined_episodenumber>18</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Pitti und der Schimpfschneemann</EpisodeName>
+  <EpisodeNumber>18</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Schnatterinchen ist bÃ¶se Ã¼ber Pittis stÃ¤ndige Schimpferei. Pitti Ã¼bt am Schneemann, der nicht reden kann, neue SchimpfwÃ¶rter. Als der Schneemann plÃ¶tzlich umgefallen ist, bereut Pitti seine Schimpferei!
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668461.jpg</filename>
+  <lastupdated>1390756494</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668471</id>
+  <Combined_episodenumber>19</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Schnattchens Allerbeste Freunde</EpisodeName>
+  <EpisodeNumber>19</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Schnatterinchen malt ein Bild fÃ¼r eine Ausstellung - &quot;Mein bester Freund&quot;. Pitti und Moppi kommen ins Streiten, denn jeder glaubt, Schnatterinchen wÃ¼rde ihn malen. Als das Bild fertig ist, stellt sich heraus, Schnattchen hat Pitti und Moppi gemalt.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668471.jpg</filename>
+  <lastupdated>1401781395</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668481</id>
+  <Combined_episodenumber>20</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Wer gewinnt das ApfelmÃ¤nnchen</EpisodeName>
+  <EpisodeNumber>20</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die Puppen treiben Sport. Pitti schummelt sich durch das Tauziehen und das SackhÃ¼pfen und gewinnt das ApfelmÃ¤nnchen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668481.jpg</filename>
+  <lastupdated>1347609325</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668491</id>
+  <Combined_episodenumber>21</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Moppi und das Pfannkuchengebirge</EpisodeName>
+  <EpisodeNumber>21</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti und Schnatterinchen stellen eine SchÃ¼ssel Faschingspfannkuchen zum AbkÃ¼hlen in den Garten. Und damit keiner davon nascht, spricht Pitti einen Koboldspruch Ã¼ber die Pfannkuchen.
+(mdr)</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668491.jpg</filename>
+  <lastupdated>1360142531</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668501</id>
+  <Combined_episodenumber>22</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Moppi der Schauspieler</EpisodeName>
+  <EpisodeNumber>22</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Moppi hat beschlossen, Schauspieler zu werden, wegen des Beifalls. Aber weil Moppi eben Moppi ist, bringt er alles durcheinander. Wie sollen die Ente und Pitti ihrem Freund beibringen, daÃŸ er kein Talent hat? Pitti schafft es mit einem Trick.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668501.jpg</filename>
+  <lastupdated>1383576781</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668511</id>
+  <Combined_episodenumber>23</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Moppi wird verzaubert</EpisodeName>
+  <EpisodeNumber>23</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668511.jpg</filename>
+  <lastupdated>1283594983</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668521</id>
+  <Combined_episodenumber>24</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Schnattchen wird gemalt</EpisodeName>
+  <EpisodeNumber>24</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668521.jpg</filename>
+  <lastupdated>1283594993</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668531</id>
+  <Combined_episodenumber>25</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Moppi mit der Brille</EpisodeName>
+  <EpisodeNumber>25</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Moppi hat eine Brille auf und behauptet, er kÃ¶nne damit lesen. Wie soll Pitti ihm das Gegenteil beweisen?</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668531.jpg</filename>
+  <lastupdated>1347609346</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668541</id>
+  <Combined_episodenumber>26</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Schneeschmelze</EpisodeName>
+  <EpisodeNumber>26</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/183931/2668541.jpg</filename>
+  <lastupdated>1283595007</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2668551</id>
+  <Combined_episodenumber>27</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Pittiplatsch und der Koboldsturm</EpisodeName>
+  <EpisodeNumber>27</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1346661904</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4390324</id>
+  <Combined_episodenumber>28</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Was nach dem Sommerfest geschah</EpisodeName>
+  <EpisodeNumber>28</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pittiplatsch, Schnatterinchen und Moppi haben ein Garten-Sommerfest gefeiert. Die GÃ¤ste sind fort. In der SchÃ¼ssel liegen noch drei BockwÃ¼rste, die will Moppi gleich vernaschen! 'Und wenn jemand zurÃ¼ck kommt, weil er seine Bockwurst vergessen hat?', fragt Pitti. Moppi verkleidet sich als Indianer und dann als Baby. Pitti und Schnatterinchen erkennen Ihn.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1346659918</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4390323</id>
+  <Combined_episodenumber>29</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Moppi in der Klemme saÃŸ</EpisodeName>
+  <EpisodeNumber>29</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Moppi ist anders als sonst. Als er sich auch noch mehrmals verkleidet und von Pitti und Schnattchen sofort erkannt wird, gehen die beiden der Sache auf den Grund.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1346659996</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4390326</id>
+  <Combined_episodenumber>30</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Mondscheinstube</EpisodeName>
+  <EpisodeNumber>30</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti mÃ¶chte nachts nicht mehr schlafen, weil er dadurch sehr viel versÃ¤umt. Er baut sich eine Mondscheinstube im Garten und spielt mit Schnattchen noch Verstecken. Schnattchen sucht verzweifelt nach Pitti. SchlieÃŸlich findet sie den schlafenden Pitti und hat MÃ¼he ihn nach Hause zu bringen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1346660647</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4390327</id>
+  <Combined_episodenumber>31</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Pitti ein Mumpelpumpel war</EpisodeName>
+  <EpisodeNumber>31</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Schnattchen Ã¼bersieht Pitti. Dieser fragt Moppi um Rat und der meint, Pitti mÃ¼sste ein bisschen flotter gekleidet sein. Also putzt sich Pitti mit Hut, Schleife und BlumenstrauÃŸ und Brille so heraus, dass ihn Schnattchen nicht mehr erkennt. SchlieÃŸlich klÃ¤rt ein Rhabarberkuchen die Sache auf. Pitti ist froh, dass er wieder Pitti sein kann.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1346660687</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4390328</id>
+  <Combined_episodenumber>32</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Pitti ein Frosch war</EpisodeName>
+  <EpisodeNumber>32</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti hat seinen FuÃŸball durch das offene Fenster ins Gartenhaus geschossen und die Tapete hat einen nassen Fleck bekommen. Pitti will ein Froschbild malen, um es Ã¼ber den Fleck zu hÃ¤ngen. Aber er weiÃŸ nicht wie ein Frosch aussieht, Moppi bietet seine Hilfe an.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1346660844</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4390330</id>
+  <Combined_episodenumber>33</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Pitti nicht ins Bett wollte</EpisodeName>
+  <EpisodeNumber>33</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Schnatterinchen stellt sich vor, ihr Bett wÃ¤re ein Schaukelschiff mit dem sie allerlei Abenteuer erlebt. Da hat Pitti auch gleich noch ein paar Ideen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1346660950</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4390331</id>
+  <Combined_episodenumber>34</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Pitti ein Dichter war</EpisodeName>
+  <EpisodeNumber>34</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti sucht jemanden, dem er sein Herz ausschÃ¼tten kann. Doch Schnatterinchen und Moppi haben keine Zeit. So setzt er sich auf das Laubendach und 'dichtet' sich seinen Kummer von der Seele.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1346660981</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4390332</id>
+  <Combined_episodenumber>35</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Pitti SchÃ¤fchen zÃ¤hlen wollte</EpisodeName>
+  <EpisodeNumber>35</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti kann nicht einschlafen. Schnattchen rÃ¤t ihm, SchÃ¤fchen zu zÃ¤hlen. Das nimmt Pitti wÃ¶rtlich, sucht nach den SchÃ¤fchen, findet aber keine.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1346661084</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4390333</id>
+  <Combined_episodenumber>36</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Der Stern der rosaroten Ziegen</EpisodeName>
+  <EpisodeNumber>36</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti und Moppi wollen zum Stern der rosaroten Ziegen fliegen, um nachzusehen, ob diese Ziegenart Holundermilch gibt. Sie steigen in eine groÃŸe Kiepe und Pitti spricht einen Koboldspruch. Als ihnen Schnattchen mit Badekappe und Bademantel entgegenkommt, begrÃ¼ÃŸt Pitti sie mit 'Liebe rosarote Ziege!'</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1346661136</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4390334</id>
+  <Combined_episodenumber>37</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Pitti in die Ferien reisen wollte</EpisodeName>
+  <EpisodeNumber>37</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Schnatterinchen und Pitti warten auf Moppi, denn sie wollen gemeinsam in die Ferien reisen. Moppi will unbedingt eine groÃŸe Plane mitnehmen, zum Schutz gegen Wolkenbruch und LÃ¶wen. Und die Waschwanne als Rettungsboot.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1346661303</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4390335</id>
+  <Combined_episodenumber>38</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Pitti und die pfeifenden Schmetterlinge</EpisodeName>
+  <EpisodeNumber>38</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti hat von der KoboldgroÃŸmutter einen Brief erhalten. Er glaubt, dass er den Schmetterlingen das Pfeifen beibringen soll.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1346661330</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4390339</id>
+  <Combined_episodenumber>39</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Drei Indianer am Bach</EpisodeName>
+  <EpisodeNumber>39</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Schnatterinchen, Moppi und Pittiplatsch spielen Indianer und wollen am Bach Ã¼bernachten. Aber so einfach ist dieses Vorhaben gar nicht.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1346661422</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4390340</id>
+  <Combined_episodenumber>40</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Der doppelte Moppi</EpisodeName>
+  <EpisodeNumber>40</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Moppi ist neugierig und sieht in alle Kisten und KÃ¤sten. Pitti und Schnattchen wollen Moppi von dieser Neugierde heilen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1346661457</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4390345</id>
+  <Combined_episodenumber>41</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Autodoktor Pitti und seine Methoden</EpisodeName>
+  <EpisodeNumber>41</EpisodeNumber>
+  <FirstAired>1988-05-28</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pittiplatsch spielt Autodoktor. Er hat sich eine Werkstatt aufgebaut und 'behandelt' seinen Lastwagen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1346663450</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4390348</id>
+  <Combined_episodenumber>42</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Das Gewitter vor der TÃ¼r</EpisodeName>
+  <EpisodeNumber>42</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti und Moppi spielen mit Schnatterinchens Wasserball FuÃŸball. Der verliert die Luft und schwirrt davon. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1346661555</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4390360</id>
+  <Combined_episodenumber>43</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Pitti den Strickfimmel hatte</EpisodeName>
+  <EpisodeNumber>43</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Schnattelchen hat Pitti das Stricken beigebracht. Nun hat sich Pitti gleich einen Winterschal gestrickt, aber es ist nur eine lange Wollstrippe geworden.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1346661652</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4390362</id>
+  <Combined_episodenumber>44</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Spinnennetz</EpisodeName>
+  <EpisodeNumber>44</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Schnatterinchen, Pitti und Moppi sammeln im Herbstwald Pilze. Pitti kennt eine geheime Stelle und flÃ¼stert sie Moppi zu. Schnatterinchen hat es gehÃ¶rt und will den beiden zuvorkommen. 
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1346661677</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4390363</id>
+  <Combined_episodenumber>45</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Die Hexe Malwine</EpisodeName>
+  <EpisodeNumber>45</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti, Schnattchen und Moppi wollen Verstecken spielen. Pitti wettet mit den beiden, dass sie ihn hundertmal ansehen werden, ohne ihn zu finden. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1360145475</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4390364</id>
+  <Combined_episodenumber>46</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Moppi und der Herbstriese</EpisodeName>
+  <EpisodeNumber>46</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Moppi will zu Schnatterinchen und Pitti in die Laube ziehen, weil er glaubt, ein Riese hÃ¤tte es auf seine HundehÃ¼tte abgesehen. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1346661796</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4390365</id>
+  <Combined_episodenumber>47</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Der groÃŸe Regen</EpisodeName>
+  <EpisodeNumber>47</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Nach einem Regenguss herrscht Ãœberschwemmung im Garten und Pitti versucht, mit einem WaschgefÃ¤ÃŸ Moppi zu retten. Als auch Schnattchen um Hilfe ruft, kommt er ganz durcheinander. Rettung bringt die Sonne, die die PfÃ¼tzen trocknet.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1346662169</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4390368</id>
+  <Combined_episodenumber>48</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Moppi den Sommer beweinte</EpisodeName>
+  <EpisodeNumber>48</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Moppi hat gehÃ¶rt, dass der Sommer zu Ende geht. Er beweint ihn lauthals. Pitti und Schnattchen beschlieÃŸen, Moppi abzulenken, und wollen ihm das MÃ¤rchen von den sieben GeiÃŸlein vorspielen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1346662493</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4390366</id>
+  <Combined_episodenumber>49</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Pitti und das verrÃ¼ckte Telefon</EpisodeName>
+  <EpisodeNumber>49</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Das Telefon in der Gartenlaube ist entzwei. Pitti soll den Schaden melden, aber der Weg ist ihm zu weit. Er repariert das Telefon selbst - natÃ¼rlich mit Pittimethoden.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1346662442</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4397418</id>
+  <Combined_episodenumber>50</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Der Zappelwusch im Gartenhaus</EpisodeName>
+  <EpisodeNumber>50</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti und Moppi haben einen seltenen Zappelwusch gefangen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1347608998</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4397419</id>
+  <Combined_episodenumber>51</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Moppi im Pantoffel durch das Herbstlaub raschelte</EpisodeName>
+  <EpisodeNumber>51</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti hat seinen 'Besserwisser-Tag'. Er bringt Moppi ganz durcheinander.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1347609016</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4397420</id>
+  <Combined_episodenumber>52</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Schwindelausrede</EpisodeName>
+  <EpisodeNumber>52</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti soll Schnatterinchen beim Abwaschen und Abtrocknen helfen. Dazu hat er gerade gar keine Lust.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1347609036</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4397421</id>
+  <Combined_episodenumber>53</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Pitti einen LÃ¶wen besiegte</EpisodeName>
+  <EpisodeNumber>53</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Als Moppi einen Ziegenbock verjagt hat, behauptet Pitti, er wÃ¼rde es mit zwei LÃ¶wen aufnehmen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1347609065</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4397422</id>
+  <Combined_episodenumber>54</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Pitti und das Geburtstagspferd</EpisodeName>
+  <EpisodeNumber>54</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Moppi wundert sich, dass Pittiplatsch eine Futterkrippe mit Heu vor die Gartenbank stellt. Pitti behauptet, morgen bekommt er ein Pferd zum Geburtstag.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1347609081</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4397423</id>
+  <Combined_episodenumber>55</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Pitti, der Allerbeste der Welt</EpisodeName>
+  <EpisodeNumber>55</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti fÃ¤llt ein, dass er eigentlich doch der Allerbeste der Welt ist. Weder Schnatterinchen noch Moppi wollen Pittis Feststellung bestÃ¤tigen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1347609107</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4397424</id>
+  <Combined_episodenumber>56</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Pitti KapitÃ¤n war</EpisodeName>
+  <EpisodeNumber>56</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti hat eine MÃ¼tze gefunden und benutzt Schnatterinchens Waschwanne, um KapitÃ¤n zu spielen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1347609122</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4397425</id>
+  <Combined_episodenumber>57</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Moppi einen Winterschlaf halten wollte</EpisodeName>
+  <EpisodeNumber>57</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Moppi ist weg. Schnatterinchen und Pitti finden ihn endlich unter einem Laubhaufen. Moppi wundert sich, dass sein Winterschlaf schon vorbei sein soll.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1347609138</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4397426</id>
+  <Combined_episodenumber>58</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Pitti und die kleine Freundlichkeit </EpisodeName>
+  <EpisodeNumber>58</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pittiplatsch versucht rauszubekommen, worÃ¼ber sich die Schnatterente am meisten freuen wÃ¼rde.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1347609153</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4397427</id>
+  <Combined_episodenumber>59</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Moppi die Erde war</EpisodeName>
+  <EpisodeNumber>59</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti will noch seinen Drachen steigen lassen, aber die Sonne geht schon unter. Pitti und Moppi wollen die Sonne wach halten.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1347609170</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4397428</id>
+  <Combined_episodenumber>60</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Der Siebenmeilenschuh </EpisodeName>
+  <EpisodeNumber>60</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti findet einen alten Schuh und glaubt, es wÃ¤re der 'Sieben-Meilen-Stiefel' und will ihn natÃ¼rlich gleich ausprobieren.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1347609188</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4397429</id>
+  <Combined_episodenumber>61</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Puppenwagen</EpisodeName>
+  <EpisodeNumber>61</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Schnatterinchen bereitet das Abendessen vor, frische Erdbeeren mit Pudding. Pitti ist vor Ungeduld schon ganz durcheinander. Er fÃ¤hrt mit dem Roller gegen Schnattchens Puppenwagen, ein Rad fÃ¤llt ab. Jetzt gibt es keine Puddingerdbeeren, befÃ¼rchtet Pitti.
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1347609204</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4397430</id>
+  <Combined_episodenumber>62</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Pitti und das RegenmÃ¤rchen </EpisodeName>
+  <EpisodeNumber>62</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Immer wenn es regnet erzÃ¤hlt Schnatterinchen ein RegenmÃ¤rchen. Pitti und Moppi wollen heute eine Geschichte trotz Sonnenschein hÃ¶ren.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1347609219</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4397431</id>
+  <Combined_episodenumber>63</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Pitti eine Sternschnuppenfalle baute </EpisodeName>
+  <EpisodeNumber>63</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti erfindet eine Sternschnuppenfalle. Die Schnatterente glaubt, es wÃ¤re ein Gartenpapierkorb und wirft einen madigen Apfel hinein.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1347609235</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4397432</id>
+  <Combined_episodenumber>64</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Pitti den Wind fangen wollte</EpisodeName>
+  <EpisodeNumber>64</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Der Wind hat Schnatterinchens PuppenwÃ¤sche von der Leine gerissen. Pitti will den Wind fangen. Versehentlich gerÃ¤t Moppi in den Sack.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1347609250</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4397433</id>
+  <Combined_episodenumber>65</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Ein Regenabend in der Gartenlaube </EpisodeName>
+  <EpisodeNumber>65</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Moppi langweilt sich, weil es drauÃŸen regnet. Da spielen Schnatterinchen, Moppi und Pitti das MÃ¤rchen vom RotkÃ¤ppchen. Doch Moppi kennt sich nicht gut aus.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1347609267</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4397434</id>
+  <Combined_episodenumber>66</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Pitti einmal um die ganze Welt flitzte</EpisodeName>
+  <EpisodeNumber>66</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti behauptet, er kÃ¶nne einmal um die Erde flitzen, bevor Moppi bis 14 gezÃ¤hlt hat.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1347609282</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4397436</id>
+  <Combined_episodenumber>67</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Naschdrache</EpisodeName>
+  <EpisodeNumber>67</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Schnatterinchen, Pitti und Moppi spielen ein altes MÃ¤rchen. Ritter Kunopitt befreit die Schnatterprinzessin aus den Krallen des gefÃ¼rchteten Drachen Moppidunil.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1347609296</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4411074</id>
+  <Combined_episodenumber>68</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Die Wolke an der Leine</EpisodeName>
+  <EpisodeNumber>68</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die Ente und Moppi haben einen Drachen repariert und wollen ihn steigen lassen. Pitti mischt sich ein. Am Schluss meint Moppi: Immer wenn Pitti BlÃ¶dsinn baut, muss man sich nachher noch bei ihm dafÃ¼r bedanken !</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1349362313</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4411075</id>
+  <Combined_episodenumber>69</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Pitti und die rasende Feuerwehr</EpisodeName>
+  <EpisodeNumber>69</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti und Moppi spielen Feuerwehr. Rasen mit dem Handwagen quer Ã¼ber die Gartenbeete und stoÃŸen alles um, was sich ihnen in den Weg stellt. Der Einsatz heiÃŸt &quot;Vergaserbrand an Schnattchens Puppenwagen&quot;. NatÃ¼rlich geraten die beiden mit Schnattchen zusammen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1349362502</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4411077</id>
+  <Combined_episodenumber>70</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Moppi ein Pferd war</EpisodeName>
+  <EpisodeNumber>70</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti und Moppi sind aneinander geraten, weil Moppi behauptet, Kobolde hÃ¤tten nur Stroh im Kopf. Pitti zeigt es Moppi auf seine Weise. Immer, wenn Moppi sich bewegt, erklingt ein Pferdegetrappel. Das bringt Moppi vollkommen durcheinander.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1349362700</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4438893</id>
+  <Combined_episodenumber>71</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Die heiÃŸen Socken</EpisodeName>
+  <EpisodeNumber>71</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti und Moppi haben beschlossen, zum Hundefasching als Kapelle aufzutreten. Als die Ente davon erfÃ¤hrt, will sie natÃ¼rlich sofort mitmachen. Zuerst Ablehnung. Aber schlieÃŸlich darf sie auch singen - und morgen werden &quot;Die heiÃŸen Socken&quot; zu dritt geÃ¼bt.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1353238447</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4438892</id>
+  <Combined_episodenumber>72</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Der Laternenumzug</EpisodeName>
+  <EpisodeNumber>72</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti, Moppi und Schnatterinchen wollen zum Laternenumzug. Schnattchen hat sich den FuÃŸ verstaucht und kann nicht mit. Moppi hat Mitleid mit ihr, aber Pitti will endlich los und stachelt den Freund an. Da ersinnt Moppi eine List: er verstaucht sich die Pfote und kann nun bei Schnatterinchen bleiben. Da kommt Pitti mit einem Wagen, um die Freunde zu ziehen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1353238347</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4458623</id>
+  <Combined_episodenumber>73</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Der MarzipanbÃ¤cker</EpisodeName>
+  <EpisodeNumber>73</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti und Schnatterinchen stellen Marzipan her. Moppi's Mithilfe beschrÃ¤nkt sich auf das &quot;Kosten&quot;. Moppi treibt es dabei so weit, dass ihn Pitti und Schnatterinchen aus der Laube drÃ¤ngen. Aber das Marzipan lockt !</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1356005306</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4458624</id>
+  <Combined_episodenumber>74</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Pitti und das Schlittenbett</EpisodeName>
+  <EpisodeNumber>74</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Schnatterinchen und Moppi werden auf dem Heimweg von der Eisbahn von einem fahrenden Bett Ã¼berrascht, das sich durch den Winterwald bewegt. GroÃŸes Erstaunen! Die Sache klÃ¤rt sich auf. Pitti hat sich einen geheimen Kinderwunsch erfÃ¼llt - mitten im Winter im warmen Bett spazieren zu fahren.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1356005368</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4475882</id>
+  <Combined_episodenumber>75</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Die Schneehexe</EpisodeName>
+  <EpisodeNumber>75</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Moppi hat fÃ¼r Schnattchen eine Schneehexe gebaut. Pitti aber will Moppi wieder ausstechen und zaubert ein Schneepferd daneben. Schnattchen reagiert aber ganz anders, als es Pitti erwartet.
+(mdr)</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1358127881</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4475883</id>
+  <Combined_episodenumber>76</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Die Kuh auf dem Staubwedel</EpisodeName>
+  <EpisodeNumber>76</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti will Moppi zu einer Schneeballschlacht verlocken, aber Moppi wischt in der HundehÃ¼tte Staub. Pitti ahmt ein Huhn und Katzen nach, aber ohne Erfolg.
+(mdr)</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1358127912</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4493546</id>
+  <Combined_episodenumber>77</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Faschingsmusik</EpisodeName>
+  <EpisodeNumber>77</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti und Moppi bereiten sich auf die Faschingsfeier vor. Sie haben sich ein Lied ausgedacht, das sie auf selbstgebstelten Insrumenten begleiten. Sie machen dabei einen frÃ¶hlichen Krach. SchlieÃŸlich kommen die beiden zu einer Erkenntnis - sie mÃ¼ssen leiser singen und musizieren.
+(mdr)</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1359915842</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4495555</id>
+  <Combined_episodenumber>78</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Pitti und Moppi gehen auf Polarexpedition</EpisodeName>
+  <EpisodeNumber>78</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti und Moppi wollen den Nordpol entdecken und Schnattchen darf nicht mit.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1360145664</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4495556</id>
+  <Combined_episodenumber>79</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Moppi wird zum LÃ¶wen</EpisodeName>
+  <EpisodeNumber>79</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Es ist Herbst und Pitti's Murkelstorch will nach Afrika fliegen. Doch Pitti hat eine Idee, er will Afrika im Garten bauen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1360145451</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4495557</id>
+  <Combined_episodenumber>80</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Pitti und Moppi als Polarforscher</EpisodeName>
+  <EpisodeNumber>80</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti und Moppi wollen mitten im Winter im Garten schlafen, doch Schnatterinchen hat was dagegen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1360145838</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4495558</id>
+  <Combined_episodenumber>81</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Pitti will nach Tukumanesien reisen</EpisodeName>
+  <EpisodeNumber>81</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>KapitÃ¤n Pitti macht sein Segelboot klar, er will nach Tukumanesien segeln. Moppi will unbedingt mit.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1360146030</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4510277</id>
+  <Combined_episodenumber>82</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Der Drachenbaum</EpisodeName>
+  <EpisodeNumber>82</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti und Moppi haben einen prÃ¤chtigen Drachen gebaut. Die Ente wollte es allein versuchen. Das Ergebnis ist niederschmetternd. Pitti will die Ente trÃ¶sten und zaubert einen Drachenbaum - aber der bringt noch allerlei Aufregung.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1383576806</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4510279</id>
+  <Combined_episodenumber>83</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Die Einweihungsparty</EpisodeName>
+  <EpisodeNumber>83</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>sirkotino
+Es ist schÃ¶n, wenn Sie am vervollstÃ¤ndigen der Pittiplatsch-Reihe mitarbeiten, doch bitte beachten Sie, daÃŸ es viel Arbeit macht, die fast undokumentierte Serie zu editieren! Bitte einfach mal die Suchfunktion des Browsers nutzen -- Strg+F -- damit Episoden nicht doppelt erscheinen!
+
+Als Moppi den Sommer beweinte ist vorhanden !!!
+Episode 48
+Der Laternenumzug ist bereits vorhanden!!!
+Episode 72
+
+Danke melmak21</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1362574772</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4510281</id>
+  <Combined_episodenumber>84</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Der Elefant im Primelbeet</EpisodeName>
+  <EpisodeNumber>84</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti schieÃŸt den FuÃŸball in Schnatterinchens Primelbeet. Moppi meint: &quot;Das gibt Ã„rger!&quot;, aber Pitti erfindet eine echte Pittiausrede.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1404753971</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4510282</id>
+  <Combined_episodenumber>85</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Moppi seine Gartenbank einweihen wollte</EpisodeName>
+  <EpisodeNumber>85</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Moppi hat eine neue Gartenbank neben seiner HÃ¼tte. Er hat Pitti und Schnatterinchen eingeladen, die Einweihung mit ihm zu feiern.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1370471077</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4510283</id>
+  <Combined_episodenumber>86</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Pitti und das Planschbecken</EpisodeName>
+  <EpisodeNumber>86</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die Puppen haben sich im Garten ein Planschbecken aufgestellt. Schnattchen planscht bis zum Abend darin herum. Pitti versucht, sie mit dem Wecker, der auf Mitternacht gestellt ist, herauszulocken, aber es gelingt nicht.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1373318006</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4510284</id>
+  <Combined_episodenumber>87</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Pitti ein Kopfkissen gieÃŸen wollte</EpisodeName>
+  <EpisodeNumber>87</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Schnattchen hat keine Zeit, mit Pitti Hopse zu spielen. Pitti bringt vieles durcheinander als er Schnattchen helfen will. So gieÃŸt er z.B. die HundehÃ¼tte und nicht die Blumen usw.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1375545499</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4510285</id>
+  <Combined_episodenumber>88</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Pitti sein Eis nicht teilen wollte</EpisodeName>
+  <EpisodeNumber>88</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>sirkotino
+Es ist schÃ¶n, wenn Sie am vervollstÃ¤ndigen der Pittiplatsch-Reihe mitarbeiten, doch bitte beachten Sie, daÃŸ es viel Arbeit macht, die fast undokumentierte Serie zu editieren! Bitte einfach mal die Suchfunktion des Browsers nutzen -- Strg+F -- damit Episoden nicht doppelt erscheinen!
+
+Als Moppi den Sommer beweinte ist vorhanden !!!
+Episode 48
+Der Laternenumzug ist bereits vorhanden!!!
+Episode 72
+
+Danke melmak21</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1362574683</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4510286</id>
+  <Combined_episodenumber>89</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Pitti den FrÃ¼hling einladen wollte</EpisodeName>
+  <EpisodeNumber>89</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>sirkotino
+Es ist schÃ¶n, wenn Sie am vervollstÃ¤ndigen der Pittiplatsch-Reihe mitarbeiten, doch bitte beachten Sie, daÃŸ es viel Arbeit macht, die fast undokumentierte Serie zu editieren! Bitte einfach mal die Suchfunktion des Browsers nutzen -- Strg+F -- damit Episoden nicht doppelt erscheinen!
+
+Als Moppi den Sommer beweinte ist vorhanden !!!
+Episode 48
+Der Laternenumzug ist bereits vorhanden!!!
+Episode 72
+
+Danke melmak21</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1362574669</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4510287</id>
+  <Combined_episodenumber>90</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Moppi einen FrÃ¼hlingstag verschlief</EpisodeName>
+  <EpisodeNumber>90</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Moppi ist frÃ¼hlingsmÃ¼de und schlÃ¤ft sogar unter der Pumpe ein. Das nutzt Pitti aus und pumpt. Nun ist Moppi putzmunter! Er trompetet so, dass sich Pitti und die Ente Watte in die Ohren stopfen mÃ¼ssen.
+(mdr)</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1362575101</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4510288</id>
+  <Combined_episodenumber>91</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Pitti und die KoboldflÃ¶te</EpisodeName>
+  <EpisodeNumber>91</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Schnatterinchen hat sich Ã¼ber Pitti geÃ¤rgert, aber was Pitti auch versucht, er kann Schnatterinchen nicht versÃ¶hnen. Da fÃ¤llt es Pitti ein: Wer singt, kann nicht schimpfen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1364842843</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4510289</id>
+  <Combined_episodenumber>92</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Pitti als Zirkusdirektor</EpisodeName>
+  <EpisodeNumber>92</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>sirkotino
+Es ist schÃ¶n, wenn Sie am vervollstÃ¤ndigen der Pittiplatsch-Reihe mitarbeiten, doch bitte beachten Sie, daÃŸ es viel Arbeit macht, die fast undokumentierte Serie zu editieren! Bitte einfach mal die Suchfunktion des Browsers nutzen -- Strg+F -- damit Episoden nicht doppelt erscheinen!
+
+Als Moppi den Sommer beweinte ist vorhanden !!!
+Episode 48
+Der Laternenumzug ist bereits vorhanden!!!
+Episode 72
+
+Danke melmak21</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1362574612</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4510290</id>
+  <Combined_episodenumber>93</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Der BlumenstrauÃŸwinker</EpisodeName>
+  <EpisodeNumber>93</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Hinter einem Busch taucht ein BlumenstrauÃŸ auf, der hin und her geschwenkt wird. Schnattchen glaubt, das gelte ihr. Sofort wird sie eitel. Wer ist der heimliche BlumenstrauÃŸwinker? Pitti klÃ¤rt die Sache auf.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1373317912</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4510292</id>
+  <Combined_episodenumber>94</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Pitti und das Zauberrohr</EpisodeName>
+  <EpisodeNumber>94</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>sirkotino
+Es ist schÃ¶n, wenn Sie am vervollstÃ¤ndigen der Pittiplatsch-Reihe mitarbeiten, doch bitte beachten Sie, daÃŸ es viel Arbeit macht, die fast undokumentierte Serie zu editieren! Bitte einfach mal die Suchfunktion des Browsers nutzen -- Strg+F -- damit Episoden nicht doppelt erscheinen!
+
+Als Moppi den Sommer beweinte ist vorhanden !!!
+Episode 48
+Der Laternenumzug ist bereits vorhanden!!!
+Episode 72
+
+Danke melmak21</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1362574581</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4510291</id>
+  <Combined_episodenumber>95</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Die Blume in der GieÃŸkanne</EpisodeName>
+  <EpisodeNumber>95</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die Ente ist nicht zu Hause. Auf dem Gartentisch steht die GieÃŸkanne und in der TÃ¼lle steckt eine Blume. Pitti und Moppi kommen auf einen unglaublichen Gedanken: Ein Nashorn hat Schnatterinchen geraubt â€¦</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1373318073</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4510293</id>
+  <Combined_episodenumber>96</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Zwei Eiswaffeln im Briefkasten</EpisodeName>
+  <EpisodeNumber>96</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti hat zwei Eiswaffeln und mÃ¶chte sie nicht mit Schnattchen und Moppi teilen. Er versteckt sie deshalb zuerst hinter einem Busch und dann im Briefkasten. Das Eis schmilzt und Moppi schleckt es auf. Er glaubt, ein Hundefreund wollte ihm damit eine Freude bereiten. Und Pitti stellt fest, dass er ein dummer Pitti ist.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1375545616</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4510294</id>
+  <Combined_episodenumber>97</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Das Pferd</EpisodeName>
+  <EpisodeNumber>97</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>sirkotino
+Es ist schÃ¶n, wenn Sie am vervollstÃ¤ndigen der Pittiplatsch-Reihe mitarbeiten, doch bitte beachten Sie, daÃŸ es viel Arbeit macht, die fast undokumentierte Serie zu editieren! Bitte einfach mal die Suchfunktion des Browsers nutzen -- Strg+F -- damit Episoden nicht doppelt erscheinen!
+Bei dieser Episode bitte die Handlung Ã¼berprÃ¼fen ob sie nicht identisch ist mit der Episode 70 &quot;Als Moppi ein Pferd war&quot;!
+
+Als Moppi den Sommer beweinte ist vorhanden !!!
+Episode 48
+Der Laternenumzug ist vorhanden!!!
+Episode 72
+
+Danke melmak21</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1362578542</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4510295</id>
+  <Combined_episodenumber>98</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Eine Frage mitten ins Herz</EpisodeName>
+  <EpisodeNumber>98</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>sirkotino
+Es ist schÃ¶n, wenn Sie am vervollstÃ¤ndigen der Pittiplatsch-Reihe mitarbeiten, doch bitte beachten Sie, daÃŸ es viel Arbeit macht, die fast undokumentierte Serie zu editieren! Bitte einfach mal die Suchfunktion des Browsers nutzen -- Strg+F -- damit Episoden nicht doppelt erscheinen!
+
+Als Moppi den Sommer beweinte ist vorhanden !!!
+Episode 48
+Der Laternenumzug ist bereits vorhanden!!!
+Episode 72
+
+Danke melmak21</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1362574503</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4510278</id>
+  <Combined_episodenumber>99</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Der karierte Pitti</EpisodeName>
+  <EpisodeNumber>99</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Schnatterinchen Ã¤rgert sich, dass im Garten noch nichts vom FrÃ¼hling zu sehen ist. Sie verlangt von Pitti, dass er mit Hilfe von KoboldsprÃ¼chen die Krokusse blÃ¼hen und den Kuckuck rufen lÃ¤sst. Pitti erfÃ¼llt Schnatterinchens Wunsch, aber sie drÃ¤ngelt weiter.
+(mdr)</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1362574482</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4510280</id>
+  <Combined_episodenumber>100</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Immerzu Weihnachten</EpisodeName>
+  <EpisodeNumber>100</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Moppi singt im Februar ein Weihnachtslied, weil er Weihnachten so wunderbar findet. Schnattchen entdeckt das erste SchneeglÃ¶ckchen und Pitti redet von Ostereiern. Jetzt steckt Moppi sozusagen zwischen Baum und Borke.
+(mdr)</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1362575004</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4537384</id>
+  <Combined_episodenumber>101</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrendt</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Die Kiste am Bach</EpisodeName>
+  <EpisodeNumber>101</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Auf dem Heimweg von seinem FrÃ¼hlingsausflug finden Pitti, Schnatterinchen und Moppi am Bach eine Kiste. Was steckt in der Kiste? In der Kiste brummt es und das regt Pittis und Moppis Fantasie an. WÃ¤hrend Moppi an junge Hunde denkt, meint Pitti, eine verlassene Giraffe hockt in der Kiste. Sie stoÃŸen die Kiste um. Die Kiste ist total leer. Aber Pitti hat einen neuen Einfall, aus der Kiste wird eine Regenlaube, in der man sich vor dem Regen schÃ¼tzen kann.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1366504764</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4561968</id>
+  <Combined_episodenumber>102</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Moppi ein Schmetterling war</EpisodeName>
+  <EpisodeNumber>102</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Moppi fordert von Pitti, dass er ihm einen Koboldspruch verrÃ¤t. Pitti lÃ¤sst sich Ã¼berreden - und Moppi fliegt! Aber ein VergnÃ¼gen wird das nicht.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1367773465</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4561969</id>
+  <Combined_episodenumber>103</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Zwei BÃ¤umchen fÃ¼r Schnatterinchen</EpisodeName>
+  <EpisodeNumber>103</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Moppi will der Ente eine Freude bereiten und pflanzt fÃ¼r sie heimlich ein ApfelbÃ¤umchen. Pitti ist gleich wieder eifersÃ¼chtig und mit einem Koboldspruch verwandelt er das BÃ¤umchen in eine Vogelscheuche mit Entenschnabel.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1367773497</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4561970</id>
+  <Combined_episodenumber>104</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Zirkus 'GrÃ¼ner Pinguin'</EpisodeName>
+  <EpisodeNumber>104</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti und Moppi spielen fÃ¼r Schnatterinchen Zirkus. Sie bekommen Streit, wer Zirkusdirektor sein soll. Schnatterinchen findet eine LÃ¶sung, die allen gefÃ¤llt.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1367773566</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4585677</id>
+  <Combined_episodenumber>105</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Die LÃ¼genprobe</EpisodeName>
+  <EpisodeNumber>105</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die reifen Erdbeeren sind verschwunden, jemand hat sie weggenascht. Und da alle drei ihre Unschuld beteuern, denkt sich Schnattchen eine List aus - die LÃ¼genprobe. Und weil Moppi besonders schlau sein will, fÃ¤llt er herein und entlarvt sich als der Erdbeernascher.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1370471179</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4626183</id>
+  <Combined_episodenumber>106</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Die fliegende Regentonne</EpisodeName>
+  <EpisodeNumber>106</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti mÃ¶chte gern reiten, aber die Ente will weder Pferd noch Kamel im Gartenhaus unterbringen. Also beschlieÃŸt Pitti auf der Regentonne zu reiten. In der Aufregung verwechselt er reiten mit fliegen und fliegt mit der Tonne davon.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1375545557</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4649322</id>
+  <Combined_episodenumber>107</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Moppi kein Schleichkater sein wollte</EpisodeName>
+  <EpisodeNumber>107</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Moppi macht wieder mal alles falsch. Entweder ist er zu laut und er soll schleichen, oder es ist zu leise, und er soll sich bemerkbar machen. Er will aber keinesfalls ein Schleichkater sein. Den verjagt er schlieÃŸlich auch.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1378229274</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4703351</id>
+  <Combined_episodenumber>108</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Moppi und der RaschellÃ¶we</EpisodeName>
+  <EpisodeNumber>108</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Moppi will schlafen gehen, da raschelt es an der HundehÃ¼tte. Ist es ein Gespenst oder ein entsprungener LÃ¶we? SchlieÃŸlich entlarvt Schnatterinchen den Raschler - es war nur eine Maus ...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1383576848</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4731896</id>
+  <Combined_episodenumber>109</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Pitti und das VersÃ¶hnungsstÃ¤ndchen</EpisodeName>
+  <EpisodeNumber>109</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti hat Schnattchen verÃ¤rgert. Nun mÃ¶chte er sich wieder mit ihr versÃ¶hnen, weiÃŸ aber nicht, wie er das anstellen soll. &quot;Singe ihr ein StÃ¤ndchen, das macht immer Eindruck&quot;, rÃ¤t Moppi. Pitti Ã¼berlegt und setzt dann mehrmals an, der Ente ein StÃ¤ndchen zu bringen, aber wird immer wieder von Moppi gestÃ¶rt, der seinen Anteil zum StÃ¤ndchen bringen mÃ¶chte. Es entstehen turbulente Situationen, die jedoch ihr Ziel erreichen. Schnattchen prustet vor Lachen und ist nicht mehr mit Pitti bÃ¶se.
+(mdr)</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel, Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1400221143</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4764618</id>
+  <Combined_episodenumber>110</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Pitti die Erde umrodeln wollte</EpisodeName>
+  <EpisodeNumber>110</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti hat sich mit Hilfe eines Regenschirms einen Segelschlitten gebastelt, will damit die Erde umrodeln und berÃ¼hmt werden. Moppi will natÃ¼rlich Pitti begleiten. Aber die Expedition scheitert zuerst an den Windpausen. Als Moppi der Hilfsmotor sein soll, steigt er aus dem Unternehmen aus.
+(mdr)</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel|Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1400221118</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4764620</id>
+  <Combined_episodenumber>111</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Moppi sich ein Vorbild suchte</EpisodeName>
+  <EpisodeNumber>111</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Moppi ist neidisch auf Schnattchen, weil man sie Ã¼berall liebt und achtet. Er will sich Schnattchen zum Vorbild nehmen. Aber er muss erkennen - ein bloÃŸes Ã¤uÃŸerliches Nachahmen genÃ¼gt nicht, im Gegenteil, das bringt nur Nachteile.
+(mdr)
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel|Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1400221058</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4884872</id>
+  <Combined_episodenumber>112</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Ein BÃ¤umchen fÃ¼r Schnatterinchen</EpisodeName>
+  <EpisodeNumber>112</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Moppi will der Ente eine Freude bereiten und pflanzt fÃ¼r sie heimlich ein ApfelbÃ¤umchen. Pitti ist gleich wieder eifersÃ¼chtig und mit einem Koboldspruch verwandelt er das BÃ¤umchen in eine Vogelscheuche mit Entenschnabel.
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel|Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1401781452</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4899829</id>
+  <Combined_episodenumber>113</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Pitti eine Nachtigall war</EpisodeName>
+  <EpisodeNumber>113</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Am Abend sitzt Pitti im Garten, spielt auf seiner FlÃ¶te und will nicht schlafen gehen. Als Schnattchen ihn mahnt, meint er, er wÃ¤re eine Nachtigall und die schlafen nachts nicht. Moppi will auch Nachtigall sein, aber er kann nicht flÃ¶ten. So spielt er eine Ente, schnÃ¼ffelt nach MÃ¤usen und ruft &quot;Uhuu&quot;. PlÃ¶tzlich wird es im Garten still. Pitti und Moppi sitzen RÃ¼cken an RÃ¼cken und schlafen. Schnattchen kann sie nur mit einem Trick wecken.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel|Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1401781463</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4899830</id>
+  <Combined_episodenumber>114</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Ein Elefant im Primelbeet</EpisodeName>
+  <EpisodeNumber>114</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti schieÃŸt den FuÃŸball in Schnatterinchens Primelbeet. Moppi meint: &quot;Das gibt Ã„rger!&quot;, aber Pitti erfindet eine echte Pittiausrede.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel|Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1401781507</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4962666</id>
+  <Combined_episodenumber>115</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als Pittiplatsch ein Kopfkissen gieÃŸen wollte</EpisodeName>
+  <EpisodeNumber>115</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Schnattchen hat keine Zeit, mit Pitti Hopse zu spielen. Pitti bringt vieles durcheinander als er Schnattchen helfen will. So gieÃŸt er z.B. die HundehÃ¼tte und nicht die Blumen ... !</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel|Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1407953023</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4962667</id>
+  <Combined_episodenumber>116</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Als die Nixe Pitti geraubt hatte</EpisodeName>
+  <EpisodeNumber>116</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Moppi und Schnattchen suchen Pitti. Da hÃ¶ren die beiden plÃ¶tzlich seltsame TÃ¶ne. Moppi meint, dies sei eine Nixe, die Pitti geraubt habe. Es ist jedoch nur Pitti, der auf einer Muschel blÃ¤st.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel|Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1407953087</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5072611</id>
+  <Combined_episodenumber>117</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Gerhard Behrend</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Moppi und die SchneekÃ¶nigin</EpisodeName>
+  <EpisodeNumber>117</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Pitti und Moppi haben sich gestritten, weil Moppi an eine SchneekÃ¶nigin glaubt. Pitti lacht Moppi aus. Aber nun geschieht etwas MÃ¤rchenhaftes und gibt Moppi recht.
+(mdr)</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>GÃ¼nther Feustel|Ingeborg Feustel</Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1418570048</lastupdated>
+  <seasonid>299991</seasonid>
+  <seriesid>183931</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+</Data>

@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>79216</id>
+  <Actors>|Chris O'Dowd|Katherine Parkinson|Richard Ayoade|Matt Berry|Chris Morris|Noel Fielding|</Actors>
+  <Airs_DayOfWeek></Airs_DayOfWeek>
+  <Airs_Time></Airs_Time>
+  <ContentRating>TV-14</ContentRating>
+  <FirstAired>2006-02-03</FirstAired>
+  <Genre>|Comedy|</Genre>
+  <IMDB_ID>tt0487831</IMDB_ID>
+  <Language>de</Language>
+  <Network>Channel 4</Network>
+  <NetworkID></NetworkID>
+  <Overview>Junkfood, Comics und ein gewisses Defizit in sozialer Kompetenz: Roy und Moss stehen fÃ¼r den Prototyp des IT-Nerds. Als Computerspezialisten von Reynholm Industries teilen sich die beiden ein fensterloses BÃ¼ro im Keller der Firma. Ihr Arbeitsalltag Ã¤ndert sich schlagartig als ihnen die attraktive Jen vor die Nase gesetzt wird. </Overview>
+  <Rating>8.9</Rating>
+  <RatingCount>246</RatingCount>
+  <Runtime>30</Runtime>
+  <SeriesID>54188</SeriesID>
+  <SeriesName>The IT Crowd</SeriesName>
+  <Status>Ended</Status>
+  <added></added>
+  <addedBy></addedBy>
+  <banner>graphical/79216-g8.jpg</banner>
+  <fanart>fanart/original/79216-18.jpg</fanart>
+  <lastupdated>1422497895</lastupdated>
+  <poster>posters/79216-1.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
+  <zap2it_id>EP00930794</zap2it_id>
+</Series>
+<Episode>
+  <id>4657399</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Internet Is Coming</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2013-09-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>The reputation of Reynholm Industries is put at risk after an incident involving spilt coffee and a homeless person ends up being posted on the internet. When Douglas shares the secret of his confidence, a newly transformed Moss comes up with a plan to help Jen and Roy, but everything seems too good to be true.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.6</Rating>
+  <RatingCount>16</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>4</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/79216/4657399.jpg</filename>
+  <lastupdated>1411957178</lastupdated>
+  <seasonid>26660</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added>2013-09-27 15:32:32</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4740534</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The IT Crowd Manual</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2013-12-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>This behind-the-scenes documentary features interviews with the main cast of the cult comedy The IT Crowd, plus a host of celebrity fans</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.4</Rating>
+  <RatingCount>5</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>4</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/79216/4740534.jpg</filename>
+  <lastupdated>1387382267</lastupdated>
+  <seasonid>26660</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added>2013-12-18 08:02:04</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>305884</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Schnee von gestern</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2006-02-03</FirstAired>
+  <GuestStars>|John Willie Hopkins|Pete Deagle|Nancy Lodder|Laura Pyper|</GuestStars>
+  <IMDB_ID>tt0609853</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Jen soll die neue Leiterin der IT-Abteilung bei Reynholm Industries werden. Zu dumm nur, dass sie absolut keine Ahnung von Computern hat. Doch Jen schafft es beim VorstellungsgesprÃ¤ch ihren Chef Denholm zu Ã¼berzeugen und bekommt den Job. Im Keller, Sitz der IT-Zentrale, angekommen, trifft sie auf die Computerfreaks Roy und Moss, die sofort merken, dass Jen keinen blassen Schimmer von der Materie hat. Wenig angetan von der neuen Chefin, merken Roy und Moss jedoch bald, dass Jen sie aus ihrer sozialen Isolation helfen kÃ¶nnte. Und so raufen die drei sich zusammen, um eine Party fÃ¼r die Belegschaft zu schmeiÃŸen. Doch Roy und Moss waren zu lange allein im Keller, und so verlÃ¤uft die Party alles andere als geplant.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>161</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number>1</absolute_number>
+  <filename>episodes/79216/305884.jpg</filename>
+  <lastupdated>1411955946</lastupdated>
+  <seasonid>16204</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>305885</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Die Stressmaschine</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2006-02-03</FirstAired>
+  <GuestStars>|Rachel Bavidge|Togo Igawa|Toby Longworth|Pamela Lyne|Katie Males|Takatsuna Mukai|Sarah Paul|Richard Pettyfer|Danny Wallace|Wendy Wason|</GuestStars>
+  <IMDB_ID>tt0609850</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Denholm hat fÃ¼r seine Angestellten ein Anti-Stress-Seminar angeordert. Und die Regeln sind eindeutig: Wer nicht teilnimmt, oder seinen Stress nicht abbauen kann ist gefeuert. FÃ¼r Jen ist jedoch klar, die roten Pumps im Schuhladen sind wichtiger. So stiehlt sie sich davon und gefÃ¤hrdet nebenbei auch noch eine wichtige Firmenfusion. Denholm ist deshalb so sauer auf Jen, dass sie nur noch ein bestandener Test am 'Stressometer' vor der KÃ¼ndigung retten kann.   </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>130</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number>2</absolute_number>
+  <filename>episodes/79216/305885.jpg</filename>
+  <lastupdated>1411955983</lastupdated>
+  <seasonid>16204</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>305886</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Roy, der Mistkerl</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2006-02-10</FirstAired>
+  <GuestStars>|Bennet Thorpe|Oliver Chris|Carsten Hayes|Alice Lowe|Chris Tarrant|Hannah Bourne|</GuestStars>
+  <IMDB_ID>tt0609849</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Roy hat ein Date mit Patricia, der Empfangsdame von Reynholm Industries, und es scheint tatsÃ¤chlich gut zu laufen. Doch dann schmiert sich Roy versehentlich Schokolade an die Stirn und Patricia ist entsetzt Ã¼ber den braunen Streifen an seiner Stirn. Jen hat unterdessen Daniel kennen gelernt, den Security-Mann der Firma, der sie jedoch auf ein Ãœberraschungs-Date vertrÃ¶stet. Als sie abends Zuhause wartet, bekommt sie einen Anruf von Chris Tarrant, dem Moderator von 'Wer wird MillionÃ¤r', da sie als Anruf-Joker fÃ¼r Daniel antreten soll. Als Jen tatsÃ¤chlich angerufen wird um Daniel zu helfen, vermasselt sie es jedoch und wird zum GespÃ¶tt der Firma. Doch Daniel gibt Jen noch eine Chance und geht mit ihr essen. Und auch Roy hat ein neues Date, zu dem er mÃ¤chtig aufgepimpt geht, in der Annahme, dass Frauen nur auf Mistkerle stehen. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>108</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number>3</absolute_number>
+  <filename>episodes/79216/305886.jpg</filename>
+  <lastupdated>1411956384</lastupdated>
+  <seasonid>16204</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>305887</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Die verbotene TÃ¼r</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2006-02-17</FirstAired>
+  <GuestStars>|Noel Fielding|Cordella Bugeja|Susannah Wise|</GuestStars>
+  <IMDB_ID>tt0609852</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Jen mÃ¶chte endlich der Unordnung in der IT-Abteilung den Kampf ansagen und hofft dabei auf die UnterstÃ¼tung von Roy und Moss. Doch die fÃ¼hlen sich pudelwohl und denken nicht daran Jen zu helfen. Als die dann auch noch einen Raum entdeckt, der durch eine rote TÃ¼r verschlossen ist, fragt sie Roy und Moss, was sich dahinter verbirgt. Doch die reagieren ausweichend und warnen Jen nur, dass sie den Raum nicht betreten soll. Doch Jen ist dadurch nur noch neugieriger geworden und nutzt die Gelegenheit, als Roy und Moss kurzzeitigig ihre PlÃ¤tze verlassen mÃ¼ssen. Die Ãœberraschung ist groÃŸ, als sie einen klimatisierten Raum vorfindet in dem der GroÃŸrechner der Firma steht. Doch Jen entdeckt auch noch Richmond, einen Gruftie, der seit vier Jahren den Rechner bewacht. Er wurde damals von Denholm in den Raum verbannt, nachdem er bei ihm in Ungnade gefallen ist. Jen beschlieÃŸt, sich Richmond anzunehmen und ihn aus seinem 'GefÃ¤ngnis' zu befreien.   </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>98</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number>4</absolute_number>
+  <filename>episodes/79216/305887.jpg</filename>
+  <lastupdated>1411956399</lastupdated>
+  <seasonid>16204</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>305888</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Die Super-LÃ¼ge</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2006-02-24</FirstAired>
+  <GuestStars>|Charlotte Weston|Bennet Thorpe|Nancy Lodder|Nathan Harmer|Lucy Liemann|Jack Whitam|David Garfield|Adam Buxton|Pete Deagle|Cheryl Fergison|Jim Alexander|</GuestStars>
+  <IMDB_ID>tt0609851</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Jen hat ein Date mit einem gewissen Bill, das in einer Katastrophe endet, weil Bill sich total daneben benimmt. Jen will daraufhin nichts mehr mit Bill zutun haben und bittet Moss ihn abzuwimmeln, falls er vorbeikommen sollte. Als Bill kurz darauf auch bei Moss auftaucht, versucht er krampfhaft ihn loszuwerden. Doch Bill bleibt hartnÃ¤ckig, woraufhin Moss nichts besseres einfÃ¤llt, als zu erzÃ¤hlen, dass Jen gestorben sei. Bill verbreitet die Nachricht daraufhin sofort in der gesamten Firma, mit dem Zusatz, dass er der letzte war, der mit Jen geschlafen hat. BestÃ¼rzt von der Nachricht, dass Jen tot ist, wird fÃ¼r sie eine Tauerfeier abgehalten, auf der Denholm eine etwas merkwÃ¼rdige Rede hÃ¤lt. Und just in dem Moment platzt Jen herein.   </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>94</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number>5</absolute_number>
+  <filename>episodes/79216/305888.jpg</filename>
+  <lastupdated>1411956418</lastupdated>
+  <seasonid>16204</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>305889</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Besuch von Tante Irma</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2006-03-03</FirstAired>
+  <GuestStars>|Noel Fielding|Frances Barber|Peter Serafinowicz|</GuestStars>
+  <IMDB_ID>tt0609848</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Bei Reynholm Industries steht eine Firmenfeier fÃ¼r die Belegschaft an. Da Denholm alle Abteilung lobt, nur die IT-Abteilung Ã¼bergeht, beschlieÃŸen Moss und Roy jedoch die Party zu boykottieren. Unterdessen haben sie unter Jen zu leiden, die ihre 'Tage' hat. Doch die zwei werden dadurch so sensibilisiert, dass auch sie ihre 'Tage' bekommen. VÃ¶llig hilflos suchen Roy und Moss daraufhin Hilfe im Internet, doch die Resonanz auf ihr Problem ist alles andere als Positiv. So beschlieÃŸt Jen ihren Kollegen mit einem MÃ¤dels-Abend zu helfen. Und es scheint auch tatsÃ¤chlich etwas zu bringen. Doch Roy hat schon bald genug von dem ÃœbermaÃŸ an Romantik und will viel lieber mit Jen und Moss auf die Firmenfeier gehen.   </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>86</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number>6</absolute_number>
+  <filename>episodes/79216/305889.jpg</filename>
+  <lastupdated>1411956459</lastupdated>
+  <seasonid>16204</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>334140</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Der Betriebsausflug</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2007-08-24</FirstAired>
+  <GuestStars>|Jamie Michie|Ash Atalla|Nicholas Burns|Brett Allen|</GuestStars>
+  <IMDB_ID>tt0849997</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Jen hat einen neuen Verehrer: Philip aus der 6. Etage. Doch immer mehr Hinweise deuten darauf hin, dass Philip schwul ist. Als er Jen, Moss und Roy auch noch in ein Musical einlÃ¤dt, in dem Cast und Zuschauer eindeutig schwul sind, verhÃ¤rtet sich der Verdacht. Um der unangenehmen Situation aus dem Weg zu gehen, flÃ¼chtet Roy auf die Behindertentoilette, und wird prompt erwischt. Jetzt hilft nur noch eins: Den Rest des Abends im Rollstuhl verbringen. Moss ist von der Situation eher fasziniert und Jen beschlieÃŸt, Philip mit ihrer Vermutung zu konfrontieren.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>98</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number>7</absolute_number>
+  <filename>episodes/79216/334140.jpg</filename>
+  <lastupdated>1411956646</lastupdated>
+  <seasonid>28282</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>334669</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Wem die Stunde schlÃ¤gt</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2007-08-31</FirstAired>
+  <GuestStars>|Noel Fielding|Chris Morris|Matt Berry|Belinda Stewart-Wilson|Charlotte Weston|Silas Carson|</GuestStars>
+  <IMDB_ID>tt1094436</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Bei der Jahreskonferenz von Reynholm Industries sollen eigentlich die erfreulichen Bilanzen prÃ¤sentiert werden, als unerwartet die Polizei auftaucht, um Denholm unangenehme Fragen zu stellen. Der reagiert kurz entschlossen mit einem Sprung aus dem Fenster, um der Befragung aus dem Weg zu gehen. Geschockt Ã¼ber den Tod ihres Chefs, wird Jen vom Nachfolger auch noch verkÃ¼ndet, dass er die IT-Abteilung schlieÃŸen will. Roy und Moss nutzen unterdessen einen Fragenkatalog, um ihr Todesdatum zu errechnen - mit einem Ergebnis, das Roy gar nicht glÃ¼cklich macht.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>86</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number>8</absolute_number>
+  <filename>episodes/79216/334669.jpg</filename>
+  <lastupdated>1411956663</lastupdated>
+  <seasonid>28282</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>335079</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Moss und der Deutsche</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2007-09-07</FirstAired>
+  <GuestStars>|Andrew Brooke|Philip Rham|Richard Cambridge|Gerald Lepkowski|James Bachman|</GuestStars>
+  <IMDB_ID>tt1095845</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Roy und Moss stecken in der Krise: Sie fÃ¼hlen sich wie ein altes Ehepaar, weil sie sich viel zu hÃ¤ufig sehen. Jen rÃ¤t ihnen daraufhin, sich in ihrer Freizeit mit anderen Menschen zu treffen. Da kommt die Anzeige im Internet fÃ¼r Moss gerade richtig, in der ein vermeintlicher Kochkurs angeboten wird. Doch Moss hat das Kleingedruckte Ã¼bersehen und landet so bei Johann - einem Kannibalen, mit einer beeindruckenden Heimkinoanlage.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>86</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number>9</absolute_number>
+  <filename>episodes/79216/335079.jpg</filename>
+  <lastupdated>1411956692</lastupdated>
+  <seasonid>28282</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>335542</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Kein perfektes Dinner</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2007-09-14</FirstAired>
+  <GuestStars>|Sarah Hadland|Orla Hannon|Orlando Seale|Catherine Shepherd|Dolly Wells|</GuestStars>
+  <IMDB_ID>tt1106046</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Jen will mit ihrem neuen Freund Peter eine Single Dinnerparty veranstalten. Leider sagen in letzter Minute drei mÃ¤nnliche GÃ¤ste ab, weshalb die Party zu platzen droht. Sehr schweren Herzens beschlieÃŸt Jen die Party zu retten und Roy, Moss und Richmond einzuladen. Bevor die Party beginnt, gibt sie ihnen noch Benimmunterricht, um nicht bloÃŸgestellt zu werden. TatsÃ¤chlich lÃ¤uft die Party sehr gut, bis die Drei all ihre guten VorsÃ¤tze vergessen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>82</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number>10</absolute_number>
+  <filename>episodes/79216/335542.jpg</filename>
+  <lastupdated>1411956710</lastupdated>
+  <seasonid>28282</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>335695</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Der Super-BH</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2007-09-21</FirstAired>
+  <GuestStars>|Richard Attlee|Cordelia Bugeja|Amelia Bullmore|Gemma Cousins|Adam Farr|</GuestStars>
+  <IMDB_ID>tt1111175</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Jen ist genervt von ihrem BH, der schlecht sitzt und stÃ¤ndig kneift. Als sie ihren Kollegen ihr Problem schildert, beschlieÃŸt Moss, sich dem Problem anzunehmen. Er will den perfekt sitzenden BH entwickeln. Kurz darauf wird Jen der Prototyp prÃ¤sentiert und sie soll den Super-BH testen. TatsÃ¤chlich scheint er perfekt zu sein, doch ausgerechnet in einem wichtigen Meeting zeigt er seine Schwachstelle: Er erhitzt so stark, dass er Feuer fÃ¤ngt. Douglas, der neue Chef, sucht unterdessen nach seiner wahren 'IdentitÃ¤t'.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>81</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number>11</absolute_number>
+  <filename>episodes/79216/335695.jpg</filename>
+  <lastupdated>1411956739</lastupdated>
+  <seasonid>28282</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>336041</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>Der Zaubertrank</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2007-09-28</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1111176</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Douglas will Jen endlich dazu kriegen, dass sie sich in ihn verliebt. Und da bisher alle Versuche gescheitert sind, wendet er sich an einen Magier, der ihm einen Liebestrank verkauft. ZurÃ¼ck in der Firma bietet er Jen aber zunÃ¤chst an, seine Assistentin zu werden, woraufhin sie schweren Herzens ihre Jungs von der IT verlÃ¤sst. Trotz der Freude Ã¼ber ihre zurÃ¼ck gewonnene Freiheit, mÃ¼ssen Roy und Moss bald feststellen, dass es ohne Jen ziemlich langweilig ist. Die muss sich unterdessen den AnnÃ¤herungsversuchen ihres Chefs erwehren, der in seiner Verzweiflung doch noch auf den Liebestrank zurÃ¼ckgreift.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>77</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number>12</absolute_number>
+  <filename>episodes/79216/336041.jpg</filename>
+  <lastupdated>1411956760</lastupdated>
+  <seasonid>28282</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>406959</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Der Alptraum-Handwerker</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2008-11-21</FirstAired>
+  <GuestStars>Jonathan Ryland</GuestStars>
+  <IMDB_ID>tt1321272</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Jen beauftragt den Handwerker Gary, um ihre Wohnung verschÃ¶nern zu lassen. Als Roy davon Wind bekommt, warnt er Jen, da er in einer Fernsehsendung gesehen hat, wie Gary bei seinen Kunden ins Waschbecken pinkelt. Von dem Gedanken derart angewidert, lÃ¤sst Jen ihren Handwerker nicht mehr aus den Augen. Doch Gary deutet das anhÃ¤ngliche Verhalten als Flirtversuch und erteilt Jen eine Absage. GedemÃ¼tigt zieht Jen sich zurÃ¼ck. Roy hat unterdessen eine Kamera in Jens Wohnung installiert, um Gary auf frischer Tat erwischen zu kÃ¶nnen. FÃ¼r Douglas steht ein wichtiges Meeting mit dem japanischen HauptaktionÃ¤r an. Doch statt sich darauf vorzubereiten, schieÃŸt er sich mit dem alten Armeerevolver seines GroÃŸvaters ins Bein. Schwer verletzt nimmt Douglas an dem Meeting teil...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>82</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number>13</absolute_number>
+  <filename>episodes/79216/406959.jpg</filename>
+  <lastupdated>1411956801</lastupdated>
+  <seasonid>37253</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>407746</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Richtige MÃ¤nner</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2008-11-28</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1320784</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Jen hat mal wieder einen neuen Freund, den Fahrlehrer Michael. Diesmal scheint es auch perfekt zu laufen, bis Roy und Moss behaupten, dass Michael wie ein Magier aussieht. Jen versucht von nun an alles, um diesen Gedanken von sich zu weisen, doch sie bekommt das Bild des Magiers nicht mehr aus dem Kopf. Moss hat unterdessen eine Internetseite gefunden, auf der FuÃŸballzitate verÃ¶ffentlicht werden. Nachdem er alle auswendig gelernt hat, begibt er sich mit Roy unter 'wahre MÃ¤nner.' Und tatsÃ¤chlich finden sie in einer Bar schnell Freunde, mit denen sie sich Ã¼ber FuÃŸball unterhalten und Poker spielen. Doch schon bald erweisen sich die neuen Kumpels als zwielichtige Gangster und Roy und Moss stecken mitten in einem RaubÃ¼berfall.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>81</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number>14</absolute_number>
+  <filename>episodes/79216/407746.jpg</filename>
+  <lastupdated>1411956822</lastupdated>
+  <seasonid>37253</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>410469</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Die Triebhose</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2008-12-05</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1320785</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Aufgrund der Ereignisse in der letzten Folge der zweiten Staffel erhalten Jen, Roy und Moss ein Schmerzensgeld von Douglas. AuÃŸerdem muss dieser einen GÃ¼rtel tragen, der bei minimaler erotischer Erregung einen Elektroschock aussendet, um so weitere sexuelle BelÃ¤stigungen zu vermeiden. Moss bewirft Roy mit einem Kaffeebecher, weshalb dieser sein T-Shirt auszieht und stattdessen seine Jacke anzieht. WÃ¤hrend Roy im GebÃ¤ude unterwegs ist, verliert eine Ã¤ltere Dame das Bewusstsein. Roy wird gebeten, ihr seine Jacke zu geben. Nachdem er durch seinen nackten OberkÃ¶rper auffÃ¤llig geworden ist, wird er vom Sicherheitsdienst aus dem GebÃ¤ude geworfen. Ohne Brieftasche und mit im MÃ¼ll gefundener Kleidung sieht er aus wie ein Obdachloser und wird auch so behandelt. Jen, die ein VorstellungsgesprÃ¤ch hatte, nimmt ihn wieder mit in die Firma und sie entscheidet sich, in der Firma zu bleiben, da Roy und Moss sie offensichtlich brauchen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>81</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number>15</absolute_number>
+  <filename>episodes/79216/410469.jpg</filename>
+  <lastupdated>1411956843</lastupdated>
+  <seasonid>37253</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>410470</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Die Rede</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2008-12-12</FirstAired>
+  <GuestStars>Lucy Montgomery</GuestStars>
+  <IMDB_ID>tt1320786</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Jen wird â€žMitarbeiter des Monatsâ€œ und muss deshalb eine Rede vor den Anteilseignern Ã¼ber die Arbeit ihrer Abteilung halten. Da sie keine Ahnung von Computern hat, bittet sie Roy und Moss um Mithilfe. Um Jens Unwissen anzuprangern, bauen die beiden eine schwarze Kiste und erzÃ¤hlen Jen, dass es sich bei der Kiste um das gesamte Internet handelt. Leider funktioniert dieser Plan nur teilweise, da nicht nur Jen durch Unwissen glÃ¤nzt sondern auch die Anteilseigner. Douglas hat ein Interview mit April, einer Journalistin, die fÃ¼r das fiktive Magazin â€žRichest Magazineâ€œ schreibt. Douglas wurde zum â€žMan of the Yearâ€œ gewÃ¤hlt. Er fÃ¤ngt eine Beziehung mit April an. Durch ein MissverstÃ¤ndnis erfÃ¤hrt er nicht, dass April â€žeinmal ein Mann warâ€œ. Als er schlieÃŸlich im Laufe der Handlung von Aprils TranssexualitÃ¤t erfÃ¤hrt, will er sich von ihr trennen. Dieses endet in einem blutigem Faustkampf in einem Labor von Reynholm Industries.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>81</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number>16</absolute_number>
+  <filename>episodes/79216/410470.jpg</filename>
+  <lastupdated>1411956869</lastupdated>
+  <seasonid>37253</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>416381</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Das soziale Netzwerk</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2008-12-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1320787</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die Folge beginnt mit einem Werbespot fÃ¼r das fiktive soziale Netzwerk Friendface. Als Roy erfÃ¤hrt, dass Jen Mitglied in diesem Netzwerk ist, beginnt er die Nachteile von sozialen Netzwerken wie beispielsweise Werbung aufzuzÃ¤hlen. Als Jen jedoch erzÃ¤hlt, dass man auf der Plattform Scrabble spielen kann und die Frauen aus der siebten Etage ebenfalls Mitglieder sind, registrieren sich Moss und Roy sofort. Sie fangen an, die bÃ¼rointerne Kommunikation Ã¼ber die Plattform abzuwickeln. Jen beginnt eine Sucht fÃ¼r die Plattform zu entwickeln. Sie hat Ã¼ber Friendface Kontakt mit einer ehemaligen MitschÃ¼lerin aufgenommen, mit der sie zum Essen verabredet ist. Als Jen von deren Lebenssituation erfÃ¤hrt ist sie mit ihrem Leben sehr unzufrieden. Sie wird zu einer Party mit ihren einstigen MitschÃ¼lerinnen eingeladen und bittet Roy, sich als ihren Ehemann auszugeben. Doch der hat dank Friendface eine Verabredung mit einer frÃ¼heren Liebschaft. SchlieÃŸlich geht Jen mit Moss als ihrem Mann zu der Party. Roy versucht seiner Liebschaft zu erklÃ¤ren, dass er sie nicht liebe und mit Jen zusammen sei. Roy geht mit ihr zu der Party, wo es zwischen Roy, Moss und Jen zu einer komplizierten Verwechselung kommt.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>82</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number>17</absolute_number>
+  <filename>episodes/79216/416381.jpg</filename>
+  <lastupdated>1411956898</lastupdated>
+  <seasonid>37253</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>416679</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>3</DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Kalender Trottel</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2008-12-26</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1320788</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die attraktiven Mitarbeiterinnen aus dem siebten Stock suchen eine MÃ¶glichkeit, Geld fÃ¼r karitative Zwecke zu sammeln. Der zufÃ¤llig anwesende Roy bietet sich gleich als Fotograf an, als die Idee aufkommt, einen Kalender mit Nacktaufnahmen zu erstellen. Als Jen davon erfÃ¤hrt und niedere BeweggrÃ¼nde vermutet, versucht sie zu verhindern, dass Roy die Mitarbeiterinnen nackt vor die Kamera bekommt. Zuerst sollen nackte GroÃŸmÃ¼tter wie in Kalender Girls das Herz der potenziellen KÃ¤ufer erweichen. Als dies misslingt, versucht Roy es mit sexy Wissenschaftlern als Motiven.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>82</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number>18</absolute_number>
+  <filename>episodes/79216/416679.jpg</filename>
+  <lastupdated>1411956942</lastupdated>
+  <seasonid>37253</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>1096201</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Jen the Fredo</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2010-06-25</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1650327</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Jen mÃ¶chte ihrer Karriere einen Schub geben und so bewirbt sie sich um den Posten als Entertainment Manager. Sie merkt aber schnell die Schattenseite ihres neuen Jobs kennen als sie die GeschÃ¤ftspartner ihres Chefs Douglas unterhalten soll und bittet Moss und Roy um Hilfe.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>125</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number>19</absolute_number>
+  <filename>episodes/79216/1096201.jpg</filename>
+  <lastupdated>1411956989</lastupdated>
+  <seasonid>120491</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2349181</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ich bin kein Fensterputzer</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2010-07-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1676563</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Moss rÃ¤umt beim Buchstaben-Ratespiel 'Countdown' alles ab und wird in den exklusiven Club 'Acht Plus' eingeladen. Er ist nur den Spielern vorbehalten, die mindestens acht Mal in Folge 'Countdown' gewonnen haben. Moss' Ansehen und Auftreten sind dort grundlegend anders als im wirklichen Leben, wie Gast Roy Ã¼berrascht feststellen muss. Brenzlig wird die Situation allerdings, als der abgehalfterte Ex-Countdown-Star Negative One Moss zu einem StraÃŸen-Countdown-Duell herausfordert. Roy hat unterdessen Probleme mit einem etwas schrÃ¤gen Fensterputzer, der ohne weitere ErklÃ¤rungen sein Fahrrad mitsamt Fensterputzer-Utensilien bei Roy im Flur abstellt und dann verschwindet. Roy versucht, dem verschollenen Putzer seine Sachen wiederzubringen, lÃ¤uft aber dabei mehrmals seinem ehemaligen Klassenkameraden Alistair Ã¼ber den Weg. Alistair hat eine Karriere als Computerspiel-Autor gemacht und Roy befÃ¼rchtet nun, dass Alistair ihn fÃ¼r einen Fensterputzer hÃ¤lt. Fortan ist Roy nur noch davon besessen, dieses MissverstÃ¤ndnis auszurÃ¤umen und brÃ¼llt in die Welt hinaus: 'Ich bin kein Fensterputzer'.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>114</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number>20</absolute_number>
+  <filename>episodes/79216/2349181.jpg</filename>
+  <lastupdated>1411957006</lastupdated>
+  <seasonid>120491</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2421291</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Hokus Po-Kuss</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2010-07-09</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1676559</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Jen und Roy gehen auf das Konzert einer etwas nerdigen Prog-Rock-Band. Das hat zweierlei Folgen: Roy lÃ¤diert sich beim Tanzen den RÃ¼cken und Jen verliebt sich in den Ã¤uÃŸerst unattraktiven Keyboarder der Band. Roy geht, den dringenden Empfehlungen von Jen und Moss folgend, zur Massage. Zum Abschluss einer alles in allem sehr angenehmen Massage kÃ¼sst der Masseur Roy unvermittelt auf die linke Pobacke. Roy ist dadurch schwer traumatisiert. Mit Moss' UnterstÃ¼tzung zieht er gegen den Hokus-Po-Kuss-Masseur vor Gericht. Nebenbei ist Douglas Reynholm einer Sekte, den Spaceologen, beigetreten. Diese bieten den sensationellen Spacestar-Bestellservice an. Man braucht sich nur eine Sache zu wÃ¼nschen, dem Bestellservice das Honorar zu zahlen, sich die gewÃ¼nschte Sache dann zu kaufen und schon hat man sie. Jen hat einen kurzen Auftritt als BackgroundsÃ¤ngerin in der Band ihres Lovers. Mit dem Resultat, dass sich die Band daraufhin sofort von Keyboarder und BackgroundsÃ¤ngerin trennt.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>118</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number>21</absolute_number>
+  <filename>episodes/79216/2421291.jpg</filename>
+  <lastupdated>1411957033</lastupdated>
+  <seasonid>120491</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2452061</id>
+  <Combined_episodenumber>4.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>4.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Italienisch fÃ¼r AnfÃ¤nger</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2010-07-16</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1676560</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Jen ist frustriert, weil Douglas die sportlich-engagierte und schleimende Linda vor versammelter Mannschaft als beste Frau in der Firma gerÃ¼hmt hat. Bei nÃ¤chster Gelegenheit zahlt sie es Linda heim: wÃ¤hrend der Vorbereitungen auf ein wichtiges Meeting mit einem potenziellen italienischen GeschÃ¤ftspartner brilliert sie durch ihre - gefaketen - Italienischkenntnisse. Beim tatsÃ¤chlichen GesprÃ¤ch soll ihr dann Moss' Ãœbersetzungscomputer helfen. Doch es kommt zu einem unvorhergesehenen Problem. Derweil zermartert Roy sich das Hirn Ã¼ber die Vergangenheit seiner Freundin Julia. Er wusste bereits, dass Julia Waise ist, doch wie ihre Eltern ums Leben kamen, hatte sie nie erzÃ¤hlt. Nun gibt sie das Geheimnis in einem intimen GesprÃ¤ch mit Roy preis: ihre Eltern starben bei einem Brand wÃ¤hrend einer SeelÃ¶wen-Show im Sea-Parks. Mehr will sie jedoch auf keinen Fall erzÃ¤hlen und ringt Roy das Versprechen ab, nie wieder darÃ¼ber zu reden. Das fÃ¤llt ihm sehr schwer, denn er kann sich beim besten Willen keine Brandkatastrophe in einer Open-Air-SeelÃ¶wen-Show mit viel Wasser und steinernen SitzbÃ¤nken vorstellen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>118</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number>22</absolute_number>
+  <filename>episodes/79216/2452061.jpg</filename>
+  <lastupdated>1411957059</lastupdated>
+  <seasonid>120491</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2484611</id>
+  <Combined_episodenumber>5.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>5.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Maurice macht blau</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2010-07-23</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1676561</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Roy wettet mit Jen, dass er es schafft, einen Tag lang nicht seinen Standardspruch 'Haben Sie es schon mit Ein- und wieder Ausschalten versucht' zu benutzen. In der Mittagspause begegnen Roy und Moss ein paar Jungendliche. Aufgrund von Moss' nerdigem Auftreten (Playstation spielen auf dem MÃ¼lleimer im Park) lachen die Jugendlichen die beiden aus. Moss denkt darÃ¼ber nach, ob er ein 'normaler' Mensch geworden wÃ¤re, wenn er in der Schule nicht so gut aufgepasst hÃ¤tte. Auf einmal ist er angetan von der Idee, Ã¼ber die StrÃ¤nge zu schlagen, Mist zu bauen, kurzum: alles das zu tun, was der normale Moss nie tun wÃ¼rde. Er und Roy beschlieÃŸen, ihre Mittagspause eigenmÃ¤chtig zu verlÃ¤ngern, blau zu machen und in der Stadt rumzuhÃ¤ngen. Doch Moss' Gangster-Trip nimmt langsam groteske ZÃ¼ge an.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>117</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number>23</absolute_number>
+  <filename>episodes/79216/2484611.jpg</filename>
+  <lastupdated>1405275400</lastupdated>
+  <seasonid>120491</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2503961</id>
+  <Combined_episodenumber>6.0</Combined_episodenumber>
+  <Combined_season>4</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>6.0</DVD_episodenumber>
+  <DVD_season>4</DVD_season>
+  <Director>Graham Linehan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Reynholm gegen Reynholm</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2010-07-30</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1676562</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Douglas Reynholms verschollen geglaubte Ehefrau Victoria Reynholm taucht urplÃ¶tzlich wieder auf. Douglas ist schockiert und verunsichert: Soll er es noch mal mit Victoria versuchen? Nach einem Dinner bei Heston Blumenthal ist er jedoch Ã¼berzeugt: Er will die Scheidung. Doch die wird nicht billig: Victoria verlangt 212 Millionen Pfund. Aus nicht ganz ersichtlichen GrÃ¼nden hÃ¤lt Douglas Jen fÃ¼r die Leiterin der Rechtsabteilung bei Reynholm Industries. Er hÃ¤lt auch weiterhin an ihr als Rechtsbeistand fest, nachdem sie ihn Ã¼ber seinen Irrtum aufgeklÃ¤rt hat. Gemeinsam zieht das ungleiche Paar vor Gericht. Im Prozess kommen einige bizarre Details ans Tageslicht und es kommen hÃ¶chst merkwÃ¼rdige Zeugen zu Wort.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>100</RatingCount>
+  <SeasonNumber>4</SeasonNumber>
+  <Writer>Graham Linehan</Writer>
+  <absolute_number>24</absolute_number>
+  <filename>episodes/79216/2503961.jpg</filename>
+  <lastupdated>1405275415</lastupdated>
+  <seasonid>120491</seasonid>
+  <seriesid>79216</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+</Data>

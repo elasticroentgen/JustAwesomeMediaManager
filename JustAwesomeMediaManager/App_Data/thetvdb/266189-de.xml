@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>266189</id>
+  <Actors>|James Spader|Megan Boone|Harry Lennix|Diego Klattenhoff|Parminder Nagra|Ryan Eggold|Hisham Tawfiq|Amir Arison|</Actors>
+  <Airs_DayOfWeek>Thursday</Airs_DayOfWeek>
+  <Airs_Time>9:00 PM</Airs_Time>
+  <ContentRating>TV-14</ContentRating>
+  <FirstAired>2013-09-23</FirstAired>
+  <Genre>|Action|Crime|Drama|Mystery|</Genre>
+  <IMDB_ID>tt2741602</IMDB_ID>
+  <Language>de</Language>
+  <Network>NBC</Network>
+  <NetworkID></NetworkID>
+  <Overview>Einer der weltweit meistgesuchten Verbrecher, Raymond Reddington, stellt sich selbst dem FBI. Er bietet an, alle Kontakte preiszugeben mit denen er bislang zusammengearbeitet hat. Seine einzige Bedingung dabei ist, dass er nur mit einer frisch gebackenen FBI-Profilerin kooperieren mÃ¶chte, zu der er scheinbar keinerlei Verbindung hatâ€¦</Overview>
+  <Rating>8.4</Rating>
+  <RatingCount>92</RatingCount>
+  <Runtime>60</Runtime>
+  <SeriesID>183289</SeriesID>
+  <SeriesName>The Blacklist</SeriesName>
+  <Status>Continuing</Status>
+  <added>2013-01-23 16:21:30</added>
+  <addedBy>289491</addedBy>
+  <banner>graphical/266189-g12.jpg</banner>
+  <fanart>fanart/original/266189-4.jpg</fanart>
+  <lastupdated>1423993231</lastupdated>
+  <poster>posters/266189-3.jpg</poster>
+  <tms_wanted_old>0</tms_wanted_old>
+  <zap2it_id>EP01738690</zap2it_id>
+</Series>
+<Episode>
+  <id>4655763</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Chosen One</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2013-09-10</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Preview of the upcoming first season.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>1</airsbefore_season>
+  <filename>episodes/266189/4655763.jpg</filename>
+  <lastupdated>1412734744</lastupdated>
+  <seasonid>510814</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2014-05-19 12:49:29</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4973696</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>A Look Ahead</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2014-08-25</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Showrunners Jon Bokenkamp and John Eisendrath along with Co-Executive Producer Lukas Reiter give us a few tantalizing hints of what's to come for Red, Liz and the task force in Season 2.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.7</Rating>
+  <RatingCount>3</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>2</airsbefore_season>
+  <filename></filename>
+  <lastupdated>1414508533</lastupdated>
+  <seasonid>510814</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>4484792</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joe Carnahan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Raymond Reddingtons schwarze Liste</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2013-09-23</FirstAired>
+  <GuestStars>|Chance Kelly|Jamie Jackson|Delphina Belle|Annet Mahendru|</GuestStars>
+  <IMDB_ID>tt2920128</IMDB_ID>
+  <Language>de</Language>
+  <Overview>FÃ¼r mehr als ein Jahrzehnt stand der ehemalige Spitzenagent Raymond â€žRedâ€œ Reddigton ganz oben auf der Fahndungsliste des FBI. Er verhandelte die groÃŸen Deals fÃ¼r Kriminelle auf der ganzen Welt und wurde so als der â€žBerater des BÃ¶senâ€œ bekannt. Nun ergibt er sich seltsamerweise und macht dem FBI ein ganz besonderes Angebot: Er hilft den lange fÃ¼r Tod gehaltenen Terroristen Zamani zu fangen â€“ allerdings nur unter der Bedingung, dass er ausschlieÃŸlich mit Elizabeth &quot;Liz&quot; Keen spricht, die gerade erst von der FBI-Akademie in Quantico kommt und als frischegebackene Profilerin arbeitet. FÃ¼r Liz wird dies ein unvergesslicher Einstieg in den Job werdenâ€¦</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>154</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Jon Bokenkamp</Writer>
+  <absolute_number>1</absolute_number>
+  <filename>episodes/266189/4484792.jpg</filename>
+  <lastupdated>1413136770</lastupdated>
+  <seasonid>510816</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2013-09-12 18:50:35</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4644627</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Jace Alexander</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Der Freelancer (Nr. 145)</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2013-09-30</FirstAired>
+  <GuestStars>|Daniel Sauli|Hisham Tawfiq|Deborah S. Craig|Isabella Rossellini|Jane Alexander|</GuestStars>
+  <IMDB_ID>tt3173404</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Red prophezeit eine schreckliche Katastrophe. Der gefÃ¼rchtete Killer, auch bekannt als â€žDer Freelancerâ€œ, soll wieder zuschlagen. Sein nÃ¤chstes Opfer: Floriana Campo. Um dies zu verhindern, ermitteln Liz und Red nun undercover. Ressler und Meera Malik, die neu bei Reds privatem Sicherheitskommando ist, haben zum Schutz ein Auge auf sie.
+ Zeitgleich Ã¼berlegt Liz, wie es nach ihrem Fund der mysteriÃ¶sen Box von Tom mit ihrem Freund weitergehen soll.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>136</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Jon Bokenkamp</Writer>
+  <absolute_number>2</absolute_number>
+  <filename>episodes/266189/4644627.jpg</filename>
+  <lastupdated>1413917629</lastupdated>
+  <seasonid>510816</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2013-09-24 17:17:20</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4660808</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael W. Watkins</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Wujing (Nr. 84)</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2013-10-07</FirstAired>
+  <GuestStars>|Chin Han|Amir Arison|Hisham Tawfiq|Deborah S. Craig|Graeme Malcolm|Rob Yang|Andrew Pang|David Andrew Macdonald|Susan Kelechi Watson|</GuestStars>
+  <IMDB_ID>tt3173406</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Das FBI will schon lange den chinesischen Spion Wujing fassen. Durch Red ergibt sich nun die Chance, den Agenten auf frischer Tat zu ertappen und gefangen zu nehmen. Angeblich wurde Red von Wujing angeworben, um ihn bei der Dekodierung von geheimen Nachrichten des CIA zu unterstÃ¼tzen. Red nimmt Liz mit zu dem Treffen und gibt sie als EntschlÃ¼sselungsexpertin aus. Nun mÃ¼ssen sie fÃ¼r Wujing eine Botschaft dekodieren, dabei aber Regierungsgeheimnisse schÃ¼tzenâ€¦
+ In Ihrem Privatleben agiert Liz ebenfalls als Ermittlerin, nachdem sie von dem Doppelleben ihres LebensgefÃ¤hrten Tom erfahren hat.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>122</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Lukas Reiter</Writer>
+  <absolute_number>3</absolute_number>
+  <filename>episodes/266189/4660808.jpg</filename>
+  <lastupdated>1413917060</lastupdated>
+  <seasonid>510816</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2013-10-01 15:38:43</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4660809</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Vincent Misiano</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Stanley R. Kornish (Nr. 161)</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2013-10-14</FirstAired>
+  <GuestStars>|Clifton Collins Jr.|Hisham Tawfiq|Deborah S. Craig|Maryann Plunkett|Sharon Washington|Tom Noonan|</GuestStars>
+  <IMDB_ID>tt3173408</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Liz will weiterhin herausfinden, was fÃ¼r ein Doppelleben Tom fÃ¼hrt. Dabei muss sie sehr behutsam vorgehen. Auch beruflich steht sie vor einer Herausforderung, denn sie muss gegen den Drogenlord Hector Luca aussagen. Der Prozess gegen Luca gestaltet sich schwierig, da einige der Zeugen, die gegen ihn aussagen sollten, verschwunden sind. Reds Interesse ist geweckt: Er nimmt an, dass &quot;The Stewmaker&quot; angeworben wurde, um den Drogenboss vor einer Verurteilung zu schÃ¼tzen. &quot;The Stewmaker&quot; wird fÃ¼r das Verschwinden von hunderten von Menschen verantwortlich gemacht, sodass er die richtige Zielperson fÃ¼r den ambitionierten Reddington sein kÃ¶nnte...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>116</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Patrick Massett|John Zinman|</Writer>
+  <absolute_number>4</absolute_number>
+  <filename>episodes/266189/4660809.jpg</filename>
+  <lastupdated>1413916510</lastupdated>
+  <seasonid>510816</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2013-10-03 19:19:24</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4660810</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Nick Gomez</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Der Kurier (Nr. 85)</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2013-10-21</FirstAired>
+  <GuestStars>|Barbara Schulz|Charles Baker|Hisham Tawfiq|Deborah S. Craig|Graeme Malcolm|Brian Tarantina|Robert Knepper|</GuestStars>
+  <IMDB_ID>tt3173410</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Red informiert Liz und Ressler Ã¼ber Nummer 85 der Blacklist. Es handelt sich um einen geheimnisvollen, kriminellen Kurier, der nicht in der Lage ist, Schmerz zu empfinden und deshalb nicht zu stoppen scheint. Die Jagd nach ihm und dem entfÃ¼hrten Opfer beginnt...
+Derweil entdeckt Liz Indizien, die Tom mit dem unaufgeklÃ¤rten Mord an einem russischen ÃœberlÃ¤ufer in Verbindung bringen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>127</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>John C. Kelley</Writer>
+  <absolute_number>5</absolute_number>
+  <filename>episodes/266189/4660810.jpg</filename>
+  <lastupdated>1413916497</lastupdated>
+  <seasonid>510816</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2013-10-10 20:16:53</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4660812</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Adam Arkin</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Gina Zanetakos (Nr. 152)</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2013-10-28</FirstAired>
+  <GuestStars>|Margarita Levieva|Dikran Tulaine|Amir Arison|Charles Baker|Hisham Tawfiq|Graeme Malcolm|Derek Peith|</GuestStars>
+  <IMDB_ID>tt3265304</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die Terroristin Gina Zanetakos, Numer 152 der Blacklist, wird gesucht. Dabei entdeckt Liz einen Plan fÃ¼r ein Attentat mit einem radioaktiven Sprengsatz. 
+AuÃŸerdem ergeben sich weitere Hinweise auf Toms dÃ¼stere Vergangenheit.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>126</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Wendy West</Writer>
+  <absolute_number>6</absolute_number>
+  <filename>episodes/266189/4660812.jpg</filename>
+  <lastupdated>1413916487</lastupdated>
+  <seasonid>510816</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2013-10-11 23:12:50</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4686172</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael W. Watkins</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Frederick Barnes (Nr. 47)</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2013-11-04</FirstAired>
+  <GuestStars>|Robert Sean Leonard|Amir Arison|Amy Hargreaves|Geraldine Hughes|David Zayas|Aja Naomi King|Hisham Tawfiq|Deborah S. Craig|Colby Minifie|</GuestStars>
+  <IMDB_ID>tt3277226</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Red und Liz suchen Blacklist-Nummer 47. Der geistesgestÃ¶rte Chemiewaffenexperte verbreitete einen sehr seltenen und sehr tÃ¶dlichen Krankheitserreger in der U-Bahn von Washington, D.C.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>114</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>J.R. Orci</Writer>
+  <absolute_number>7</absolute_number>
+  <filename>episodes/266189/4686172.jpg</filename>
+  <lastupdated>1413916477</lastupdated>
+  <seasonid>510816</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2013-10-23 15:32:56</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4692606</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Stephen Surjik</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>General Ludd (Nr. 109)</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2013-11-11</FirstAired>
+  <GuestStars>|Justin Kirk|Hisham Tawfiq|Deborah S. Craig|Amir Arison|William Sadler|Graeme Malcolm|Kelly Deadmon|Richard Bekins|Andrew Dice Clay|</GuestStars>
+  <IMDB_ID>tt3276448</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Mike und sein Sohn Bobby spielen in einem Park in Washington, D.C. American Football, als ein abgetrennter FuÃŸ vom Himmel fÃ¤llt. Es folgt ein Flugzeugsitz, wo noch eine verkohlte Leiche draufsitzt. Vater und Sohn versuchen zu fliehen, aber sie kÃ¶nnen dem abstÃ¼rzenden Cargo-Flugzeug nicht entkommen. Tom verfolgt den Flugzeugabsturz im Fernsehen, als Liz einen Anruf von ihrem Vater Sam erhÃ¤lt, der sich in einem Krankenhaus in Nebraska einigen Tests unterziehen muss. Obwohl er ernsthaft krank ist, Ã¼berzeugt er Liz davon, ihn nicht zu besuchen. Stattdessen stattet Red Sam einen Besuch ab und versucht ihn zu â€žÃ¼berzeugenâ€œ, dass Liz niemals die Wahrheit erfahren sollâ€¦</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>118</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Amanda Kate Shuman</Writer>
+  <absolute_number>8</absolute_number>
+  <filename>episodes/266189/4692606.jpg</filename>
+  <lastupdated>1413916464</lastupdated>
+  <seasonid>510816</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2013-11-05 16:19:33</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4699801</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joe Carnahan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Anslo Garrick (Nr. 16) - Teil 1</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2013-11-25</FirstAired>
+  <GuestStars>|Ritchie Coster|Hisham Tawfiq|Deborah S. Craig|Amir Arison|Dikran Tulaine|</GuestStars>
+  <IMDB_ID>tt3276450</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Der Terrorist Anslo Garrick lockt Red in ein GebÃ¤ude, wo er ihn gefangen nehmen will. Der Verbrecher und sein Team, â€žThe Wild Bunchâ€œ, legen alle Telefon- und Internetverbindungen lahm, um den Kontakt zur AuÃŸenwelt zu unterbinden. Der FBI-Agent Ressler versucht, das GebÃ¤ude zu stÃ¼rmen, wird aber von einem Schuss getroffen und verletzt. Red gelingt es zwar, sich von seinen Handschellen zu befreien und einige Waffen an sich zu reiÃŸen, doch eine SchieÃŸerei mit Anslo ist unausweichlich. Im Laufe dieses Kampfes schlieÃŸt sich eine schusssichere TÃ¼r und Red und Ressler sind in einem Glaskasten gefangen und von Anslo und seinen MÃ¤nnern umzingelt. Nun liegt es an Liz und Aram, die Terroristen zu Ã¼berwÃ¤ltigen und die beiden MÃ¤nner zu befreien.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>124</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Joe Carnahan</Writer>
+  <absolute_number>9</absolute_number>
+  <filename>episodes/266189/4699801.jpg</filename>
+  <lastupdated>1410072036</lastupdated>
+  <seasonid>510816</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2013-11-12 16:07:03</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4711148</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael W. Watkins</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Anslo Garrick (Nr. 16) - Teil 2</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2013-12-02</FirstAired>
+  <GuestStars>|Alan Alda|Ritchie Coster|Hisham Tawfiq|Amir Arison|Susan Blommaert|Graeme Malcolm|Emily Tremaine|Jane Alexander|</GuestStars>
+  <IMDB_ID>tt3276452</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Liz schleust sich ins GebÃ¤ude ein und es gelingt ihr, den StÃ¶rsender zu beseitigen und somit VerstÃ¤rkung anzufordern. Allerdings stÃ¶ÃŸt sie auf Widerstandâ€¦ Ressler steht zwischen Leben und Tod und Red versucht, mit Anslo zu verhandeln. WÃ¤hrenddessen wird Toms Sorge um Liz immer grÃ¶ÃŸer und Red wird zu einem immer grÃ¶ÃŸeren RÃ¤tsel. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>110</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Lukas Reiter|J.R. Orci|</Writer>
+  <absolute_number>10</absolute_number>
+  <filename>episodes/266189/4711148.jpg</filename>
+  <lastupdated>1410072027</lastupdated>
+  <seasonid>510816</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2013-11-26 10:22:44</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4727775</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Dan Lerner</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Der gute Samariter (Nr. 106)</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2014-01-13</FirstAired>
+  <GuestStars>|Alan Alda|Frank Whaley|Hisham Tawfiq|Amir Arison|Charles Baker|Shirley Roeca|Victor Slezak|Kate Nowlin|Deborah S. Craig|Dominik Tiefenthaler|Frank Pando|Neal Matarazzo|Eisa Davis|Graham Winton|Jane Alexander|</GuestStars>
+  <IMDB_ID>tt3276454</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die Ergreifung von Nr. 16, einen Mann namens Anslo Garrick, beschÃ¤ftigt Red nachhaltig. Allem Anschein nach gibt es einen Maulwurf beim FBI, den es zu enttarnen gilt. Liz hat wÃ¤hrenddessen mit einem Serienkiller aus ihrer Vergangenheit zu kÃ¤mpfen. In Bezug auf ihren Ehemann ist sie erneut verunsichert, ob sie ihm vertrauen kann, denn Red warnt sie instÃ¤ndig vor ihm.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>107</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Brandon Margolis|Brandon Sonnier|</Writer>
+  <absolute_number>11</absolute_number>
+  <filename>episodes/266189/4727775.jpg</filename>
+  <lastupdated>1413916447</lastupdated>
+  <seasonid>510816</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2013-12-19 19:01:36</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4743893</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Vincent Misiano</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Der Alchemist (Nr. 101)</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2014-01-20</FirstAired>
+  <GuestStars>|Ryan O'Nan|Hisham Tawfiq|Amir Arison|Rachel Brosnahan|Elisabeth Waterston|David Vadim|Dan McCabe|Emily Tremaine|</GuestStars>
+  <IMDB_ID>tt3276456</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Dieses Mal informiert Red die FBI-Agenten, dass ein Helfer des Organisierten Verbrechens seinen nÃ¤chsten Einsatz vorbereitet. Der â€žAlchemistâ€œ, wie er in einschlÃ¤gigen Kreisen genannt wird, soll einen wichtigen Informanten der Mafia und dessen Frau beschÃ¼tzen. Liz und das Team bereiten sich auf einen Undercovereinsatz vor, um den â€žAlchimistenâ€œ dingfest zu machen.
+Das Privatleben von Liz und Tom gerÃ¤t in die nÃ¤chste Krise. Und auch Ressler ringt mit sich auf persÃ¶nlicher Ebene: Soll er seiner Ex-Freundin seinen Segen fÃ¼r eine neue Beziehung geben?</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>101</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Anthony Sparks</Writer>
+  <absolute_number>12</absolute_number>
+  <filename>episodes/266189/4743893.jpg</filename>
+  <lastupdated>1413916440</lastupdated>
+  <seasonid>510816</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2014-01-09 18:13:18</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4764625</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael W. Watkins</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Die Cyprus Agency (Nr. 64)</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2014-01-27</FirstAired>
+  <GuestStars>|Campbell Scott|Hisham Tawfiq|Amir Arison|Rachel Brosnahan|Waas Staers|James Murtaugh|Ezra Knight|Matthew Rauch|Susan Blommaert|Beth Dixon|Joseph Adams|Kati Rediger|Jane Alexander|</GuestStars>
+  <IMDB_ID>tt3276458</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Red und Liz haben eine illegale Adoptionsorganisation im Visier, die Babys entfÃ¼hrt. Red hat auf Anhieb die Vermutung, dass es sich um die â€žCyprus Agencyâ€œ handelt. Da auch Liz und Tom ein Kind adoptieren mÃ¶chten, sind sie von den Schicksalen der MÃ¼tter persÃ¶nlich betroffen. Liz macht sich auf die Suche nach Owen Mallory, dem Boss der Organisation. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>97</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Lukas Reiter</Writer>
+  <absolute_number>13</absolute_number>
+  <filename>episodes/266189/4764625.jpg</filename>
+  <lastupdated>1413916434</lastupdated>
+  <seasonid>510816</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2014-01-17 22:25:13</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4775672</id>
+  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Zinberg</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Madeline Pratt (Nr. 73)</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>2014-02-24</FirstAired>
+  <GuestStars>|Jennifer Ehle|Hisham Tawfiq|Amir Arison|Rachel Brosnahan|Zach Grenier|Jason Butler Harner|</GuestStars>
+  <IMDB_ID>tt3276460</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Red begegnet Madeline Pratt, einer â€žFemme Fataleâ€œ aus seiner Vergangenheit, mit der er auch private Erinnerungen teilt. Das FBI steht angesichts der gewieften GeschÃ¤ftsfrau vor einer groÃŸen Herausforderung. Auch Liz stellt sich einer neuen Aufgabe und muss ihre Talente in der syrischen Botschaft unter Beweis stellen...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>89</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Jim Campolongo</Writer>
+  <absolute_number>14</absolute_number>
+  <filename>episodes/266189/4775672.jpg</filename>
+  <lastupdated>1413916425</lastupdated>
+  <seasonid>510816</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2014-02-08 06:12:36</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4775673</id>
+  <Combined_episodenumber>15</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Peter Werner</Director>
+  <EpImgFlag>7</EpImgFlag>
+  <EpisodeName>Der Richter (Nr. 57)</EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired>2014-03-03</FirstAired>
+  <GuestStars>|Dianne Wiest|Hisham Tawfiq|Amir Arison|Rachel Brosnahan|Reed Birney|Trevor Long|Lance Reddick|Thomas Kopache|Robert Clohessy|Brian Keith Russell|</GuestStars>
+  <IMDB_ID>tt3276462</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Nachdem Liz Tom kurzfristig abgesagt hat, ist er nun alleine zur Konferenz nach Orlando geflogen. Dort trifft er auch Ã¼berraschend auf Jolene. In einer Bar kommen sie sich weiter nÃ¤her und Jolene ladet Tom zu sich ins Hotelzimmer ein. Inzwischen ist Liz mit einem neuen Fall beschÃ¤ftigt: Mark Hastings, ein Anwalt, der seit 12 Jahren vermisst wird, taucht verstÃ¶rt auf einer LandstraÃŸe wieder auf. Red vermutet, dass Hasting vom â€žRichterâ€œ festgehalten wurde. Offenbar hat Hastings eine falsche Anklage verursacht, und so hat sich der â€žRichterâ€œ an Hasting gerÃ¤cht, indem er an ihm dasselbe StrafmaÃŸ vollzog.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>91</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|Jonathan Shapiro|Lukas Reiter|</Writer>
+  <absolute_number>15</absolute_number>
+  <filename>episodes/266189/4775673.jpg</filename>
+  <lastupdated>1413916416</lastupdated>
+  <seasonid>510816</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2014-03-05 07:41:53</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4789862</id>
+  <Combined_episodenumber>16</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael W. Watkins</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Mako Tanida (Nr. 83)</EpisodeName>
+  <EpisodeNumber>16</EpisodeNumber>
+  <FirstAired>2014-03-17</FirstAired>
+  <GuestStars>|Hisham Tawfiq|Amir Arison|Rachel Brosnahan|Lance Reddick|Hoon Lee|Casey Siemaszko|James Colby|Emily Tremaine|Hassan Johnson|</GuestStars>
+  <IMDB_ID>tt3276464</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Reds ehemaliger VerbÃ¼ndeter Mako Tanida bricht aus dem GefÃ¤ngnis aus. Tanida geht es weniger darum, endlich seine Freiheit wiederzuerlangen. Der japanische Mafiaboss ist von Rachsucht zerfressen und wÃ¼nscht sich nichts sehnlicher, als seine Feinde leiden zu sehen. Ganz oben auf Tanidas schwarzer Liste steht FBI Special Agent Donald Ressler, dessen Freundin gerade schwanger ist. Red versucht, Ressler zu warnen. Derweil geht Tom Ã¼ber Leichen, um ein verstÃ¶rendes Geheimnis zu bewahren.
+</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>93</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|John Eisendrath|Jon Bokenkamp|Patrick Massett|John Zinman|Joe Carnahan|</Writer>
+  <absolute_number>16</absolute_number>
+  <filename>episodes/266189/4789862.jpg</filename>
+  <lastupdated>1413916409</lastupdated>
+  <seasonid>510816</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2014-04-11 15:09:07</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4818034</id>
+  <Combined_episodenumber>17</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Randy Zisk</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ivan (Nr. 88)</EpisodeName>
+  <EpisodeNumber>17</EpisodeNumber>
+  <FirstAired>2014-03-24</FirstAired>
+  <GuestStars>|Hisham Tawfiq|Amir Arison|Rachel Brosnahan|Susan Blommaert|Will Denton|Quinn Shephard|Frank Deal|Mark Ivanir|Alfredo Narciso|Gibson Frazier|Thaddeus Daniels|</GuestStars>
+  <IMDB_ID>tt3276466</IMDB_ID>
+  <Language>de</Language>
+  <Overview>NSA-Mitarbeiter Nathan Platt ist gerade dabei, den Prototyp einer neuen Cyber-Abwehrwaffe in Sicherheit zu bringen, als er in einen tÃ¶dlichen Autounfall verwickelt wird. Es dauert nicht lange und Reds Verdacht bestÃ¤tigt sich, dass Platt Opfer eines Attentats wurde â€“ verÃ¼bt vom Cyberkriminellen Ivan. WÃ¤hrend Red nicht ohne Hintergedanken Jagd auf Ivan macht, nimmt die Polizei die Untersuchungen zum mysteriÃ¶sen Verschwinden von Jolene auf. Eine erste heiÃŸe Spur fÃ¼hrt zu Lizâ€™ Ehemann Tom. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>95</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|J. R. Orci|Amanda Kate Shuman|</Writer>
+  <absolute_number>17</absolute_number>
+  <filename>episodes/266189/4818034.jpg</filename>
+  <lastupdated>1413916392</lastupdated>
+  <seasonid>510816</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2014-04-11 15:10:08</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4819661</id>
+  <Combined_episodenumber>18</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Steven A. Adelson</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Milton Bobbit (Nr. 135)</EpisodeName>
+  <EpisodeNumber>18</EpisodeNumber>
+  <FirstAired>2014-03-31</FirstAired>
+  <GuestStars>|Damian Young|Isiah Whitlock Jr.|Hisham Tawfiq|Amir Arison|Peter Scanavino|Jacqueline Antaramian|Susan Kelechi Watson|Gregory Korostishevsky|Clark Jackson|</GuestStars>
+  <IMDB_ID>tt3276468</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Erneut bittet Tom Liz seine Frau zu werden. Um ihre Deckung aufrecht zu erhalten stimmt sie zu. Liz fÃ¤llt es jedoch zunehmend schwer ihre Rolle zu spielen, doch Red erinnert sie an ihr gemeinsames Ziel â€“ Toms wahre IdentitÃ¤t und seine Auftraggeber zu entlarven. Inzwischen gibt es aber auch einen neuen Fall: Milton Bobbit. Dieser engagiert schwerkranke Menschen fÃ¼r einen Mord mittels Selbstmordattentat. Im Gegenzug erhalten die Hinterbliebenen der Selbstmordopfer Kompensationszahlungen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>83</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Daniel Voll</Writer>
+  <absolute_number>18</absolute_number>
+  <filename>episodes/266189/4819661.jpg</filename>
+  <lastupdated>1413916382</lastupdated>
+  <seasonid>510816</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2014-04-11 15:11:59</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4823183</id>
+  <Combined_episodenumber>19</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Paul A. Edwards</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Die Pavlovich BrÃ¼der (Nr. 119 - 122)</EpisodeName>
+  <EpisodeNumber>19</EpisodeNumber>
+  <FirstAired>2014-04-21</FirstAired>
+  <GuestStars>|Hisham Tawfiq|Amir Arison|Stivi Paskoski|Goran Ivanovski|Renne Gjoni|James Biberi|Natalie Kim|Marc Damon Johnson|</GuestStars>
+  <IMDB_ID>tt3276470</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Liz wurde mit einem neuen Fall beauftragt: Die Pavlovich BrÃ¼der sind wieder in Washington D.C. aufgetaucht. Liz ist mit den BrÃ¼dern und ihrer Arbeitsweise bestens vertraut, waren sie doch in ihrem ersten Fall fÃ¼r die EntfÃ¼hrung der Tochter des Generals zustÃ¤ndig. Red hat Informationen, dass die Spezialisten auf die Immunologien Li angesetzt wurden. Auch zu Hause steht Liz vor einer groÃŸen Herausforderung, sie muss weiterhin ihre Rolle gegenÃ¼ber Tom spielen, um hinter sein wahre IdentitÃ¤t zu kommen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>83</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Elizabeth Benjamin</Writer>
+  <absolute_number>19</absolute_number>
+  <filename>episodes/266189/4823183.jpg</filename>
+  <lastupdated>1413916369</lastupdated>
+  <seasonid>510816</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2014-04-12 04:12:48</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4823180</id>
+  <Combined_episodenumber>20</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Karen Gaviola</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Der KÃ¶nigsmacher (Nr. 42)</EpisodeName>
+  <EpisodeNumber>20</EpisodeNumber>
+  <FirstAired>2014-04-28</FirstAired>
+  <GuestStars>|Alan Alda|Linus Roache|Hisham Tawfiq|Amir Arison|Joseph Siravo|Mike Doyle|Jack Dimich|Michaela Waters|Alok Tewari|Amr El-Bayoumi|Lee Wong|Ylfa Edelstein|Dominic Colon|Dan Ziskie|Alexandra Neil|</GuestStars>
+  <IMDB_ID>tt3276472</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Emil Dusek, ein tschechischer Senator, wird des Mordes bezichtigt. Als Red von dem Fall erfÃ¤hrt, erkennt er die Handschrift des &quot;Kingmakers&quot; wieder. Das Arbeitsgebiet des &quot;Kingmakers&quot; ist die Politik: Er wird engagiert, um politische Karrieren zu pushen oder zu ruinieren. Sein nÃ¤chster Auftrag fÃ¼hrt ihn in die USA und Red heftet sich an seine Fersen. Inzwischen hat Liz Toms Umschlag geÃ¶ffnet. Sie findet darin zwei Fotos, auf denen Red zu sehen ist, wie er das St. Adrian's Krankenhaus betritt.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>86</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>|J.R. Orci|Lukas Reiter|</Writer>
+  <absolute_number>20</absolute_number>
+  <filename>episodes/266189/4823180.jpg</filename>
+  <lastupdated>1413916353</lastupdated>
+  <seasonid>510816</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2014-04-23 16:12:22</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4823181</id>
+  <Combined_episodenumber>21</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Zinberg</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Berlin (Nr. 8) - Teil 1</EpisodeName>
+  <EpisodeNumber>21</EpisodeNumber>
+  <FirstAired>2014-05-05</FirstAired>
+  <GuestStars>John Glover|Hisham Tawfiq|Amir Arison|Brennan Brown|Geraldine Hughes|Jason Butler Harner|Victor Cruz|Elizabeth Ward Land</GuestStars>
+  <IMDB_ID>tt3276474</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Nachdem Liz nun die Wahrheit Ã¼ber den Tod ihres Vaters kennt, verweigert sie die Zusammenarbeit mit Red. Doch Reddington gibt sich nicht so leicht geschlagen, er stellt dem FBI einen neuen Fall in Aussicht, den selbst Liz nicht ignorieren kann: Ein Mann mit dem Codenamen â€žBerlinâ€œ ist seit Jahren hinter Red her. Und nicht mal Red kennt dessen wahre IdentitÃ¤t. Um endlich an sein Ziel zu gelangen, ist â€žBerlinâ€œ jedes Mittel recht â€“ einschlieÃŸlich das AuslÃ¶sen einer globalen Pandemie durch einen aggressiven Virus.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>78</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>John Eisendrath|Jon Bokenkamp</Writer>
+  <absolute_number>21</absolute_number>
+  <filename>episodes/266189/4823181.jpg</filename>
+  <lastupdated>1410072068</lastupdated>
+  <seasonid>510816</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2014-05-03 15:13:40</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4823182</id>
+  <Combined_episodenumber>22</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Watkins</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Berlin (Nr. 8) - Teil 2</EpisodeName>
+  <EpisodeNumber>22</EpisodeNumber>
+  <FirstAired>2014-05-12</FirstAired>
+  <GuestStars>Alan Alda|Andrew Howard|Peter Stormare|Hisham Tawfiq|Amir Arison|Jason Butler Harner|Juan Carlos HernÃ¡ndez|John Sharian|Misha Kuznetsov</GuestStars>
+  <IMDB_ID>tt3276476</IMDB_ID>
+  <Language>de</Language>
+  <Overview>In der NÃ¤he von Manhattan kommt es zum mysteriÃ¶sen Absturz eines GefÃ¤ngnistransportfliegers. Niemand weiÃŸ woher die Maschine kam oder wohin sie wollte. Das FBI wird mit dem Fall beauftragt und beginnt mit ihrer Suche nach den Insassen. Inzwischen versucht Liz Cooper zu Ã¼berreden, Red in dem Fall mitarbeiten zu lassen. Nach neuesten Informationen war â€žBerlinâ€œ angeblich auch an Bord des Flugzeugs. Einer der Ã¼berlebenden Wachebeamten der Maschine liefert dem FBI wichtige Hinweise zu â€žBerlinsâ€œ Vergangenheit â€“ â€žBerlinâ€œ will sich fÃ¼r den Mord an seiner Tochter rÃ¤chen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>83</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>John Eisendrath|Jon Bokenkamp|Lukas Reiter|J.R. Orci|Richard D'ovidio</Writer>
+  <absolute_number>22</absolute_number>
+  <filename>episodes/266189/4823182.jpg</filename>
+  <lastupdated>1410072080</lastupdated>
+  <seasonid>510816</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2014-05-09 09:49:32</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4899484</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael W. Watkins</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Lord Baltimore (Nr. 104)</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2014-09-22</FirstAired>
+  <GuestStars>Mary-Louise Parker|Krysten Ritter|Peter Stormare|Jason Butler Harner</GuestStars>
+  <IMDB_ID>tt3381714</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Der erbitterte Kampf zwischen Reddington und Berlin hÃ¤lt an. Doch ein weiterer mÃ¤chtiger Feind tritt ins Rampenlicht, der sich Lord Baltimore nennt. Liz muss derweil versuchen, die finale Konfrontation mit Tom hinter sich zu lassen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>66</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Jon Bokenkamp|John Eisendrath</Writer>
+  <absolute_number>23</absolute_number>
+  <filename>episodes/266189/4899484.jpg</filename>
+  <lastupdated>1423702988</lastupdated>
+  <seasonid>587363</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2014-09-15 23:40:28</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4948191</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Paul Edwards</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Monarch Douglas Bank (Nr. 112)</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2014-09-29</FirstAired>
+  <GuestStars>Mary-Louise Parker|Peter Stormare</GuestStars>
+  <IMDB_ID>tt4045862</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Als die Monarch Douglas Bank ausgeraubt wird, will Red die Gunst der Stunde nutzen und die bestehenden GeldwÃ¤schegeschÃ¤fte der Bank zerstÃ¶ren. Liz ist misstrauisch, was die wirklichen Absichten von Reddington angeht. Das Ermittlerteam erhÃ¤lt auÃŸerdem schlagkrÃ¤ftige UnterstÃ¼tzung, von einer Person, die alle beeindruckt.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.5</Rating>
+  <RatingCount>61</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Kristen Reidel|Amanda Kate Shuman|Daniel Knauf</Writer>
+  <absolute_number>24</absolute_number>
+  <filename>episodes/266189/4948191.jpg</filename>
+  <lastupdated>1423702982</lastupdated>
+  <seasonid>587363</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2014-09-23 09:25:33</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4990453</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Karen Gaviola</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Dr. James Covington (Nr. 89)</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2014-10-06</FirstAired>
+  <GuestStars>Mary-Louise Parker|Ron Cephas Jones|Paul Reubens|Joseph Siravo</GuestStars>
+  <IMDB_ID>tt3977666</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Keen, Ressler und Samar sind einem illegalen Organhandel auf der Spur, nachdem ein Mann mit entferntem Herz aufgefunden wurde. Reddington versucht derweil, neue GeschÃ¤fte in Indonesien anzuschieben, ein Vorhaben, das sich schnell zu seinem Nachteil entwickelt.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>61</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Lukas Reiter|J. R. Orci</Writer>
+  <absolute_number>25</absolute_number>
+  <filename>episodes/266189/4990453.jpg</filename>
+  <lastupdated>1423183039</lastupdated>
+  <seasonid>587363</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2014-09-30 09:24:11</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4998540</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael W. Watkins</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Dr. Linus Creel (Nr. 82)</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2014-10-13</FirstAired>
+  <GuestStars>Mary-Louise Parker|Paul Reubens|David Costabile</GuestStars>
+  <IMDB_ID>tt4061178</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Als eine Reihe scheinbar gewaltloser BÃ¼rger plÃ¶tzlich zu Killern werden, legt Red Liz seinen Verdacht nahe, es kÃ¶nnte ein gefÃ¤hrliches sozial-psychologisches Experiment im Gange sein. AuÃŸerdem versucht Red Naomi und ihren Mann davon zu Ã¼berzeugen, ein ganz besonderes Angebot zu anzunehmen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>53</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Mike Ostrowski</Writer>
+  <absolute_number>26</absolute_number>
+  <filename>episodes/266189/4998540.jpg</filename>
+  <lastupdated>1423496366</lastupdated>
+  <seasonid>587363</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2014-10-06 14:14:24</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5002571</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Steven A. Adelson</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Die Front (Nr. 74)</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2014-10-20</FirstAired>
+  <GuestStars>Michael Laurence|Scottie Thompson|Amber Skye Noyes</GuestStars>
+  <IMDB_ID>tt4054174</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die Agenten Keen, Ressler und Cooper gehen einer Terroristenzelle nach, die womÃ¶glich eine zerstÃ¶rerische Waffe besitzt. Liz versucht auÃŸerdem, ihren BeschÃ¼tzer loszuwerden und Red wendet gekonnt sein Manipulationsgeschick an, um jemanden zu verfolgen, der ihm sehr nahe steht.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.4</Rating>
+  <RatingCount>53</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Jim Campolongo|Adam Sussman</Writer>
+  <absolute_number>27</absolute_number>
+  <filename>episodes/266189/5002571.jpg</filename>
+  <lastupdated>1423183478</lastupdated>
+  <seasonid>587363</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2014-10-14 06:59:11</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5005450</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>David Platt</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Das Mombasa Kartell (Nr. 114)</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2014-10-27</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4109836</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Als eine verstÃ¼mmelte Leiche am Strand angespÃ¼lt wird, tauchen Liz und Red in die gefÃ¤hrliche Welt der Wilderer ein. Ressler entwickelt eine gefÃ¤hrliche Angewohnheit.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.6</Rating>
+  <RatingCount>47</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Daniel Knauf</Writer>
+  <absolute_number>28</absolute_number>
+  <filename>episodes/266189/5005450.jpg</filename>
+  <lastupdated>1423183697</lastupdated>
+  <seasonid>587363</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2014-10-21 13:54:16</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5005451</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Karen Gaviola</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Der KrummsÃ¤bel (Nr. 22)</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2014-11-03</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4094332</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Als ein iranischer Atomwissenschaftler ermordet wird, lÃ¶st dies einen Racheplan gegen einen wichtigen Amerikaner aus. Red informiert Keen und Navabi darÃ¼ber, dass der gefÃ¤hrliche AuftragsmÃ¶rder â€žThe Scimitarâ€œ mit dem Job beauftragt wurde.
+Liz und Ressler geraten daraufhin in eine missliche Lage, als sie eine Spur verfolgen.
+In ihrer Freizeit sammelt Liz indes weitere Informationen Ã¼ber Berlin, wÃ¤hrend sich Red und seine vermeintliche Tochter Zoe weiter annÃ¤hern.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.7</Rating>
+  <RatingCount>47</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>J.R. Orci|Lukas Reiter</Writer>
+  <absolute_number>29</absolute_number>
+  <filename>episodes/266189/5005451.jpg</filename>
+  <lastupdated>1423183844</lastupdated>
+  <seasonid>587363</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2014-10-28 15:18:09</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5005452</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Michael Watkins</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Der Dekabrist (Nr. 12)</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-11-10</FirstAired>
+  <GuestStars>Peter Stormare</GuestStars>
+  <IMDB_ID>tt4156774</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Reds Absichten fÃ¼r Berlin nehmen eine plÃ¶tzliche Wendung, als er herausfindet, dass Berlin vom neuen Blacklister manipuliert wurde, um sich an Red zu rÃ¤chen.
+Red und Berlin reisen nach Moskau, um einen hochrangigen russischen Offizier zu finden, den sie fÃ¼r verantwortlich halten.
+Liz kÃ¤mpft indes darum, ihr Geheimnis zu hÃ¼ten. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.8</Rating>
+  <RatingCount>43</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>John Eisendrath|Jon Bokenkamp</Writer>
+  <absolute_number>30</absolute_number>
+  <filename>episodes/266189/5005452.jpg</filename>
+  <lastupdated>1423184176</lastupdated>
+  <seasonid>587363</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2014-11-04 09:34:56</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5041678</id>
+  <Combined_episodenumber>9</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Joe Carnahan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Luther Braxton (1)</EpisodeName>
+  <EpisodeNumber>9</EpisodeNumber>
+  <FirstAired>2015-02-01</FirstAired>
+  <GuestStars>Ron Perlman|David Strathairn|Janel Maloney</GuestStars>
+  <IMDB_ID>tt4210902</IMDB_ID>
+  <Language>de</Language>
+  <Overview>When Red is arrested and taken to a secret detention facility, Liz and the task force set out to save him before he disappears forever. At the facility, Red encounters a thief with whom he shares a complicated history.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.3</Rating>
+  <RatingCount>27</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/266189/5041678.jpg</filename>
+  <lastupdated>1423598507</lastupdated>
+  <seasonid>587363</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2015-01-27 12:20:33</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5041679</id>
+  <Combined_episodenumber>10</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Luther Braxton: Conclusion (2)</EpisodeName>
+  <EpisodeNumber>10</EpisodeNumber>
+  <FirstAired>2015-02-05</FirstAired>
+  <GuestStars>Ron Perlman|David Strathairn|Janel Maloney</GuestStars>
+  <IMDB_ID>tt4283600</IMDB_ID>
+  <Language>de</Language>
+  <Overview>As chaos ensues at the Factory, leaving the fate of Red and the task force unknown, Cooper struggles to rescue his team from the detention facility. Itâ€™s a race against time to prevent Luther Braxton attaining confidential information.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.1</Rating>
+  <RatingCount>22</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/266189/5041679.jpg</filename>
+  <lastupdated>1423598469</lastupdated>
+  <seasonid>587363</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2015-01-29 13:32:47</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5111292</id>
+  <Combined_episodenumber>11</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ruslan Denisov</EpisodeName>
+  <EpisodeNumber>11</EpisodeNumber>
+  <FirstAired>2015-02-12</FirstAired>
+  <GuestStars>Faran Thair</GuestStars>
+  <IMDB_ID>tt4287704</IMDB_ID>
+  <Language>de</Language>
+  <Overview>When an undercover CIA agent is kidnapped by a band of separatists in Uzbekistan, the task force sets a rescue mission in motion. Red informs Liz and Ressler that they are up against a very dangerous former associate.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.1</Rating>
+  <RatingCount>8</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number>33</absolute_number>
+  <filename>episodes/266189/5111292.jpg</filename>
+  <lastupdated>1423496451</lastupdated>
+  <seasonid>587363</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2015-02-03 15:51:53</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5112730</id>
+  <Combined_episodenumber>12</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>The Kenyon Family</EpisodeName>
+  <EpisodeNumber>12</EpisodeNumber>
+  <FirstAired>2015-02-19</FirstAired>
+  <GuestStars>Clark Middleton|Eric Nelsen</GuestStars>
+  <IMDB_ID>tt4355076</IMDB_ID>
+  <Language>de</Language>
+  <Overview>When Red tips Liz off about the disappearance of a polygamous cult leader with dangerous shipping containers buried on his property, the task force sets out to investigate. Red utilizes his sources to appease Fitchâ€™s last words and tries to track down his hidden safe.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename>episodes/266189/5112730.jpg</filename>
+  <lastupdated>1423692306</lastupdated>
+  <seasonid>587363</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added>2015-02-11 14:05:06</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>5112731</id>
+  <Combined_episodenumber>13</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>The Deer Hunter</EpisodeName>
+  <EpisodeNumber>13</EpisodeNumber>
+  <FirstAired>2015-02-26</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt4378652</IMDB_ID>
+  <Language>de</Language>
+  <Overview>When Liz learns of a serial killer known as &quot;The Deer Hunter&quot; who tracks his victims like prey, Red helps the task force search for the killer. Meanwhile, the local DC police suspect the city Harbormaster was murdered as Liz struggles to keep her secret from unraveling.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1423496485</lastupdated>
+  <seasonid>587363</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5112732</id>
+  <Combined_episodenumber>14</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName>T. Earl King VI</EpisodeName>
+  <EpisodeNumber>14</EpisodeNumber>
+  <FirstAired>2015-03-05</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>A former paramour involves Reddington in a deadly game with a wealthy, powerful family dynasty whose ill-begotten fortune was amassed from an underground auction of human and material contraband. Meanwhile, Tom takes on a new mission. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1423922793</lastupdated>
+  <seasonid>587363</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+<Episode>
+  <id>5113218</id>
+  <Combined_episodenumber>15</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag></EpImgFlag>
+  <EpisodeName></EpisodeName>
+  <EpisodeNumber>15</EpisodeNumber>
+  <FirstAired>2015-03-12</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview></Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <filename></filename>
+  <lastupdated>1422386871</lastupdated>
+  <seasonid>587363</seasonid>
+  <seriesid>266189</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height></thumb_height>
+  <thumb_width></thumb_width>
+</Episode>
+</Data>

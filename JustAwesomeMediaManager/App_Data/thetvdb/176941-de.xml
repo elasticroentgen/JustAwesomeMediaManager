@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data><Series>
+  <id>176941</id>
+  <Actors>|Benedict Cumberbatch|Martin Freeman|Amanda Abbington|Rupert Graves|Louise Brealey|Lars Mikkelsen|Mark Gatiss|Lara Pulver|Andrew Scott|Una Stubbs|</Actors>
+  <Airs_DayOfWeek>Sunday</Airs_DayOfWeek>
+  <Airs_Time>8:30 PM</Airs_Time>
+  <ContentRating>TV-14</ContentRating>
+  <FirstAired>2010-07-25</FirstAired>
+  <Genre>|Adventure|Crime|Drama|Mystery|Thriller|</Genre>
+  <IMDB_ID>tt1475582</IMDB_ID>
+  <Language>de</Language>
+  <Network>BBC One</Network>
+  <NetworkID></NetworkID>
+  <Overview>Sherlock Holmes meldet sich zurÃ¼ck und ist jÃ¼nger und energetischer denn je! In der ebenso originellen wie spannenden Neuauflage des klassischen Stoffes nach Sir Arthur Conan Doyle, begibt sich Holmes mit Smartphone und Notebook bewaffnet auf groÃŸe Verbrecherjagd im London des 21. Jahrhunderts. UnterstÃ¼tzung erfÃ¤hrt er in Dr. John H. Watson, einen posttraumatisierten Kriegsveteranen, der Holmes bei dessen Ermittlungen nicht von der Seite weicht.</Overview>
+  <Rating>9.4</Rating>
+  <RatingCount>332</RatingCount>
+  <Runtime>90</Runtime>
+  <SeriesID>79744</SeriesID>
+  <SeriesName>Sherlock</SeriesName>
+  <Status>Continuing</Status>
+  <added>2010-07-20 01:40:01</added>
+  <addedBy>63541</addedBy>
+  <banner>graphical/176941-g.jpg</banner>
+  <fanart>fanart/original/176941-3.jpg</fanart>
+  <lastupdated>1423918798</lastupdated>
+  <poster>posters/176941-5.jpg</poster>
+  <tms_wanted_old>1</tms_wanted_old>
+  <zap2it_id>SH01304269</zap2it_id>
+</Series>
+<Episode>
+  <id>2704621</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Unaired Pilot</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired></FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Sherlock was announced as a single 60-minute drama production at the Edinburgh International Television Festival in August 2008, to be broadcast in Autumn 2009, with the intention of producing a full series should the pilot be successful. The BBC decided not to transmit the pilot, as is common industry practice, but commissioned three 90-minute episodes. 
+
+This is the 60 minute pilot.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>20</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>1</airsbefore_season>
+  <filename>episodes/176941/2704621.jpg</filename>
+  <lastupdated>1390584053</lastupdated>
+  <seasonid>281721</seasonid>
+  <seriesid>176941</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2760861</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Coky Giedroyc</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Unlocking Sherlock</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2010-08-30</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>A 32-minute documentary about the production of the series</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>Mark Gatiss</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>1</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/176941/2760861.jpg</filename>
+  <lastupdated>1388857952</lastupdated>
+  <seasonid>281721</seasonid>
+  <seriesid>176941</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4250184</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>1</EpImgFlag>
+  <EpisodeName>Sherlock Uncovered</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2012-02-07</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>The stars of Sherlock, Benedict Cumberbatch and Martin Freeman, talk in depth about the success of the first season and look ahead to season 2. This bonus feature also includes the show's creators, Steven Moffat and Mark Gatiss, discussing the dilemmas and pitfalls they faced when bringing these classic Holmes stories into the 21st century.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>4</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>2</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/176941/4250184.jpg</filename>
+  <lastupdated>1388033495</lastupdated>
+  <seasonid>281721</seasonid>
+  <seriesid>176941</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>300</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4731096</id>
+  <Combined_episodenumber>4</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Many Happy Returns</EpisodeName>
+  <EpisodeNumber>4</EpisodeNumber>
+  <FirstAired>2013-12-24</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>A series of seemingly unconnected crimes stretching from Tibet to India to Germany. Sherlock Holmes has been gone for two years. But someone isn't quite convinced that he's deadâ€¦.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>12</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer>Mark Gatiss|Steven Moffat</Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>3</airsbefore_season>
+  <filename>episodes/176941/4731096.jpg</filename>
+  <lastupdated>1389698572</lastupdated>
+  <seasonid>281721</seasonid>
+  <seriesid>176941</seriesid>
+  <thumb_added>2013-12-24 10:55:35</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4755722</id>
+  <Combined_episodenumber>5</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Unlocking Sherlock (2013)</EpisodeName>
+  <EpisodeNumber>5</EpisodeNumber>
+  <FirstAired>2013-12-25</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Watch a one-hour special that explores how writers Steven Moffat and Mark Gatiss created the hit television sensation.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>1</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>1</airsbefore_episode>
+  <airsbefore_season>3</airsbefore_season>
+  <filename>episodes/176941/4755722.jpg</filename>
+  <lastupdated>1389096954</lastupdated>
+  <seasonid>281721</seasonid>
+  <seriesid>176941</seriesid>
+  <thumb_added>2014-01-07 04:20:11</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4993982</id>
+  <Combined_episodenumber>6</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Sherlock Uncovered: The Return</EpisodeName>
+  <EpisodeNumber>6</EpisodeNumber>
+  <FirstAired>2014-01-19</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>Sherlock's back! The world's greatest detective comes back from the dead. But how did he do it? We go behind-the-scenes of the first episode cast read-through, with Benedict Cumberbatch and Martin Freeman where the answer to television's greatest mystery was first revealed. And we uncover the unlikely friendship between Sherlock Holmes and Dr John Watson.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>2</airsbefore_episode>
+  <airsbefore_season>3</airsbefore_season>
+  <filename>episodes/176941/4993982.jpg</filename>
+  <lastupdated>1414955854</lastupdated>
+  <seasonid>281721</seasonid>
+  <seriesid>176941</seriesid>
+  <thumb_added>2014-11-02 11:17:34</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4993983</id>
+  <Combined_episodenumber>7</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Sherlock Uncovered: The Woman</EpisodeName>
+  <EpisodeNumber>7</EpisodeNumber>
+  <FirstAired>2014-01-26</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>The stars of Sherlock talk about the women in the life of TV's greatest detective. Sherlock Holmes may be great at solving mysteries, but he's clueless about women. We launch an investigation into the women in Sherlock's life. Mary Morstan is marrying his best friend. Irene Adler stole his heart. He doesn't know Molly exists. And Mrs Hudson's always there to pick up the pieces. </Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season></airsafter_season>
+  <airsbefore_episode>3</airsbefore_episode>
+  <airsbefore_season>3</airsbefore_season>
+  <filename>episodes/176941/4993983.jpg</filename>
+  <lastupdated>1414957396</lastupdated>
+  <seasonid>281721</seasonid>
+  <seriesid>176941</seriesid>
+  <thumb_added>2014-11-02 11:43:16</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4993984</id>
+  <Combined_episodenumber>8</Combined_episodenumber>
+  <Combined_season>0</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director></Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Sherlock Uncovered: The Villains</EpisodeName>
+  <EpisodeNumber>8</EpisodeNumber>
+  <FirstAired>2014-02-02</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID></IMDB_ID>
+  <Language>de</Language>
+  <Overview>We meet the great villains who've battled with TV's greatest detective. There's Jim Moriarty, his nemesis. There's Charles Augustus Magnussen, the only man Sherlock Holmes truly hates. And then there's Mycroft Holmes - Sherlock's brother and the last word in sibling rivalry. All of them have had influence over those closest to Sherlock. And all of them cause him grief.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating></Rating>
+  <RatingCount>0</RatingCount>
+  <SeasonNumber>0</SeasonNumber>
+  <Writer></Writer>
+  <absolute_number></absolute_number>
+  <airsafter_season>3</airsafter_season>
+  <airsbefore_episode></airsbefore_episode>
+  <airsbefore_season></airsbefore_season>
+  <filename>episodes/176941/4993984.jpg</filename>
+  <lastupdated>1414958442</lastupdated>
+  <seasonid>281721</seasonid>
+  <seriesid>176941</seriesid>
+  <thumb_added>2014-11-02 12:00:42</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2502511</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Paul McGuigan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ein Fall von Pink</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2010-07-25</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1665071</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Eine in Pink gekleidete Frau liegt tot in einem baufÃ¤lligen Haus. Sie ist bereits die vierte Leiche in einer Serie scheinbar unmÃ¶glicher Selbstmorde. Detective Inspector Lestrade ist der beste Mann bei Scotland Yard, aber zunehmend ratlos. Er weiÃŸ, dass es nur einen Mann gibt, der in diesem Fall weiterhelfen kann.
+
+ Anderswo in London kehrt ein als dienstunfÃ¤hig eingestufter Kriegsheld aus Afghanistan zurÃ¼ck. Das seltsame, aber charismatische Genie Sherlock Holmes sucht einen Mitbewohner: Dr. John Watson und Sherlock Holmes treffen sich zum ersten Mal.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.3</Rating>
+  <RatingCount>275</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Steven Moffat</Writer>
+  <absolute_number>2</absolute_number>
+  <filename>episodes/176941/2502511.jpg</filename>
+  <lastupdated>1422944387</lastupdated>
+  <seasonid>281751</seasonid>
+  <seriesid>176941</seriesid>
+  <thumb_added>2015-02-02 22:19:50</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2502521</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Euros Lyn</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Der blinde Banker</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2010-08-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1664529</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Das neue Leben von Watson ist niemals langweilig â€“ schlieÃŸlich teilt er sich die Wohnung mit Sherlock Holmes. Aber leider werden durch das LÃ¶sen von RÃ¤tseln keine Rechnungen bezahlt. Sherlocks Idee einfach eine Bank aufzusuchen ist dabei nicht ganz das, was Watson sich vorstellt.
+
+MysteriÃ¶se Chiffren tauchen plÃ¶tzlich auf Mauern in London auf. Die Chiffren finden sich in ganz London vom glÃ¤nzenden Finanzzentrum in der Stadt bis hin zum chinesischen Wanderzirkus. Jeder, der diese Chiffren sieht ist innerhalb von Stunden tot. Sherlock und Watson sollen die tÃ¶dlichen Symbole entschlÃ¼sseln bevor noch weitere Personen dem mysteriÃ¶sen Black Lotus zum Opfer fallen.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>7.9</Rating>
+  <RatingCount>256</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Stephen Thompson</Writer>
+  <absolute_number>3</absolute_number>
+  <filename>episodes/176941/2502521.jpg</filename>
+  <lastupdated>1399308054</lastupdated>
+  <seasonid>281751</seasonid>
+  <seriesid>176941</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>2502531</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>1</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>1</DVD_season>
+  <Director>Paul McGuigan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Das groÃŸe Spiel</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2010-08-08</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1664530</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Manche Verbrechen geschehen genau zur richtigen Zeit - zumindest fÃ¼r Sherlock Holmes: Gerade als der geniale Ermittler Ã¼ber Langeweile und den Mangel an neuen Herausforderungen klagt, beginnen die Ereignisse sich zu Ã¼berstÃ¼rzen. Erst kommt es in seinem Haus zu einer gewaltigen Explosion, die scheinbar auf ein Gasleck zurÃ¼ckzufÃ¼hren ist, und dann taucht sein Bruder Mycroft auf und bittet ihn um Hilfe. Ein Agent des MI6, der wichtige Daten eines geheimen Waffenprojekts auf einem Speicherstick mit sich fÃ¼hrte, wurde tot aufgefunden - der Stick ist spurlos verschwunden. Ãœberraschenderweise zeigt Holmes kein Interesse an dem Fall und delegiert ihn an seinen Mitbewohner und Kollegen Dr. Watson weiter. Er scheint zu ahnen, dass die wirklich groÃŸe Herausforderung noch auf ihn wartet. TatsÃ¤chlich erhÃ¤lt Sherlock wenig spÃ¤ter eine Reihe schockierender Botschaften, in denen er von einem geheimnisvollen Verbrecher zu einer Art Duell herausgefordert wird: Der Mann hat fÃ¼nf unschuldige Menschen in lebende Bomben verwandelt...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>221</RatingCount>
+  <SeasonNumber>1</SeasonNumber>
+  <Writer>Mark Gatiss</Writer>
+  <absolute_number>4</absolute_number>
+  <filename>episodes/176941/2502531.jpg</filename>
+  <lastupdated>1399308546</lastupdated>
+  <seasonid>281751</seasonid>
+  <seriesid>176941</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4103396</id>
+  <Combined_episodenumber>1.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>1.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Paul McGuigan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Ein Skandal in Belgravia</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2012-01-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1942612</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Die Domina Irene Adler besitzt kompromittierende Fotos von einem Mitglied der KÃ¶nigsfamilie. Nun soll Sherlock die unzÃ¼chtigen Bilder auf diskrete Weise sicherstellen. 
+
+ZunÃ¤chst scheint alles nach Plan zu laufen, auch wenn Irene Adler auf den Besuch der beiden SpÃ¼rnasen bestens vorbereitet ist und sich als ebenso scharfsinnig und wortgewandt erweist wie der genialische Sherlock...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.2</Rating>
+  <RatingCount>214</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Steven Moffat</Writer>
+  <absolute_number>5</absolute_number>
+  <filename>episodes/176941/4103396.jpg</filename>
+  <lastupdated>1423918332</lastupdated>
+  <seasonid>466395</seasonid>
+  <seriesid>176941</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4103397</id>
+  <Combined_episodenumber>2.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>2.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Paul McGuigan</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Die Hunde von Baskerville</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2012-01-08</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt1942613</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Henry Knight musste als kleiner Junge erleben, wie sein Vater in den SÃ¼mpfen von Dartmoor von einer hundeartigen Bestie zerfleischt wurde. Die HintergrÃ¼nde der Attacke blieben ungeklÃ¤rt, das blutrÃ¼nstige Tier wurde nie aufgespÃ¼rt. Um endlich Klarheit Ã¼ber die damaligen Ereignisse zu bekommen und seine Ã„ngste zu Ã¼berwinden, bittet er Holmes und Dr. Watson um Hilfe.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>186</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Mark Gatiss</Writer>
+  <absolute_number>6</absolute_number>
+  <filename>episodes/176941/4103397.jpg</filename>
+  <lastupdated>1423918380</lastupdated>
+  <seasonid>466395</seasonid>
+  <seriesid>176941</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4103398</id>
+  <Combined_episodenumber>3.0</Combined_episodenumber>
+  <Combined_season>2</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber>3.0</DVD_episodenumber>
+  <DVD_season>2</DVD_season>
+  <Director>Toby Haynes</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Der Reichenbachfall</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2012-01-15</FirstAired>
+  <GuestStars>Andrew Scott</GuestStars>
+  <IMDB_ID>tt1942614</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Durch die zahlreichen, von ihm auf brillante Weise gelÃ¶sten KriminalfÃ¤lle ist Sherlock Holmes zu einem regelrechten Medienstar avanciert. Unterdessen bereitet seine Nemesis Moriarty einen teuflischen Plan vor.
+
+Es beginnt damit, dass er drei spektakulÃ¤re Coups auf einmal durchfÃ¼hrt ...</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.4</Rating>
+  <RatingCount>200</RatingCount>
+  <SeasonNumber>2</SeasonNumber>
+  <Writer>Stephen Thompson</Writer>
+  <absolute_number>7</absolute_number>
+  <filename>episodes/176941/4103398.jpg</filename>
+  <lastupdated>1423918506</lastupdated>
+  <seasonid>466395</seasonid>
+  <seriesid>176941</seriesid>
+  <thumb_added></thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4520777</id>
+  <Combined_episodenumber>1</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Jeremy Lovering</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Der leere Sarg</EpisodeName>
+  <EpisodeNumber>1</EpisodeNumber>
+  <FirstAired>2014-01-01</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2189771</IMDB_ID>
+  <Language>de</Language>
+  <Overview>John Watson weiÃŸ nicht, ob er aus Freude in die Luft springen oder vor Wut platzen soll: Zwei Jahre nach dem vermeintlichen Tod seines Freundes will der Doktor seiner Geliebten Mary einen Heiratsantrag machen, als der Kellner des Nobelrestaurants sich plÃ¶tzlich als Sherlock zu erkennen gibt. Der Meisterdetektiv ist quicklebendig - um seinen Gegenspieler Moriarty auszutricksen, musste er sein eigenes Ableben vortÃ¤uschen. Nun ist er zurÃ¼ckgekehrt, um einen drohenden Terroranschlag in London zu vereiteln. Auf die Mithilfe seines treuen Assistenten muss Sherlock einstweilen verzichten: Watson ist beleidigt, weil er in den tollkÃ¼hnen Plan nicht eingeweiht wurde - und weil der Detektiv sich Ã¼ber seinen Schnurrbart lustig macht. Der Doktor wird jedoch entfÃ¼hrt und so gegen seinen Willen in den Fall involviert.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.1</Rating>
+  <RatingCount>119</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Mark Gatiss</Writer>
+  <absolute_number>7</absolute_number>
+  <filename>episodes/176941/4520777.jpg</filename>
+  <lastupdated>1423916934</lastupdated>
+  <seasonid>514622</seasonid>
+  <seriesid>176941</seriesid>
+  <thumb_added>2013-12-19 19:51:08</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4543555</id>
+  <Combined_episodenumber>2</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Colm McCarthy</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Im Zeichen der Drei</EpisodeName>
+  <EpisodeNumber>2</EpisodeNumber>
+  <FirstAired>2014-01-05</FirstAired>
+  <GuestStars></GuestStars>
+  <IMDB_ID>tt2781042</IMDB_ID>
+  <Language>de</Language>
+  <Overview>Kombinieren, deduzieren und Spuren lesen: Das sind Sherlock Holmes' StÃ¤rken. Die Rolle des Trauzeugen, der auf der Hochzeitsfeier seines Freundes John Watson eine gefÃ¼hlvolle Rede halten soll, stellt ihn vor Probleme. In seiner Not besinnt er sich auf ungelÃ¶ste FÃ¤lle: Ein Leibgardist der KÃ¶nigin wÃ¤hnte sich von einem mysteriÃ¶sen Stalker verfolgt und bat Sherlock um Hilfe. Trotz seiner GenialitÃ¤t konnte der Detektiv weder den Mordanschlag auf den Wachmann verhindern noch Tatwaffe, Tathergang und TÃ¤ter ausfindig machen. Ebenso rÃ¤tselhaft ist der Fall des Eintagsfliegen-Mannes. Dieser verabredete sich in den Wohnungen kÃ¼rzlich Verstorbener mit Frauen zu einem romantischen Rendezvous und verschwand danach spurlos - die AuserwÃ¤hlten glaubten hinterher, mit einem Geist zusammen gewesen zu sein. Gebannt lauschen die HochzeitsgÃ¤ste den Geschichten Sherlocks, dem wÃ¤hrend des ErzÃ¤hlens plÃ¶tzlich bewusst wird, welche Indizien er Ã¼bersah.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.0</Rating>
+  <RatingCount>103</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Stephen Thompson</Writer>
+  <absolute_number>8</absolute_number>
+  <filename>episodes/176941/4543555.jpg</filename>
+  <lastupdated>1423918792</lastupdated>
+  <seasonid>514622</seasonid>
+  <seriesid>176941</seriesid>
+  <thumb_added>2013-12-27 02:34:43</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+<Episode>
+  <id>4550992</id>
+  <Combined_episodenumber>3</Combined_episodenumber>
+  <Combined_season>3</Combined_season>
+  <DVD_chapter></DVD_chapter>
+  <DVD_discid></DVD_discid>
+  <DVD_episodenumber></DVD_episodenumber>
+  <DVD_season></DVD_season>
+  <Director>Nick Hurran</Director>
+  <EpImgFlag>2</EpImgFlag>
+  <EpisodeName>Sein letzter Schwur</EpisodeName>
+  <EpisodeNumber>3</EpisodeNumber>
+  <FirstAired>2014-01-12</FirstAired>
+  <GuestStars>Lars Mikkelsen</GuestStars>
+  <IMDB_ID>tt2781046</IMDB_ID>
+  <Language>de</Language>
+  <Overview>John Watson ist bass erstaunt: Nach seiner Heirat hat der Doktor lÃ¤nger nichts mehr von seinem Freund gehÃ¶rt, doch nun muss er Erste Hilfe in einer Unterkunft fÃ¼r DrogenabhÃ¤ngige leisten und trifft dabei Sherlock zwischen Junkies an. Die extravagante Tarnung gehÃ¶rt jedoch zu dessen neuem Fall. Lady Elizabeth Smallwood, eine hohe Regierungsbeamtin, hat sich an Holmes gewandt, weil sie von einem gewissen Charles Magnussen mit alten Liebesbriefen ihres Ehemanns unter Druck gesetzt wird. Der Medientycoon bewahrt in seinem Privatarchiv eine gigantische Menge vertraulicher Informationen auf, mit der er ganze Staaten in die Knie zwingen kann.</Overview>
+  <ProductionCode></ProductionCode>
+  <Rating>8.4</Rating>
+  <RatingCount>100</RatingCount>
+  <SeasonNumber>3</SeasonNumber>
+  <Writer>Steven Moffat</Writer>
+  <absolute_number>10</absolute_number>
+  <filename>episodes/176941/4550992.jpg</filename>
+  <lastupdated>1423916314</lastupdated>
+  <seasonid>514622</seasonid>
+  <seriesid>176941</seriesid>
+  <thumb_added>2014-01-10 08:21:54</thumb_added>
+  <thumb_height>225</thumb_height>
+  <thumb_width>400</thumb_width>
+</Episode>
+</Data>
